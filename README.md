@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [Backstage in Production: Considerations for Platform Teams]()
+  - [thenewstack](https://thenewstack.io/backstage-in-production-considerations-for-platform-teams/)
+
 - [ ] [How Spotify Achieved a Voluntary 99% Internal Platform Adoption Rate]()
   - [thenewstack](https://thenewstack.io/how-spotify-achieved-a-voluntary-99-internal-platform-adoption-rate/)
 
