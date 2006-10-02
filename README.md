@@ -4,6 +4,9 @@
 
 ### WebAssembly
 
+- [ ] [The 6 Pillars of Platform Engineering: Part 2 — CI/CD & VCS Pipeline]()
+  - [thenewstack](https://thenewstack.io/the-6-pillars-of-platform-engineering-part-2-ci-cd-vcs-pipeline/)
+
 - [ ] [CloudBees Scales Jenkins, Redefines DevSecOps]()
   - [thenewstack](https://thenewstack.io/cloudbees-scales-jenkins-redefines-devsecops/)
 
