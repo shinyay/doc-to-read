@@ -1,6 +1,7 @@
 # Docs to READ
 
-- [x] [Complexity is killing software developers](https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html)
+- [x] [Complexity is killing software developers](pdf/2021-11-01-infoworld.pdf)
+  - [link](https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html)
 
 ## Description
 
