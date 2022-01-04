@@ -3,28 +3,8 @@
 - [x] [Complexity is killing software developers](pdf/2021-11-01-infoworld.pdf)
   - [link](https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html)
 
-## Description
-
-## Demo
-
-## Features
-
-- feature:1
-- feature:2
-
-## Requirement
-
-## Usage
-
-## Installation
-
-## References
-
-## Licence
-
-Released under the [MIT license](https://gist.githubusercontent.com/shinyay/56e54ee4c0e22db8211e05e70a63247e/raw/34c6fdd50d54aa8e23560c296424aeb61599aa71/LICENSE)
-
 ## Author
 
 [shinyay](https://github.com/shinyay)
-- twitter: https://twitter.com/yanashin18618
+
+- twitter: <https://twitter.com/yanashin18618>
