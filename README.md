@@ -5,6 +5,9 @@
 - [x] [App Modernization: Why ‘Lift and Shift’ Isn’t Good Enough](pdf/2021-12-08-thenewstack.pdf)
   - [The New Stack](https://thenewstack.io/app-modernization-why-lift-and-shift-isnt-good-enough/)
   > For instance, less than half of participants in a 2020 survey by Harvard Business Review said their cloud strategy has been effective in terms of IT management, customer experience, and innovation. That failure rate is because many IT organizations just lift and shift — simply re-host to the cloud — to meet artificial deadlines.
+  
+  <details>
+  <summary> 7Rs </summary>
 
   > 1. Retain
   >  - There will be data that can’t be moved, or mainframe modernization that can be postponed.
@@ -26,6 +29,7 @@
 
   > 7. Retire.
   > - Deprecate the application.
+  </details>
 
   > app modernization is a journey, not a destination.
 
