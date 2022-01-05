@@ -52,6 +52,8 @@
 
   > The cloud-native era has ushered in the potential for more accidental complexity than ever before
 
+  > The complexity inherent to a huge catalog of available services can become, in certain settings, less a strength than a liability.
+
 ## Author
 
 [shinyay](https://github.com/shinyay)
