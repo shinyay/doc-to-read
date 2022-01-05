@@ -54,6 +54,8 @@
 
   > The complexity inherent to a huge catalog of available services can become, in certain settings, less a strength than a liability.
 
+  > The key to a good internal developer platform then is finding that balance between self-service for developers who want to get on with the job at hand and abstracting the tasks that are the least valuable, without making developers feel restricted
+
 ## Author
 
 [shinyay](https://github.com/shinyay)
