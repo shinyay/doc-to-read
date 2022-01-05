@@ -44,6 +44,11 @@
 
 - [x] [Complexity is killing software developers](pdf/2021-11-01-infoworld.pdf)
   - [InfoWorld](https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html)
+  > Cloud Native Application marks a clear jump in the level of complexity of our software.
+
+  > Amazon CTO Werner Vogels said during the AWS Summit in 2019. “Was it easier in the days when everything was in a monolith? Yes, for some parts definitely.”
+
+  > Essential is the complexity in the business domain you are working in, the fact that enterprises are extremely complicated environments, so the problems they are trying to solve are inherently complex. The other area is accidental; this is the complexity that comes with our tooling and what we layer on top when solving a problem.
 
 ## Author
 
