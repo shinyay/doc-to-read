@@ -50,6 +50,8 @@
 
   > Essential is the complexity in the business domain you are working in, the fact that enterprises are extremely complicated environments, so the problems they are trying to solve are inherently complex. The other area is accidental; this is the complexity that comes with our tooling and what we layer on top when solving a problem.
 
+  > The cloud-native era has ushered in the potential for more accidental complexity than ever before
+
 ## Author
 
 [shinyay](https://github.com/shinyay)
