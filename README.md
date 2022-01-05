@@ -58,6 +58,7 @@
 
   > The idea behind having golden paths is not to limit or stifle engineers, or set standards for the sake of it. With golden paths in place, teams don’t have to reinvent the wheel, have fewer decisions to make, and can use their productivity and creativity for higher objectives. They can get back to moving fast
 
+  > Complexity is less the issue than inconsistency in an environment by Craig McLuckie
 ## Author
 
 [shinyay](https://github.com/shinyay)
