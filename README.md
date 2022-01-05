@@ -2,6 +2,9 @@
 
 ## 2022-01
 
+- [What is cloud-native? The modern way to develop software]()
+  - [InforWorld](https://www.infoworld.com/article/3281046/what-is-cloud-native-the-modern-way-to-develop-software.html)
+
 ## 2021-12
 
 - [x] [App Modernization: Why ‘Lift and Shift’ Isn’t Good Enough](pdf/2021-12-08-thenewstack.pdf)
