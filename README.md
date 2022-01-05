@@ -1,5 +1,7 @@
 # Docs to READ
 
+## 2022-01
+
 ## 2021-12
 
 - [x] [App Modernization: Why ‘Lift and Shift’ Isn’t Good Enough](pdf/2021-12-08-thenewstack.pdf)
