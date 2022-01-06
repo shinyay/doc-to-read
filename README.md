@@ -9,7 +9,7 @@
   > The Cloud Native Computing Foundation (CNCF) defines cloud-native a little more narrowly, focusing on application containerization
 
   > 1. The application definition and development layer
-  > The top layer of the cloud-native stack focuses on the tools used by developers to build applications
+  > - The top layer of the cloud-native stack focuses on the tools used by developers to build applications
 
 - [] [What is cloud-native? The modern way to develop software](pdf/2021-08-17-infoworld.pdf)
   - [InforWorld](https://www.infoworld.com/article/3281046/what-is-cloud-native-the-modern-way-to-develop-software.html)
