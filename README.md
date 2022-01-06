@@ -2,10 +2,11 @@
 
 ## 2022-01
 
--[] [What is cloud-native? The modern way to develop software](pdf/2021-08-17-infoworld.pdf)
+- [] [What is cloud-native? The modern way to develop software](pdf/2021-08-17-infoworld.pdf)
   - [InforWorld](https://www.infoworld.com/article/3281046/what-is-cloud-native-the-modern-way-to-develop-software.html)
 
-
+- [] [Securing the Kubernetes software supply chain]()
+  - [InforWorld](https://www.infoworld.com/article/3644808/securing-the-kubernetes-software-supply-chain.html)
 
 ## 2021-12
 
