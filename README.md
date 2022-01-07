@@ -16,6 +16,8 @@ As DevOps practices improve, DevSecOps naturally follows.
 
 > It is possible to achieve speed without sacrificing security. It starts by rethinking how security fits into your delivery workflow.
 
+> The more security is woven into the best practices of everyone’s job, the easier it is to maintain your desired deployment velocity as well as ensure solid security practices. DevOps helps achieve the balance.
+
 > I often hear people say they want a product for DevOps. But is it possible to achieve consistent DevOps with just a product?
 Software development in organizations consists of a variety of requirements. Therefore, a DevOps approach that is adapted to each company is necessary.
 
