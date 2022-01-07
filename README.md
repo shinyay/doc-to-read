@@ -26,7 +26,11 @@ Software development in organizations consists of a variety of requirements. The
   > - The top layer of the cloud-native stack focuses on the tools used by developers to build applications
 
   > 2. The provisioning layer
-  > - The provisioning layer of the cloud-native stack includes anything required to build and secure the environment where an application will run, ideally in a repeatable fashion.
+  > - The provisioning layer of the cloud-native stack includes anything required to build and secure the environment where an application will run, ideally in a repeatable fashion
+
+  > 3. The runtime layer
+  > -  The runtime layer concerns anything associated with the running of a cloud-native application
+
 ## 2021-12
 
 - [x] [App Modernization: Why ‘Lift and Shift’ Isn’t Good Enough](pdf/2021-12-08-thenewstack.pdf)
