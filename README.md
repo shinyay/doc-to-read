@@ -34,6 +34,14 @@ Software development in organizations consists of a variety of requirements. The
   > 4. The orchestration and management layer
   > - The orchestration and management layer brings together the tools required to deploy, manage, and scale containerized applications, including orchestration and scheduling
 
+  > Key differences between Clound Native apps and traditional apps
+  > - Updatability
+  > - Elasticity
+  > - Mulititenancy
+  > - Downtime
+  > - Automation
+  > - Stateless
+
 ## 2021-12
 
 - [x] [App Modernization: Why ‘Lift and Shift’ Isn’t Good Enough](pdf/2021-12-08-thenewstack.pdf)
