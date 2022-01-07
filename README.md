@@ -15,6 +15,9 @@ Software development in organizations consists of a variety of requirements. The
 
 - [] [Securing the Kubernetes software supply chain](pdf/2021-12-15-infoworld.pdf)
   - [InforWorld](https://www.infoworld.com/article/3644808/securing-the-kubernetes-software-supply-chain.html)
+
+- [] [What is cloud-native? The modern way to develop software](pdf/2021-08-17-infoworld.pdf)
+  - [InforWorld](https://www.infoworld.com/article/3281046/what-is-cloud-native-the-modern-way-to-develop-software.html)
   > Cloud-native is a modern approach to building and running software applications that exploits the flexibility, scalability, and resilience of cloud computing.
 
   > The Cloud Native Computing Foundation (CNCF) defines cloud-native a little more narrowly, focusing on application containerization
@@ -22,9 +25,8 @@ Software development in organizations consists of a variety of requirements. The
   > 1. The application definition and development layer
   > - The top layer of the cloud-native stack focuses on the tools used by developers to build applications
 
-- [] [What is cloud-native? The modern way to develop software](pdf/2021-08-17-infoworld.pdf)
-  - [InforWorld](https://www.infoworld.com/article/3281046/what-is-cloud-native-the-modern-way-to-develop-software.html)
-
+  > 2. The provisioning layer
+  > - The provisioning layer of the cloud-native stack includes anything required to build and secure the environment where an application will run, ideally in a repeatable fashion.
 ## 2021-12
 
 - [x] [App Modernization: Why ‘Lift and Shift’ Isn’t Good Enough](pdf/2021-12-08-thenewstack.pdf)
