@@ -14,6 +14,8 @@
 > DevOps isn't just about the speed and agility of software development and delivery. It's also about good security practices.
 As DevOps practices improve, DevSecOps naturally follows.
 
+> It is possible to achieve speed without sacrificing security. It starts by rethinking how security fits into your delivery workflow.
+
 > I often hear people say they want a product for DevOps. But is it possible to achieve consistent DevOps with just a product?
 Software development in organizations consists of a variety of requirements. Therefore, a DevOps approach that is adapted to each company is necessary.
 
