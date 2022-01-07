@@ -31,6 +31,9 @@ Software development in organizations consists of a variety of requirements. The
   > 3. The runtime layer
   > -  The runtime layer concerns anything associated with the running of a cloud-native application
 
+  > 4. The orchestration and management layer
+  > - The orchestration and management layer brings together the tools required to deploy, manage, and scale containerized applications, including orchestration and scheduling
+
 ## 2021-12
 
 - [x] [App Modernization: Why ‘Lift and Shift’ Isn’t Good Enough](pdf/2021-12-08-thenewstack.pdf)
