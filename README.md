@@ -2,6 +2,17 @@
 
 ## 2022-01
 
+- [x] [What don't people understand about DevOps (yet)?](https://www.protocol.com/braintrust/what-people-misunderstand-about-devops)
+> Companies that understand DevOps tend not to use the term “DevOps” at all, nor do they have any "DevOps engineers”.
+
+> DevOps isn't just about the speed and agility of software development and delivery. It's also about good security practices.
+As DevOps practices improve, DevSecOps naturally follows.
+
+> I often hear people say they want a product for DevOps. But is it possible to achieve consistent DevOps with just a product?
+Software development in organizations consists of a variety of requirements. Therefore, a DevOps approach that is adapted to each company is necessary.
+
+> It is a mistake to think that you can just buy a certain technology and immediately achieve DevOps. DevOps is first and foremost a culture and a way of working. Organizations need to move from a tool-first mindset to a team-first mindset.
+
 - [] [Securing the Kubernetes software supply chain](pdf/2021-12-15-infoworld.pdf)
   - [InforWorld](https://www.infoworld.com/article/3644808/securing-the-kubernetes-software-supply-chain.html)
   > Cloud-native is a modern approach to building and running software applications that exploits the flexibility, scalability, and resilience of cloud computing.
@@ -73,6 +84,7 @@
   > The idea behind having golden paths is not to limit or stifle engineers, or set standards for the sake of it. With golden paths in place, teams don’t have to reinvent the wheel, have fewer decisions to make, and can use their productivity and creativity for higher objectives. They can get back to moving fast
 
   > Complexity is less the issue than inconsistency in an environment by Craig McLuckie
+
 ## Author
 
 [shinyay](https://github.com/shinyay)
