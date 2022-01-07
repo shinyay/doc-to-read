@@ -7,6 +7,8 @@
 
 > DevOps isn't a role. It's a culture.
 
+> Companies that genuinely understand DevOps understand it's not a siloed team or function, but instead a new way of doing business that brings with it a new culture, new processes, embedded SREs, a hyper-focus on automation across the board, a service-based architecture, specific SLOs and an associated budget.
+
 > DevOps shouldn't be one person's concern. It should be an integrated part of your engineering culture to have the most significant impact.
 
 > DevOps isn't just about the speed and agility of software development and delivery. It's also about good security practices.
@@ -37,6 +39,8 @@ Software development in organizations consists of a variety of requirements. The
 
   > 4. The orchestration and management layer
   > - The orchestration and management layer brings together the tools required to deploy, manage, and scale containerized applications, including orchestration and scheduling
+
+  > (v.) Observability
 
   > Key differences between Clound Native apps and traditional apps
   > - Updatability
