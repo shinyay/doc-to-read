@@ -5,6 +5,8 @@
 - [x] [What don't people understand about DevOps (yet)?](https://www.protocol.com/braintrust/what-people-misunderstand-about-devops)
 > Companies that understand DevOps tend not to use the term “DevOps” at all, nor do they have any "DevOps engineers”.
 
+> DevOps isn't a role. It's a culture.
+
 > DevOps isn't just about the speed and agility of software development and delivery. It's also about good security practices.
 As DevOps practices improve, DevSecOps naturally follows.
 
@@ -33,6 +35,14 @@ Software development in organizations consists of a variety of requirements. The
 
   > 4. The orchestration and management layer
   > - The orchestration and management layer brings together the tools required to deploy, manage, and scale containerized applications, including orchestration and scheduling
+
+  > Key differences between Clound Native apps and traditional apps
+  > - Updatability
+  > - Elasticity
+  > - Mulititenancy
+  > - Downtime
+  > - Automation
+  > - Stateless
 
 ## 2021-12
 
