@@ -31,6 +31,10 @@ Software development in organizations consists of a variety of requirements. The
 
 - [] [What is cloud-native? The modern way to develop software](pdf/2021-08-17-infoworld.pdf)
   - [InforWorld](https://www.infoworld.com/article/3281046/what-is-cloud-native-the-modern-way-to-develop-software.html)
+
+  <details>
+  <summary>TL;DR</summary>
+
   > Cloud-native is a modern approach to building and running software applications that exploits the flexibility, scalability, and resilience of cloud computing.
 
   > The Cloud Native Computing Foundation (CNCF) defines cloud-native a little more narrowly, focusing on application containerization
@@ -56,6 +60,8 @@ Software development in organizations consists of a variety of requirements. The
   > - Downtime
   > - Automation
   > - Stateless
+
+  </details>
 
 ## 2021-12
 
