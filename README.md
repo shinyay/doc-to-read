@@ -6,6 +6,10 @@
   - [WSJ](https://www.wsj.com/articles/SB10001424053111903480904576512250915629460)
 
 - [x] [What don't people understand about DevOps (yet)?](https://www.protocol.com/braintrust/what-people-misunderstand-about-devops)
+
+<details>
+<summary>TL;DR</summary>
+
 > Companies that understand DevOps tend not to use the term “DevOps” at all, nor do they have any "DevOps engineers”.
 
 > DevOps isn't a role. It's a culture.
@@ -25,6 +29,8 @@ As DevOps practices improve, DevSecOps naturally follows.
 Software development in organizations consists of a variety of requirements. Therefore, a DevOps approach that is adapted to each company is necessary.
 
 > It is a mistake to think that you can just buy a certain technology and immediately achieve DevOps. DevOps is first and foremost a culture and a way of working. Organizations need to move from a tool-first mindset to a team-first mindset.
+
+</details>
 
 - [] [Securing the Kubernetes software supply chain](pdf/2021-12-15-infoworld.pdf)
   - [InforWorld](https://www.infoworld.com/article/3644808/securing-the-kubernetes-software-supply-chain.html)
