@@ -5,7 +5,7 @@
 - [x] [Why Software Is Eating The World](pdf/2011-08-20-wsj.pdf)
   - [WSJ](https://www.wsj.com/articles/SB10001424053111903480904576512250915629460)
 
-- [] [Software is Eating the World, Revisited]()
+- [] [Software is Eating the World, Revisited](pdf.2021-08-09-blog.pdf)
   - [Blog](https://eriktorenberg.substack.com/p/software-is-eating-the-world-revisited)
 
 
