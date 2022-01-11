@@ -2,7 +2,7 @@
 
 ## 2022-01
 
-- [x] [Why Software Is Eating The World]()
+- [x] [Why Software Is Eating The World](pdf/2011-08-20-wsj.pdf)
   - [WSJ](https://www.wsj.com/articles/SB10001424053111903480904576512250915629460)
 
 - [x] [What don't people understand about DevOps (yet)?](https://www.protocol.com/braintrust/what-people-misunderstand-about-devops)
