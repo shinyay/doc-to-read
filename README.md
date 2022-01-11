@@ -29,7 +29,7 @@ Software development in organizations consists of a variety of requirements. The
 - [] [Securing the Kubernetes software supply chain](pdf/2021-12-15-infoworld.pdf)
   - [InforWorld](https://www.infoworld.com/article/3644808/securing-the-kubernetes-software-supply-chain.html)
 
-- [] [What is cloud-native? The modern way to develop software](pdf/2021-08-17-infoworld.pdf)
+- [x] [What is cloud-native? The modern way to develop software](pdf/2021-08-17-infoworld.pdf)
   - [InforWorld](https://www.infoworld.com/article/3281046/what-is-cloud-native-the-modern-way-to-develop-software.html)
 
   <details>
