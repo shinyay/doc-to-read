@@ -8,7 +8,7 @@
 - [] [Software is Eating the World, Revisited](pdf.2021-08-09-blog.pdf)
   - [Blog](https://eriktorenberg.substack.com/p/software-is-eating-the-world-revisited)
 
-- [] [Reflecting on Marc Andreessen’s ‘Software is Eating the World’]()
+- [] [Reflecting on Marc Andreessen’s ‘Software is Eating the World’](pdf/2021-08-20-blog.pdf)
   - [Blog](https://blogs.cisco.com/developer/softwareeatingworld01)
 
 - [x] [What don't people understand about DevOps (yet)?](https://www.protocol.com/braintrust/what-people-misunderstand-about-devops)
