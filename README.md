@@ -25,6 +25,9 @@
 > Uber doesn’t own their cars. They also don’t directly employ their own drivers.
 > The core application and ecosystem around the Uber experience is their primary asset and differentiator.
 
+> Focusing on your core when it comes to technology makes it easier to focus on your end-customer experience — and that’s what makes a great software company.
+
+
 - [x] [What don't people understand about DevOps (yet)?](https://www.protocol.com/braintrust/what-people-misunderstand-about-devops)
 
 <details>
