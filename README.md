@@ -20,6 +20,11 @@
 
 > For a traditional industrial or service company, making the transition to acting like a software company is a massive undertaking. You need to hire new people in every part of your organization; restructure around different economics; overhaul infrastructure.
 
+> Focus on your core
+> As Steve Jobs once famously said, “Deciding what not to do is just as important as deciding what to do.”
+> Uber doesn’t own their cars. They also don’t directly employ their own drivers.
+> The core application and ecosystem around the Uber experience is their primary asset and differentiator.
+
 - [x] [What don't people understand about DevOps (yet)?](https://www.protocol.com/braintrust/what-people-misunderstand-about-devops)
 
 <details>
