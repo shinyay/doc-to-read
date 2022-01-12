@@ -5,10 +5,10 @@
 - [x] [Why Software Is Eating The World](pdf/2011-08-20-wsj.pdf)
   - [WSJ](https://www.wsj.com/articles/SB10001424053111903480904576512250915629460)
 
-- [] [Software is Eating the World, Revisited](pdf.2021-08-09-blog.pdf)
+- [ ] [Software is Eating the World, Revisited](pdf.2021-08-09-blog.pdf)
   - [Blog](https://eriktorenberg.substack.com/p/software-is-eating-the-world-revisited)
 
-- [] [Reflecting on Marc Andreessen’s ‘Software is Eating the World’](pdf/2021-08-20-blog.pdf)
+- [ ] [Reflecting on Marc Andreessen’s ‘Software is Eating the World’](pdf/2021-08-20-blog.pdf)
   - [Blog](https://blogs.cisco.com/developer/softwareeatingworld01)
 
 - [ ] [Software is still eating the world]()
@@ -41,7 +41,7 @@ Software development in organizations consists of a variety of requirements. The
 
 </details>
 
-- [] [Securing the Kubernetes software supply chain](pdf/2021-12-15-infoworld.pdf)
+- [ ] [Securing the Kubernetes software supply chain](pdf/2021-12-15-infoworld.pdf)
   - [InforWorld](https://www.infoworld.com/article/3644808/securing-the-kubernetes-software-supply-chain.html)
 
 - [x] [What is cloud-native? The modern way to develop software](pdf/2021-08-17-infoworld.pdf)
