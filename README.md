@@ -18,6 +18,8 @@
 
 > “Six decades into the computer revolution, four decades since the invention of the microprocessor, and two decades into the rise of the modern Internet, all of the technology required to transform industries through software finally works and can be widely delivered at global scale.”
 
+> For a traditional industrial or service company, making the transition to acting like a software company is a massive undertaking. You need to hire new people in every part of your organization; restructure around different economics; overhaul infrastructure.
+
 - [x] [What don't people understand about DevOps (yet)?](https://www.protocol.com/braintrust/what-people-misunderstand-about-devops)
 
 <details>
