@@ -14,6 +14,9 @@
 - [x] [Software is still eating the world](pdf/2016-06-08-tc.pdf)
   - [tc](https://techcrunch.com/2016/06/07/software-is-eating-the-world-5-years-later/)
 
+<details>
+<summary>TL;DR</summary>
+
 > Today, the idea that “every company needs to become a software company” is considered almost a cliché.
 
 > “Six decades into the computer revolution, four decades since the invention of the microprocessor, and two decades into the rise of the modern Internet, all of the technology required to transform industries through software finally works and can be widely delivered at global scale.”
@@ -27,6 +30,7 @@
 
 > Focusing on your core when it comes to technology makes it easier to focus on your end-customer experience — and that’s what makes a great software company.
 
+</details>
 
 - [x] [What don't people understand about DevOps (yet)?](https://www.protocol.com/braintrust/what-people-misunderstand-about-devops)
 
