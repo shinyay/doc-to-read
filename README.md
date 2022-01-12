@@ -16,6 +16,8 @@
 
 > Today, the idea that “every company needs to become a software company” is considered almost a cliché.
 
+> “Six decades into the computer revolution, four decades since the invention of the microprocessor, and two decades into the rise of the modern Internet, all of the technology required to transform industries through software finally works and can be widely delivered at global scale.”
+
 - [x] [What don't people understand about DevOps (yet)?](https://www.protocol.com/braintrust/what-people-misunderstand-about-devops)
 
 <details>
