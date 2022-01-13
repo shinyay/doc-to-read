@@ -5,7 +5,7 @@
 - [ ] [VMware eases app modernization with official launch of Tanzu Application Platform](pdf/2022-01-11-silicon.pdf)
   - [silicon](https://siliconangle.com/2022/01/11/vmware-eases-app-modernization-official-launch-tanzu-application-platform/)
 
-- [ ] [VMware Tanzu Targets Skills Gap, Shifts Security Left](pdf/2022-01-11-sdx.pdf)
+- [x] [VMware Tanzu Targets Skills Gap, Shifts Security Left](pdf/2022-01-11-sdx.pdf)
   - [sdx](https://www.sdxcentral.com/articles/news/vmware-tanzu-targets-skills-gap-shifts-security-left/2022/01/)
 
 > Kubernetes is not a developer platform
