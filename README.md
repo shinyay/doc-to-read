@@ -10,6 +10,8 @@
 
 > Kubernetes is not a developer platform
 
+> As we talked to many enterprise customers, there has been a clear [developer experience] gap
+
 - [x] [Why Software Is Eating The World](pdf/2011-08-20-wsj.pdf)
   - [WSJ](https://www.wsj.com/articles/SB10001424053111903480904576512250915629460)
 
