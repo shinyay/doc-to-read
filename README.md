@@ -8,6 +8,8 @@
 - [ ] [VMware Tanzu Targets Skills Gap, Shifts Security Left](pdf/2022-01-11-sdx.pdf)
   - [sdx](https://www.sdxcentral.com/articles/news/vmware-tanzu-targets-skills-gap-shifts-security-left/2022/01/)
 
+> Kubernetes is not a developer platform
+
 - [x] [Why Software Is Eating The World](pdf/2011-08-20-wsj.pdf)
   - [WSJ](https://www.wsj.com/articles/SB10001424053111903480904576512250915629460)
 
