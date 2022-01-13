@@ -12,6 +12,8 @@
 
 > As we talked to many enterprise customers, there has been a clear [developer experience] gap
 
+> Tanzu Application Platform aims to minimize the challenge of navigating Kubernetes to boost developer productivity.
+
 - [x] [Why Software Is Eating The World](pdf/2011-08-20-wsj.pdf)
   - [WSJ](https://www.wsj.com/articles/SB10001424053111903480904576512250915629460)
 
