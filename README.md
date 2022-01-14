@@ -2,7 +2,7 @@
 
 ## 2022-01
 
-- [ ] [What Is DevOps? A Comprehensive Introduction]()
+- [ ] [What Is DevOps? A Comprehensive Introduction](pdf/2021-04-16-bmc.pdf)
   - [bmc](https://www.bmc.com/blogs/devops-basics-introduction/)
 
 - [x] [SRE vs DevOps: What’s The Difference?](pdf/pdf/2021-08-26-bmc.pdf)
