@@ -2,7 +2,7 @@
 
 ## 2022-01
 
-- [x] [SRE vs DevOps: What’s The Difference?]()
+- [x] [SRE vs DevOps: What’s The Difference?](pdf/pdf/2021-08-26-bmc.pdf)
   - [bmc](https://www.bmc.com/blogs/sre-vs-devops/)
 
 - [x] [Accelerate State of DevOps Report: The Move to Multi-Cloud](pdf/2021-09-21-devops.pdf)
