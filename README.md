@@ -6,6 +6,10 @@
   - [devops](https://devops.com/accelerate-state-of-devops-report-the-move-to-multi-cloud/)
 
   > [2021 Accelerate State of DevOps Report](https://cloud.google.com/devops/state-of-devops/)
+  > - 973x :more frequent code deployments
+  > - 6570x:faster lead time from commit to deploy
+  > - 3x   :lower change failure rate (changes are 1/3 less likely to fail)
+  > - 6570x:faster time to recover from incidents
 
 - [ ] [VMware eases app modernization with official launch of Tanzu Application Platform](pdf/2022-01-11-silicon.pdf)
   - [silicon](https://siliconangle.com/2022/01/11/vmware-eases-app-modernization-official-launch-tanzu-application-platform/)
