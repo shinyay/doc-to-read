@@ -169,7 +169,11 @@ Software development in organizations consists of a variety of requirements. The
 
 - [x] [Complexity is killing software developers](pdf/2021-11-01-infoworld.pdf)
   - [InfoWorld](https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html)
-  > Cloud Native Application marks a clear jump in the level of complexity of our software.
+
+<details>
+<summary>TL;DR</summary>
+
+> Cloud Native Application marks a clear jump in the level of complexity of our software.
 
   > Amazon CTO Werner Vogels said during the AWS Summit in 2019. “Was it easier in the days when everything was in a monolith? Yes, for some parts definitely.”
 
@@ -184,6 +188,8 @@ Software development in organizations consists of a variety of requirements. The
   > The idea behind having golden paths is not to limit or stifle engineers, or set standards for the sake of it. With golden paths in place, teams don’t have to reinvent the wheel, have fewer decisions to make, and can use their productivity and creativity for higher objectives. They can get back to moving fast
 
   > Complexity is less the issue than inconsistency in an environment by Craig McLuckie
+
+</details>
 
 ## Author
 
