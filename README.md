@@ -5,6 +5,9 @@
 - [x] [2021 Global DevSecOps Survey](https://about.gitlab.com/images/developer-survey/gitlab-devsecops-2021-survey-results.pdf)
   - [gitlab](https://about.gitlab.com/developer-survey/)
 
+  > A full 72% of security pros rated their organizations’ security efforts as either “strong” or “good.”
+
+  > 
 
 - [ ] [DoD Enterprise DevSecOps Documents](https://software.af.mil/dsop/documents/)
 
