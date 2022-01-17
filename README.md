@@ -2,6 +2,8 @@
 
 ## 2022-01
 
+- [x] [2021 Global DevSecOps Survey](https://about.gitlab.com/developer-survey/)
+
 - [ ] [DoD Enterprise DevSecOps Documents](https://software.af.mil/dsop/documents/)
 
 - [ ] [What Is DevOps? A Comprehensive Introduction](pdf/2021-04-16-bmc.pdf)
