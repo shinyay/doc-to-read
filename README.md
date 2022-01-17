@@ -7,7 +7,7 @@
 
   > A full 72% of security pros rated their organizations’ security efforts as either “strong” or “good.”
 
-  > 
+  > The shift left continues: DevSecOps teams are running more DAST, SAST, container, and dependency scans than ever before.
 
 - [ ] [DoD Enterprise DevSecOps Documents](https://software.af.mil/dsop/documents/)
 
