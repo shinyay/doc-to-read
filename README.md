@@ -2,6 +2,8 @@
 
 ## 2022-01
 
+- [] [DoD Enterprise DevSecOps Documents](https://software.af.mil/dsop/documents/)
+
 - [ ] [What Is DevOps? A Comprehensive Introduction](pdf/2021-04-16-bmc.pdf)
   - [bmc](https://www.bmc.com/blogs/devops-basics-introduction/)
 
