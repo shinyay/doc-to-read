@@ -7,6 +7,11 @@
 
 - [x] [SRE vs DevOps: What’s The Difference?](pdf/pdf/2021-08-26-bmc.pdf)
   - [bmc](https://www.bmc.com/blogs/sre-vs-devops/)
+> SRE and DevOps are often referred as two sides of the same coin, with SRE tooling and techniques complementing DevOps philosophies and practices.
+
+> - Disaster response
+> - Capacity planning
+> - Monitoring
 
 - [x] [Accelerate State of DevOps Report: The Move to Multi-Cloud](pdf/2021-09-21-devops.pdf)
   - [devops](https://devops.com/accelerate-state-of-devops-report-the-move-to-multi-cloud/)
