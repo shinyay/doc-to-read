@@ -2,7 +2,7 @@
 
 ## 2022-01
 
-- [ ] [DevOps tech: Shifting left on security]()
+- [ ] [DevOps tech: Shifting left on security](pdf/2022-01-19-google.pdf)
   - [google](https://cloud.google.com/architecture/devops/devops-tech-shifting-left-on-security)
 
 - [ ] [Shifting left on security](https://cloud.google.com/files/shifting-left-on-security.pdf)
