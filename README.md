@@ -2,6 +2,8 @@
 
 ## 2022-01
 
+- [ ] [Shifting left on security](https://cloud.google.com/files/shifting-left-on-security.pdf)
+
 - [ ] [Kubernetes needs a developer platform](pdf/2022-01-04-blog.pdf)
   - [blog](https://odedia.org/kubernetes-needs-a-developer-platform)
 
