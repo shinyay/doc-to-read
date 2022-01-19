@@ -2,7 +2,7 @@
 
 ## 2022-01
 
-- [] [VMware Project Cascade: The Future of VMware]()
+- [ ] [VMware Project Cascade: The Future of VMware](pdf/2021-10-18-blog.pdf)
   - [blog](https://pivotnine.com/2021/10/18/vmware-project-cascade-the-future-of-vmware/)
 
 - [ ] [DevOps tech: Shifting left on security](pdf/2022-01-19-google.pdf)
