@@ -2,7 +2,7 @@
 
 ## 2022-01
 
-- [x] [Kubernetes needs a developer platform]()
+- [x] [Kubernetes needs a developer platform](pdf/2022-01-04-blog.pdf)
   - [blog](https://odedia.org/kubernetes-needs-a-developer-platform)
 
 - [x] [2021 Global DevSecOps Survey](https://about.gitlab.com/images/developer-survey/gitlab-devsecops-2021-survey-results.pdf)
