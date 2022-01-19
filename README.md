@@ -2,6 +2,9 @@
 
 ## 2022-01
 
+- [ ] [DevOps tech: Shifting left on security]()
+  - [google](https://cloud.google.com/architecture/devops/devops-tech-shifting-left-on-security)
+
 - [ ] [Shifting left on security](https://cloud.google.com/files/shifting-left-on-security.pdf)
 
 - [ ] [Kubernetes needs a developer platform](pdf/2022-01-04-blog.pdf)
