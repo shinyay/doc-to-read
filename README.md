@@ -2,6 +2,9 @@
 
 ## 2022-01
 
+- [ ] [VMware Multi-Cloud Architecture: Enabling Choice and Flexibility]()
+  - [vmware](https://www.vmware.com/learn/693160_REG.html)
+
 - [ ] [VMware Project Cascade: The Future of VMware](pdf/2021-10-18-blog.pdf)
   - [blog](https://pivotnine.com/2021/10/18/vmware-project-cascade-the-future-of-vmware/)
 
