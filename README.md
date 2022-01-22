@@ -2,7 +2,10 @@
 
 ## 2022-01
 
-- [ ] [VMware Multi-Cloud Architecture: Enabling Choice and Flexibility]()
+- [ ] [What Is GitOps]()
+  - [weaveworks](https://www.weave.works/blog/what-is-gitops-really)
+
+- [ ] [VMware Multi-Cloud Architecture: Enabling Choice and Flexibility](pdf/2022-01-20-vmware.pdf)
   - [vmware](https://www.vmware.com/learn/693160_REG.html)
 
 - [ ] [VMware Project Cascade: The Future of VMware](pdf/2021-10-18-blog.pdf)
