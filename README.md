@@ -2,7 +2,7 @@
 
 ## 2022-01
 
-- [ ] [What Is GitOps]()
+- [ ] [What Is GitOps](pdf/2021-06-15-weave.pdf)
   - [weaveworks](https://www.weave.works/blog/what-is-gitops-really)
 
 - [ ] [VMware Multi-Cloud Architecture: Enabling Choice and Flexibility](pdf/2022-01-20-vmware.pdf)
