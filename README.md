@@ -2,6 +2,9 @@
 
 ## 2022-01
 
+- [] [Guide To GitOps]()
+  - [weaveworks](https://www.weave.works/technologies/gitops/)
+
 - [ ] [What Is GitOps](pdf/2021-06-15-weave.pdf)
   - [weaveworks](https://www.weave.works/blog/what-is-gitops-really)
 
