@@ -2,7 +2,7 @@
 
 ## 2022-01
 
-- [ ] [PodSecurityPolicy Deprecation: Past, Present, and Future]()
+- [ ] [PodSecurityPolicy Deprecation: Past, Present, and Future](pdf/2021-04-06-kubernetes.pdf)
   - [kubernetes](https://kubernetes.io/blog/2021/04/06/podsecuritypolicy-deprecation-past-present-and-future/)
 
 - [ ] [Guide To GitOps](pdf/2022-01-24-weave.pdf)
