@@ -2,7 +2,10 @@
 
 ## 2022-01
 
-- [] [Guide To GitOps](pdf/2022-01-24-weave.pdf)
+- [ ] [PodSecurityPolicy Deprecation: Past, Present, and Future]()
+  - [kubernetes](https://kubernetes.io/blog/2021/04/06/podsecuritypolicy-deprecation-past-present-and-future/)
+
+- [ ] [Guide To GitOps](pdf/2022-01-24-weave.pdf)
   - [weaveworks](https://www.weave.works/technologies/gitops/)
 
 - [ ] [What Is GitOps](pdf/2021-06-15-weave.pdf)
