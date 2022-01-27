@@ -2,6 +2,11 @@
 
 ## 2022-01
 
+- [] [Kubernetes Infrastructure: Know the Inner Dev Loop]()
+  - [thenewstack](https://thenewstack.io/kubernetes-infrastructure-know-the-inner-dev-loop/)
+
+- [ ] [Tanzu Application Platform v1.0](https://github.com/shinyay/doc-to-read/files/7939508/tapv1.0.pdf)
+
 - [ ] [PodSecurityPolicy Deprecation: Past, Present, and Future](pdf/2021-04-06-kubernetes.pdf)
   - [kubernetes](https://kubernetes.io/blog/2021/04/06/podsecuritypolicy-deprecation-past-present-and-future/)
 
