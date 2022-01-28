@@ -201,7 +201,7 @@ Software development in organizations consists of a variety of requirements. The
   > app modernization is a journey, not a destination.
 
 
-- [x] [When to Choose Cloud Foundry over Kubernetes](pdf/2021-12-02-thenewstack.pdf)
+- [x] [When to Choose Cloud Foundry over Kubernetes](https://github.com/shinyay/doc-to-read/files/7955057/2021-12-02-thenewstack.pdf)
   - [The New Stack](https://thenewstack.io/when-to-choose-cloud-foundry-over-kubernetes/)
   > While a single Kubernetes cluster might be easier to operate than a single Cloud Foundry, managing 100 Kubernetes clusters is several orders of magnitude harder than managing a single Cloud Foundry. 
 
