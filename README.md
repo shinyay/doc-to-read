@@ -27,7 +27,7 @@
 
 - [ ] [Shifting left on security](https://cloud.google.com/files/shifting-left-on-security.pdf)
 
-- [ ] [Kubernetes needs a developer platform](pdf/2022-01-04-blog.pdf)
+- [ ] [Kubernetes needs a developer platform](https://github.com/shinyay/doc-to-read/files/7955060/2022-01-04-blog.pdf)
   - [blog](https://odedia.org/kubernetes-needs-a-developer-platform)
 
 - [x] [2021 Global DevSecOps Survey](https://about.gitlab.com/images/developer-survey/gitlab-devsecops-2021-survey-results.pdf)
@@ -130,7 +130,7 @@ Software development in organizations consists of a variety of requirements. The
 
 </details>
 
-- [ ] [Securing the Kubernetes software supply chain](pdf/2021-12-15-infoworld.pdf)
+- [ ] [Securing the Kubernetes software supply chain](https://github.com/shinyay/doc-to-read/files/7955059/2021-12-15-infoworld.pdf)
   - [InforWorld](https://www.infoworld.com/article/3644808/securing-the-kubernetes-software-supply-chain.html)
 
 - [x] [What is cloud-native? The modern way to develop software](pdf/2021-08-17-infoworld.pdf)
