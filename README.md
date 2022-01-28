@@ -13,7 +13,7 @@
 - [ ] [Guide To GitOps](https://github.com/shinyay/doc-to-read/files/7955066/2022-01-24-weave.pdf)
   - [weaveworks](https://www.weave.works/technologies/gitops/)
 
-- [ ] [What Is GitOps](pdf/2021-06-15-weave.pdf)
+- [ ] [What Is GitOps](https://github.com/shinyay/doc-to-read/files/7955049/2021-06-15-weave.pdf)
   - [weaveworks](https://www.weave.works/blog/what-is-gitops-really)
 
 - [ ] [VMware Multi-Cloud Architecture: Enabling Choice and Flexibility](https://github.com/shinyay/doc-to-read/files/7955064/2022-01-20-vmware.pdf)
