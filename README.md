@@ -50,7 +50,7 @@
 > - Capacity planning
 > - Monitoring
 
-- [x] [Accelerate State of DevOps Report: The Move to Multi-Cloud](pdf/2021-09-21-devops.pdf)
+- [x] [Accelerate State of DevOps Report: The Move to Multi-Cloud](https://github.com/shinyay/doc-to-read/files/7955054/2021-09-21-devops.pdf)
   - [devops](https://devops.com/accelerate-state-of-devops-report-the-move-to-multi-cloud/)
 
   > - [2021 Accelerate State of DevOps Report](https://cloud.google.com/devops/state-of-devops/)
