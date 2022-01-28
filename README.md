@@ -169,7 +169,7 @@ Software development in organizations consists of a variety of requirements. The
 
 ## 2021-12
 
-- [x] [App Modernization: Why ‘Lift and Shift’ Isn’t Good Enough](pdf/2021-12-08-thenewstack.pdf)
+- [x] [App Modernization: Why ‘Lift and Shift’ Isn’t Good Enough](https://github.com/shinyay/doc-to-read/files/7955058/2021-12-08-thenewstack.pdf)
   - [The New Stack](https://thenewstack.io/app-modernization-why-lift-and-shift-isnt-good-enough/)
   > For instance, less than half of participants in a 2020 survey by Harvard Business Review said their cloud strategy has been effective in terms of IT management, customer experience, and innovation. That failure rate is because many IT organizations just lift and shift — simply re-host to the cloud — to meet artificial deadlines.
   
