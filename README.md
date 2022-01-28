@@ -61,7 +61,7 @@
   > - 3x   :lower change failure rate (changes are 1/3 less likely to fail)
   > - 6570x:faster time to recover from incidents
 
-- [ ] [VMware eases app modernization with official launch of Tanzu Application Platform](pdf/2022-01-11-silicon.pdf)
+- [ ] [VMware eases app modernization with official launch of Tanzu Application Platform](https://github.com/shinyay/doc-to-read/files/7955062/2022-01-11-silicon.pdf)
   - [silicon](https://siliconangle.com/2022/01/11/vmware-eases-app-modernization-official-launch-tanzu-application-platform/)
 
 - [x] [VMware Tanzu Targets Skills Gap, Shifts Security Left](https://github.com/shinyay/doc-to-read/files/7955061/2022-01-11-sdx.pdf)
