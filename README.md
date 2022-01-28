@@ -10,7 +10,7 @@
 - [ ] [PodSecurityPolicy Deprecation: Past, Present, and Future](pdf/2021-04-06-kubernetes.pdf)
   - [kubernetes](https://kubernetes.io/blog/2021/04/06/podsecuritypolicy-deprecation-past-present-and-future/)
 
-- [ ] [Guide To GitOps](pdf/2022-01-24-weave.pdf)
+- [ ] [Guide To GitOps](https://github.com/shinyay/doc-to-read/files/7955066/2022-01-24-weave.pdf)
   - [weaveworks](https://www.weave.works/technologies/gitops/)
 
 - [ ] [What Is GitOps](pdf/2021-06-15-weave.pdf)
@@ -42,7 +42,7 @@
 - [ ] [What Is DevOps? A Comprehensive Introduction](pdf/2021-04-16-bmc.pdf)
   - [bmc](https://www.bmc.com/blogs/devops-basics-introduction/)
 
-- [x] [SRE vs DevOps: What’s The Difference?](pdf/pdf/2021-08-26-bmc.pdf)
+- [x] [SRE vs DevOps: What’s The Difference?](https://github.com/shinyay/doc-to-read/files/7955053/2021-08-26-bmc.pdf)
   - [bmc](https://www.bmc.com/blogs/sre-vs-devops/)
 > SRE and DevOps are often referred as two sides of the same coin, with SRE tooling and techniques complementing DevOps philosophies and practices.
 
@@ -54,7 +54,7 @@
   - [devops](https://devops.com/accelerate-state-of-devops-report-the-move-to-multi-cloud/)
 
   > - [2021 Accelerate State of DevOps Report](https://cloud.google.com/devops/state-of-devops/)
-  > - [pdf](pdf/state-of-devops-2021.pdf)
+  > - [pdf](https://github.com/shinyay/doc-to-read/files/7955067/state-of-devops-2021.pdf)
 
   > - 973x :more frequent code deployments
   > - 6570x:faster lead time from commit to deploy
