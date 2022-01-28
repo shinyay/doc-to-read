@@ -2,7 +2,7 @@
 
 ## 2022-01
 
-- [] [Kubernetes Infrastructure: Know the Inner Dev Loop]()
+- [] [Kubernetes Infrastructure: Know the Inner Dev Loop](https://github.com/shinyay/doc-to-read/files/7955034/2021-03-09-thenewstack.pdf)
   - [thenewstack](https://thenewstack.io/kubernetes-infrastructure-know-the-inner-dev-loop/)
 
 - [ ] [Tanzu Application Platform v1.0](https://github.com/shinyay/doc-to-read/files/7939508/tapv1.0.pdf)
