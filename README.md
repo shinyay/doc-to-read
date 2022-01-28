@@ -209,7 +209,7 @@ Software development in organizations consists of a variety of requirements. The
 
   >Kubernetes can be customized much more than Cloud Foundry and therefore accept workloads that Cloud Foundry couldn’t.
 
-- [x] [Complexity is killing software developers](pdf/2021-11-01-infoworld.pdf)
+- [x] [Complexity is killing software developers](https://github.com/shinyay/doc-to-read/files/7955056/2021-11-01-infoworld.pdf)
   - [InfoWorld](https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html)
 
 <details>
