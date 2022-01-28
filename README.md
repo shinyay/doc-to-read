@@ -76,7 +76,7 @@
 - [x] [Why Software Is Eating The World](https://github.com/shinyay/doc-to-read/files/7955045/2011-08-20-wsj.pdf)
   - [WSJ](https://www.wsj.com/articles/SB10001424053111903480904576512250915629460)
 
-- [ ] [Software is Eating the World, Revisited](pdf.2021-08-09-blog.pdf)
+- [ ] [Software is Eating the World, Revisited](https://github.com/shinyay/doc-to-read/files/7955050/2021-08-09-blog.pdf)
   - [Blog](https://eriktorenberg.substack.com/p/software-is-eating-the-world-revisited)
 
 - [ ] [Reflecting on Marc Andreessen’s ‘Software is Eating the World’](https://github.com/shinyay/doc-to-read/files/7955052/2021-08-20-blog.pdf)
