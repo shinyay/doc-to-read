@@ -19,7 +19,7 @@
 - [ ] [VMware Multi-Cloud Architecture: Enabling Choice and Flexibility](pdf/2022-01-20-vmware.pdf)
   - [vmware](https://www.vmware.com/learn/693160_REG.html)
 
-- [ ] [VMware Project Cascade: The Future of VMware](pdf/2021-10-18-blog.pdf)
+- [ ] [VMware Project Cascade: The Future of VMware](https://github.com/shinyay/doc-to-read/files/7955055/2021-10-18-blog.pdf)
   - [blog](https://pivotnine.com/2021/10/18/vmware-project-cascade-the-future-of-vmware/)
 
 - [ ] [DevOps tech: Shifting left on security](pdf/2022-01-19-google.pdf)
