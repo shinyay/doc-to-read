@@ -79,7 +79,7 @@
 - [ ] [Software is Eating the World, Revisited](pdf.2021-08-09-blog.pdf)
   - [Blog](https://eriktorenberg.substack.com/p/software-is-eating-the-world-revisited)
 
-- [ ] [Reflecting on Marc Andreessen’s ‘Software is Eating the World’](pdf/2021-08-20-blog.pdf)
+- [ ] [Reflecting on Marc Andreessen’s ‘Software is Eating the World’](https://github.com/shinyay/doc-to-read/files/7955052/2021-08-20-blog.pdf)
   - [Blog](https://blogs.cisco.com/developer/softwareeatingworld01)
 
 - [x] [Software is still eating the world](pdf/2016-06-08-tc.pdf)
