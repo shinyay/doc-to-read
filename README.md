@@ -5,6 +5,9 @@
 - [ ] [App Modernization: 5 Tips When Migrating to Kubernetes](https://github.com/shinyay/doc-to-read/files/8000832/2022-01-27-thenewstack.pdf)
   - [thenewstack](https://thenewstack.io/app-modernization-5-tips-when-migrating-to-kubernetes)
 
+  > Treat Your Legacy Apps Like Pets, Not Cattle
+
+
 ## 2022-01
 
 - [ ] [Kubernetes Infrastructure: Know the Inner Dev Loop](https://github.com/shinyay/doc-to-read/files/7955034/2021-03-09-thenewstack.pdf)
