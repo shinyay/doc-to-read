@@ -18,7 +18,7 @@
   > 3. But If You’re Not Ready to Leave Your VMs Behind, There Are Options
   > - Hosting your VM in the cloud, in their original on-premises format and managed by the same hypervisor, 
   > - can be beneficial if there’s a lot of institutional knowledge at your organization related to their use
-  > - you don’t want to give that knowledge up to learn a new system.
+  > - you don’t want to give that knowledge up to learn a new system
 
 ## 2022-01
 
