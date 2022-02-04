@@ -2,7 +2,7 @@
 
 ## 2022-02
 
-- [ ] [App Modernization: 5 Tips When Migrating to Kubernetes](https://github.com/shinyay/doc-to-read/files/8000832/2022-01-27-thenewstack.pdf)
+- [x] [App Modernization: 5 Tips When Migrating to Kubernetes](https://github.com/shinyay/doc-to-read/files/8000832/2022-01-27-thenewstack.pdf)
   - [thenewstack](https://thenewstack.io/app-modernization-5-tips-when-migrating-to-kubernetes)
 
   > 1. Treat Your Legacy Apps Like Pets, Not Cattle
