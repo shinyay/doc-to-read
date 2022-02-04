@@ -5,8 +5,11 @@
 - [ ] [App Modernization: 5 Tips When Migrating to Kubernetes](https://github.com/shinyay/doc-to-read/files/8000832/2022-01-27-thenewstack.pdf)
   - [thenewstack](https://thenewstack.io/app-modernization-5-tips-when-migrating-to-kubernetes)
 
-  > Treat Your Legacy Apps Like Pets, Not Cattle
+  > 1. Treat Your Legacy Apps Like Pets, Not Cattle
 
+  > - Pets are each vitally important, but Cattle are interchangeable.
+
+  > - In the context of a cloud migration, infrastructure managers need to apply this adage in the reverse: Your apps and virtual machines should indeed be treated like pets, not like cattle.
 
 ## 2022-01
 
