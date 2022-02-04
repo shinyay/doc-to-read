@@ -11,6 +11,8 @@
 
   > 2. Don’t Just Lift and Shift — Evolve Your Approach for a Better App
   > - You could simply translate your legacy apps to a cloud-based environment. But what worked on-premises isn’t going to necessarily work in the cloud.
+  > - Decomposing apps: for greater scalability, availability and flexibility
+  > - Automated infrastructure: rapid releases and continuous improvement
 
 ## 2022-01
 
