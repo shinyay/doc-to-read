@@ -2,8 +2,11 @@
 
 ## 2022-02
 
-- [ ] [The History of Pets vs Cattle and How to Use the Analogy Properly](https://github.com/shinyay/doc-to-read/files/8021890/2016-09-29-blog.pdf)
+- [x] [The History of Pets vs Cattle and How to Use the Analogy Properly](https://github.com/shinyay/doc-to-read/files/8021890/2016-09-29-blog.pdf)
   - [blog](http://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle)
+
+  > “scale-up” vs. “scale-out” architectures
+  > pets vs cattle in the context of cloud, and emphasizing the disposability of cattle and the uniqueness of pets
 
 - [x] [App Modernization: 5 Tips When Migrating to Kubernetes](https://github.com/shinyay/doc-to-read/files/8000832/2022-01-27-thenewstack.pdf)
   - [thenewstack](https://thenewstack.io/app-modernization-5-tips-when-migrating-to-kubernetes)
