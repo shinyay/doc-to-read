@@ -14,6 +14,8 @@
   > 1. Treat Your Legacy Apps Like Pets, Not Cattle
   > - Pets are each vitally important, but Cattle are interchangeable.
   > - In the context of a cloud migration, infrastructure managers need to apply this adage in the reverse: Your apps and virtual machines should indeed be treated like pets, not like cattle.
+  > - Pets: Servers or server pairs that are treated as indispensable or unique systems that can never be down. Typically they are manually built, managed, and “hand fed”. Examples include mainframes, solitary servers, HA loadbalancers/firewalls (active/active or active/passive), database systems designed as master/slave (active/passive), and so on.
+  > - Cattle: Arrays of more than two servers, that are built using automated tools, and are designed for failure, where no one, two, or even three servers are irreplaceable. Typically, during failure events no human intervention is required as the array exhibits attributes of “routing around failures” by restarting failed servers or replicating data through strategies like triple replication or erasure coding. Examples include web server arrays, multi-master datastores such as Cassandra clusters, multiple racks of gear put together in clusters, and just about anything that is load-balanced and multi-master.
 
   > 2. Don’t Just Lift and Shift — Evolve Your Approach for a Better App
   > - You could simply translate your legacy apps to a cloud-based environment. But what worked on-premises isn’t going to necessarily work in the cloud.
