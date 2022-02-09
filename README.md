@@ -5,8 +5,8 @@
 - [x] [The History of Pets vs Cattle and How to Use the Analogy Properly](https://github.com/shinyay/doc-to-read/files/8021890/2016-09-29-blog.pdf)
   - [blog](http://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle)
 
-  > “scale-up” vs. “scale-out” architectures
-  > pets vs cattle in the context of cloud, and emphasizing the disposability of cattle and the uniqueness of pets
+  > - “scale-up” vs. “scale-out” architectures
+  > - pets vs cattle in the context of cloud, and emphasizing the disposability of cattle and the uniqueness of pets
   > - Pets: Servers or server pairs that are treated as indispensable or unique systems that can never be down. Typically they are manually built, managed, and “hand fed”. Examples include mainframes, solitary servers, HA loadbalancers/firewalls (active/active or active/passive), database systems designed as master/slave (active/passive), and so on.
   > - Cattle: Arrays of more than two servers, that are built using automated tools, and are designed for failure, where no one, two, or even three servers are irreplaceable. Typically, during failure events no human intervention is required as the array exhibits attributes of “routing around failures” by restarting failed servers or replicating data through strategies like triple replication or erasure coding. Examples include web server arrays, multi-master datastores such as Cassandra clusters, multiple racks of gear put together in clusters, and just about anything that is load-balanced and multi-master.
 
@@ -104,10 +104,10 @@
 - [x] [Why Software Is Eating The World](https://github.com/shinyay/doc-to-read/files/7955045/2011-08-20-wsj.pdf)
   - [WSJ](https://www.wsj.com/articles/SB10001424053111903480904576512250915629460)
 
-- [ ] [Software is Eating the World, Revisited](https://github.com/shinyay/doc-to-read/files/7955050/2021-08-09-blog.pdf)
+- [x] [Software is Eating the World, Revisited](https://github.com/shinyay/doc-to-read/files/7955050/2021-08-09-blog.pdf)
   - [Blog](https://eriktorenberg.substack.com/p/software-is-eating-the-world-revisited)
 
-- [ ] [Reflecting on Marc Andreessen’s ‘Software is Eating the World’](https://github.com/shinyay/doc-to-read/files/7955052/2021-08-20-blog.pdf)
+- [x] [Reflecting on Marc Andreessen’s ‘Software is Eating the World’](https://github.com/shinyay/doc-to-read/files/7955052/2021-08-20-blog.pdf)
   - [Blog](https://blogs.cisco.com/developer/softwareeatingworld01)
 
 - [x] [Software is still eating the world](https://github.com/shinyay/doc-to-read/files/7955046/2016-06-08-tc.pdf)
