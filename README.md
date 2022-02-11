@@ -2,6 +2,9 @@
 
 ## 2022-02
 
+- [ ] [Security: The Value of SBOMs]()
+- [blog](https://fluxcd.io/blog/2022/02/security-the-value-of-sboms/)
+
 - [x] [The History of Pets vs Cattle and How to Use the Analogy Properly](https://github.com/shinyay/doc-to-read/files/8021890/2016-09-29-blog.pdf)
   - [blog](http://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle)
 
