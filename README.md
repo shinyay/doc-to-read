@@ -6,6 +6,7 @@
 - [blog](https://fluxcd.io/blog/2022/02/security-the-value-of-sboms/)
 
   > - Big organizations, corporate or governmental, already keep track of SBOMs and make decisions based on the information provided there. Some started requiring SBOMs for software in-use. A good example of this is the government of the USA requiring SBOM from software suppliers.
+  > - [Executive Order on Improving the Nation’s Cybersecurity](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
 
 
 
