@@ -9,7 +9,10 @@
   > - [Executive Order on Improving the Nation’s Cybersecurity](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
 
   > - Possible use-cases for SBOMs
-
+  > - Security alerts of dependencies will be the most obvious use-case. If a CVE is detected, you can inspect your SBOM and see if the components you are using are in any way affected
+  > - It will be easy to identify when a certain component was created and how. In addition to that, having the licensing information of all the pieces, you better know what you can do with it (redistribute, change, etc)
+  > - Automation allows you to send alerts, if a compliance issue is detected, e.g. if the licensing of updated/replaced dependencies changes
+  > Missing components or required build files. Incompatible licenses and more
 
 - [x] [The History of Pets vs Cattle and How to Use the Analogy Properly](https://github.com/shinyay/doc-to-read/files/8021890/2016-09-29-blog.pdf)
   - [blog](http://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle)
