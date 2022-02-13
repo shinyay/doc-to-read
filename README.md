@@ -8,6 +8,7 @@
   > - Big organizations, corporate or governmental, already keep track of SBOMs and make decisions based on the information provided there. Some started requiring SBOMs for software in-use. A good example of this is the government of the USA requiring SBOM from software suppliers.
   > - [Executive Order on Improving the Nation’s Cybersecurity](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/)
 
+  > - Possible use-cases for SBOMs
 
 
 - [x] [The History of Pets vs Cattle and How to Use the Analogy Properly](https://github.com/shinyay/doc-to-read/files/8021890/2016-09-29-blog.pdf)
