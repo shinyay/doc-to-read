@@ -2,7 +2,7 @@
 
 ## 2022-02
 
-- [ ] [Security: The Value of SBOMs]()
+- [x] [Security: The Value of SBOMs](https://github.com/shinyay/doc-to-read/files/8057219/2022-02-07-blog.pdf)
 - [blog](https://fluxcd.io/blog/2022/02/security-the-value-of-sboms/)
 
   > - Big organizations, corporate or governmental, already keep track of SBOMs and make decisions based on the information provided there. Some started requiring SBOMs for software in-use. A good example of this is the government of the USA requiring SBOM from software suppliers.
