@@ -2,6 +2,8 @@
 
 ## 2022-02
 
+- [x] [The Linux Foundation Releases The State of Software Bill of Materials (SBOM) and Cybersecurity Readiness Research](https://github.com/shinyay/doc-to-read/files/8088877/2022-02-01-lf.pdf)
+
 - [x] [SOFTWARE BILL OF MATERIALS](https://www.cisa.gov/sbom)
 
 - [x] [CISA SBOM-A-RAMA](https://www.cisa.gov/cisa-sbom-rama)
