@@ -5,7 +5,7 @@
 - [x] [The Linux Foundation Releases The State of Software Bill of Materials (SBOM) and Cybersecurity Readiness Research](https://github.com/shinyay/doc-to-read/files/8088877/2022-02-01-lf.pdf)
   - [lf](https://www.linuxfoundation.org/press-release/the-linux-foundation-releases-the-state-of-software-bill-of-materials-sbom-and-cybersecurity-readiness-research/)
   - [The State of Software Bill of Materials and Cybersecurity Readiness report](https://github.com/shinyay/doc-to-read/files/8088880/LFResearch_SBOM_Report_020422.pdf)
-  - [Infographic]((https://github.com/shinyay/doc-to-read/files/8088879/LFResearch_SBOM_Infographic-1.pdf))
+  - [Infographic](https://github.com/shinyay/doc-to-read/files/8088879/LFResearch_SBOM_Infographic-1.pdf)
 
 - [x] [SOFTWARE BILL OF MATERIALS](https://www.cisa.gov/sbom)
 
