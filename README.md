@@ -7,6 +7,10 @@
   - [The State of Software Bill of Materials and Cybersecurity Readiness report](https://github.com/shinyay/doc-to-read/files/8088880/LFResearch_SBOM_Report_020422.pdf)
   - [Infographic](https://github.com/shinyay/doc-to-read/files/8088879/LFResearch_SBOM_Infographic-1.pdf)
 
+  > What is an SBOM
+  > An SBOM is formal and machine-readable metadata that uniquely identifies a software package and its contents.
+  > It may include other information about its contents, including copyrights and license data.
+
 - [x] [SOFTWARE BILL OF MATERIALS](https://www.cisa.gov/sbom)
 
 - [x] [CISA SBOM-A-RAMA](https://www.cisa.gov/cisa-sbom-rama)
