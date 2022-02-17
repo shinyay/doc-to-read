@@ -4,6 +4,10 @@
 
 - [x] [SOFTWARE BILL OF MATERIALS](https://www.cisa.gov/sbom)
 
+- [x] [CISA SBOM-A-RAMA](https://www.cisa.gov/cisa-sbom-rama)
+  - [CISA SBOM-a-rama Day 1](https://youtu.be/aKEpHMVusjM)
+  - [CISA SBOM-a-rama Day 2](https://youtu.be/6puCkTj0qcE)
+
 - [x] [Security: The Value of SBOMs](https://github.com/shinyay/doc-to-read/files/8057219/2022-02-07-blog.pdf)
   - [blog](https://fluxcd.io/blog/2022/02/security-the-value-of-sboms/)
 
