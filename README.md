@@ -2,7 +2,11 @@
 
 ## 2022-02
 
-- [ ] [「金融分野におけるサイバーセキュリティ強化に向けた取組方針」のアップデートについて(Ver. 3.0)]()
+- [ ] [Kubernetes and the Next Generation of PaaS]()
+  - [thenewstack](https://thenewstack.io/kubernetes-and-the-next-generation-of-paas/)
+
+- [ ] [「金融分野におけるサイバーセキュリティ強化に向けた取組方針」のアップデートについて(Ver. 3.0)](https://www.fsa.go.jp/news/r3/cyber/cyber-summary.pdf)
+  - [Cyber Policy](https://github.com/shinyay/doc-to-read/files/8108539/cyber-policy.pdf)
   - [金融庁](https://www.fsa.go.jp/news/r3/cyber/torikumi2022.html)
 
 - [x] [The Linux Foundation Releases The State of Software Bill of Materials (SBOM) and Cybersecurity Readiness Research](https://github.com/shinyay/doc-to-read/files/8088877/2022-02-01-lf.pdf)
