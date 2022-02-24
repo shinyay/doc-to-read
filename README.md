@@ -2,8 +2,11 @@
 
 ## 2022-02
 
-- [ ] [Kubernetes and the Next Generation of PaaS]()
+- [ ] [Kubernetes and the Next Generation of PaaS](https://github.com/shinyay/doc-to-read/files/8138869/2022-02-09-thenewstack.pdf)
   - [thenewstack](https://thenewstack.io/kubernetes-and-the-next-generation-of-paas/)
+  > - Easy as PaaS for developers
+  > - No vendor lock-in
+  > - Full Kubernetes power
 
 - [ ] [「金融分野におけるサイバーセキュリティ強化に向けた取組方針」のアップデートについて(Ver. 3.0)](https://www.fsa.go.jp/news/r3/cyber/cyber-summary.pdf)
   - [Cyber Policy](https://github.com/shinyay/doc-to-read/files/8108539/cyber-policy.pdf)
