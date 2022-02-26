@@ -2,7 +2,10 @@
 
 ## 2022-02
 
-- [ ] [Kubernetes and the Next Generation of PaaS](https://github.com/shinyay/doc-to-read/files/8138869/2022-02-09-thenewstack.pdf)
+- [x] [Strength in Numbers: The White House Open Source Security Summit]()
+  - [vmware](https://octo.vmware.com/strength-in-numbers-the-white-house-open-source-security-summit/)
+
+- [x] [Kubernetes and the Next Generation of PaaS](https://github.com/shinyay/doc-to-read/files/8138869/2022-02-09-thenewstack.pdf)
   - [thenewstack](https://thenewstack.io/kubernetes-and-the-next-generation-of-paas/)
   > - Easy as PaaS for developers
   > - No vendor lock-in
