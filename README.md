@@ -2,7 +2,7 @@
 
 ## 2022-02
 
-- [x] [Strength in Numbers: The White House Open Source Security Summit]()
+- [x] [Strength in Numbers: The White House Open Source Security Summit](https://github.com/shinyay/doc-to-read/files/8150491/2022-01-18-vmware.pdf)
   - [vmware](https://octo.vmware.com/strength-in-numbers-the-white-house-open-source-security-summit/)
 
 - [x] [Kubernetes and the Next Generation of PaaS](https://github.com/shinyay/doc-to-read/files/8138869/2022-02-09-thenewstack.pdf)
