@@ -3,7 +3,7 @@
 ## 2022-02
 
 - [x] [More Secure Open Source Software: A Shared Responsibility](https://github.com/shinyay/doc-to-read/files/8150500/2022-01-19-vmware.pdf)
-  - [vmware](More Secure Open Source Software: A Shared Responsibility)
+  - [vmware](https://news.vmware.com/company/secure-open-source-software-a-shared-responsibility)
 
 - [x] [Strength in Numbers: The White House Open Source Security Summit](https://github.com/shinyay/doc-to-read/files/8150491/2022-01-18-vmware.pdf)
   - [vmware](https://octo.vmware.com/strength-in-numbers-the-white-house-open-source-security-summit/)
