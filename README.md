@@ -2,6 +2,9 @@
 
 ## 2022-03
 
+- [x](The future of Kubernetes – and why developers should look beyond Kubernetes in 2022)
+  - [blog](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022)
+
 - [ ] [Cloud-Native Is about Culture, Not Containers](https://github.com/shinyay/doc-to-read/files/8231103/2021-03-17-infoq.pdf)
   - [infoq](https://www.infoq.com/articles/cloud-native-culture)
 
