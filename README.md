@@ -2,6 +2,9 @@
 
 ## 2022-03
 
+- [ ] [Build a software bill of materials (SBOM) for open source supply chain security](https://github.com/shinyay/doc-to-read/files/8258657/2022-03-14-snyk.pdf)
+  - [snyk](https://snyk.io/blog/building-sbom-open-source-supply-chain-security/)
+
 - [x] [The future of Kubernetes – and why developers should look beyond Kubernetes in 2022](https://github.com/shinyay/doc-to-read/files/8250808/2022-02-22-blog.pdf)
   - [blog](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022)
 
