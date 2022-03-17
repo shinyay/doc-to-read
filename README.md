@@ -2,8 +2,13 @@
 
 ## 2022-03
 
+- [ ] [EJB History]()
+  - [blog](https://ryoasai.hatenadiary.org/entry/20110528/1306594182)
+
 - [x] [The future of Kubernetes – and why developers should look beyond Kubernetes in 2022](https://github.com/shinyay/doc-to-read/files/8250808/2022-02-22-blog.pdf)
   - [blog](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022)
+
+  > - The future of Kubernetes is in the custom resource definitions (CRDs) and abstractions which we build on top of Kubernetes and make available to users through CRDs.
 
 - [ ] [Cloud-Native Is about Culture, Not Containers](https://github.com/shinyay/doc-to-read/files/8231103/2021-03-17-infoq.pdf)
   - [infoq](https://www.infoq.com/articles/cloud-native-culture)
