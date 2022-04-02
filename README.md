@@ -5,7 +5,7 @@
 - [x] [EJB History](https://github.com/shinyay/doc-to-read/files/8308902/2011-05-28-blog.pdf)
   - [blog](https://ryoasai.hatenadiary.org/entry/20110528/1306594182)
 
-- [ ] [Build a software bill of materials (SBOM) for open source supply chain security](https://github.com/shinyay/doc-to-read/files/8258657/2022-03-14-snyk.pdf)
+- [x] [Build a software bill of materials (SBOM) for open source supply chain security](https://github.com/shinyay/doc-to-read/files/8258657/2022-03-14-snyk.pdf)
   - [snyk](https://snyk.io/blog/building-sbom-open-source-supply-chain-security/)
 
 - [x] [The future of Kubernetes – and why developers should look beyond Kubernetes in 2022](https://github.com/shinyay/doc-to-read/files/8250808/2022-02-22-blog.pdf)
@@ -38,7 +38,7 @@
   > - No vendor lock-in
   > - Full Kubernetes power
 
-- [ ] [「金融分野におけるサイバーセキュリティ強化に向けた取組方針」のアップデートについて(Ver. 3.0)](https://www.fsa.go.jp/news/r3/cyber/cyber-summary.pdf)
+- [x] [「金融分野におけるサイバーセキュリティ強化に向けた取組方針」のアップデートについて(Ver. 3.0)](https://www.fsa.go.jp/news/r3/cyber/cyber-summary.pdf)
   - [Cyber Policy](https://github.com/shinyay/doc-to-read/files/8108539/cyber-policy.pdf)
   - [金融庁](https://www.fsa.go.jp/news/r3/cyber/torikumi2022.html)
 
