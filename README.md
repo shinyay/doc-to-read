@@ -2,6 +2,9 @@
 
 ## 2022-03
 
+- [ ] [Cloud-Native Is about Culture, Not Containers](https://github.com/shinyay/doc-to-read/files/8231103/2021-03-17-infoq.pdf)
+  - [infoq](https://www.infoq.com/articles/cloud-native-culture)
+
 - [x] [EJB History](https://github.com/shinyay/doc-to-read/files/8308902/2011-05-28-blog.pdf)
   - [blog](https://ryoasai.hatenadiary.org/entry/20110528/1306594182)
 
@@ -12,9 +15,6 @@
   - [blog](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022)
 
   > - The future of Kubernetes is in the custom resource definitions (CRDs) and abstractions which we build on top of Kubernetes and make available to users through CRDs.
-
-- [ ] [Cloud-Native Is about Culture, Not Containers](https://github.com/shinyay/doc-to-read/files/8231103/2021-03-17-infoq.pdf)
-  - [infoq](https://www.infoq.com/articles/cloud-native-culture)
 
 ## 2022-02
 
