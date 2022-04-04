@@ -1,5 +1,10 @@
 # Docs to READ
 
+## 2022-04
+
+- [ ] [Securing the Kubernetes software supply chain]()
+  - [InfoWorld](https://www.infoworld.com/article/3644808/securing-the-kubernetes-software-supply-chain.html)
+
 ## 2022-03
 
 - [ ] [Cloud-Native Is about Culture, Not Containers](https://github.com/shinyay/doc-to-read/files/8231103/2021-03-17-infoq.pdf)
