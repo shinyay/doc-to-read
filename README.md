@@ -2,6 +2,9 @@
 
 ## 2022-04
 
+- [ ] [Service Mesh Ultimate Guide 2020: Managing Service-to-Service Communications]()
+  - [infoq](https://www.infoq.com/articles/service-mesh-ultimate-guide/)
+
 - [ ] [Securing the Kubernetes software supply chain]()
   - [InfoWorld](https://www.infoworld.com/article/3644808/securing-the-kubernetes-software-supply-chain.html)
 
