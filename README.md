@@ -2,7 +2,7 @@
 
 ## 2022-04
 
-- [ ] [Service Mesh Ultimate Guide 2020: Managing Service-to-Service Communications]()
+- [ ] [Service Mesh Ultimate Guide 2020: Managing Service-to-Service Communications](https://github.com/shinyay/doc-to-read/files/8492358/2020-02-18-infoq.pdf)
   - [infoq](https://www.infoq.com/articles/service-mesh-ultimate-guide/)
 
 - [ ] [Securing the Kubernetes software supply chain]()
