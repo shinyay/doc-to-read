@@ -2,6 +2,9 @@
 
 ## 2022-04
 
+- [ ] [Innovation Insight for SBOMs]()
+  - [gartner](https://www.gartner.com/doc/reprints?id=1-29K601XV&ct=220331&st=sb)
+
 - [ ] [Service Mesh Ultimate Guide 2020: Managing Service-to-Service Communications](https://github.com/shinyay/doc-to-read/files/8492358/2020-02-18-infoq.pdf)
   - [infoq](https://www.infoq.com/articles/service-mesh-ultimate-guide/)
 
