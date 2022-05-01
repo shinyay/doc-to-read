@@ -1,11 +1,16 @@
 # Docs to READ
 
+## 2022-05
+
+- [ ] [What Is Zero Trust Security?]()
+  - [thenewstack](https://thenewstack.io/what-is-zero-trust-security/)
+
 ## 2022-04
 
 - [ ] [Service Mesh Ultimate Guide 2020: Managing Service-to-Service Communications](https://github.com/shinyay/doc-to-read/files/8492358/2020-02-18-infoq.pdf)
   - [infoq](https://www.infoq.com/articles/service-mesh-ultimate-guide/)
 
-- [ ] [Securing the Kubernetes software supply chain]()
+- [ ] [Securing the Kubernetes software supply chain](https://github.com/shinyay/doc-to-read/files/8492376/2021-12-15-InfoWorld.pdf)
   - [InfoWorld](https://www.infoworld.com/article/3644808/securing-the-kubernetes-software-supply-chain.html)
 
 ## 2022-03
