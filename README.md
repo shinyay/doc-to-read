@@ -2,10 +2,13 @@
 
 ## 2022-05
 
-- [ ] [What Is Zero Trust Security?]()
+- [ ] [What Is Zero Trust Security?](https://github.com/shinyay/doc-to-read/files/8628297/2022-03-30-thenewstack.pdf)
   - [thenewstack](https://thenewstack.io/what-is-zero-trust-security/)
 
 ## 2022-04
+
+- [ ] [Innovation Insight for SBOMs](https://github.com/shinyay/doc-to-read/files/8535120/2022-02-14-gartner.pdf)
+  - [gartner](https://www.gartner.com/doc/reprints?id=1-29K601XV&ct=220331&st=sb)
 
 - [ ] [Service Mesh Ultimate Guide 2020: Managing Service-to-Service Communications](https://github.com/shinyay/doc-to-read/files/8492358/2020-02-18-infoq.pdf)
   - [infoq](https://www.infoq.com/articles/service-mesh-ultimate-guide/)
