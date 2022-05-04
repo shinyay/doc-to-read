@@ -2,7 +2,7 @@
 
 ## 2022-05
 
-- [ ] [What Is Zero Trust Network Access (ZTNA)?]()
+- [ ] [What Is Zero Trust Network Access (ZTNA)?](https://github.com/shinyay/doc-to-read/files/8628303/2022-05-03-thenewstack.pdf)
   - [thenewstack](https://thenewstack.io/what-is-zero-trust-network-access-ztna)
 
 - [ ] [What Is Zero Trust Security?](https://github.com/shinyay/doc-to-read/files/8628297/2022-03-30-thenewstack.pdf)
