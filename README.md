@@ -14,6 +14,14 @@
   >  - Access to resources, systems, software, and applications is determined by the policy and user identification only.
   >  - Implementing contextual analysis and collection can help you see behavior patterns across the network and respond quickly.
 
+  >With zero trust implemented, companies can accomplish the following:
+  > - Improve real-time visibility into all their cloud, hybrid, and on-premise environments.
+  > - Protect data, applications, devices, and networks from cyberattack infiltration.
+  > - Minimize the risk of data and security breaches.
+  > - Decrease the time it takes to detect and respond to an attack.
+  > - Continuously monitor components, users, workloads, and devices across multiple environments.
+  > - Build a consistent user experience for internal and external employees and contractors.
+
 ## 2022-04
 
 - [ ] [Innovation Insight for SBOMs](https://github.com/shinyay/doc-to-read/files/8535120/2022-02-14-gartner.pdf)
