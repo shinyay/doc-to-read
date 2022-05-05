@@ -8,6 +8,12 @@
 - [ ] [What Is Zero Trust Security?](https://github.com/shinyay/doc-to-read/files/8628297/2022-03-30-thenewstack.pdf)
   - [thenewstack](https://thenewstack.io/what-is-zero-trust-security/)
 
+  >Zero Trust is built on a couple of principles:
+  >  - Always verify access for all users across all devices.
+  >  - By minimizing access, the impact of external and internal breaches is also minimized if they do occur.
+  >  - Access to resources, systems, software, and applications is determined by the policy and user identification only.
+  >  - Implementing contextual analysis and collection can help you see behavior patterns across the network and respond quickly.
+
 ## 2022-04
 
 - [ ] [Innovation Insight for SBOMs](https://github.com/shinyay/doc-to-read/files/8535120/2022-02-14-gartner.pdf)
