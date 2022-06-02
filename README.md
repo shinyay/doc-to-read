@@ -5,7 +5,8 @@
 - [x] [The ever-widening world of Wasm](https://github.com/shinyay/doc-to-read/files/9721083/2022-09-27-infoworld.pdf)
   - [InfoWorld](https://www.infoworld.com/article/3674124/the-ever-widening-world-of-wasm.html)
   > The World Wide Web Consortium (W3C) first announced Wasm, i.e., WebAssembly, back in 2015 and published it in 2018. Originally designed solely for use in the browser, the in-the-weeds Wasm is garnering interest as a potential barrier breaker across different hardware and software environments. The original vision for Wasm was a security tool that allowed developers to safely use compiled languages like C, C++, or Rust in the browser, while at the same time preventing the code from taking over a user’s machine.
-  
+  > Wasm blockers: Perhaps a bigger issue is that Wasm, a very specific instruction set architecture, is not currently POSIX-compliant, so you can’t use it to do a lot of standard things developers have come to expect (think of things like opening a file or a network socket).
+
 ## 2022-09
 
 - [x] [Resilient Organizations Make Psychological Safety a Strategic Priority](https://github.com/shinyay/doc-to-read/files/9643085/Resilient.Organizations.Make.Psychological.Safety.a.Strategic.Priority.pdf)
@@ -90,7 +91,7 @@ log.pdf)
 - [x] [The experience of working in Developer Experience](https://github.com/shinyay/doc-to-read/files/8955391/2022-04-04-medium.pdf)
   - [medeium](https://medium.com/clarityai-engineering/the-experience-of-working-in-developer-experience-c51dfae1a973)
 
-- [ ] [KubeCon EU 2022 Summary: Cloud Novices, Golden Paths, and Software Supply Chains](https://blog.getambassador.io/kubecon-eu-2022-summary-cloud-novices-golden-paths-and-software-supply-chains-f38d34b0c5a4)
+- [x] [KubeCon EU 2022 Summary: Cloud Novices, Golden Paths, and Software Supply Chains](https://blog.getambassador.io/kubecon-eu-2022-summary-cloud-novices-golden-paths-and-software-supply-chains-f38d34b0c5a4)
 
 ## 2022-05
 
