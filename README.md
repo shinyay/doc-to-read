@@ -1,11 +1,18 @@
 # Docs to READ
 
+## 2022-06
+
+- [x] [The experience of working in Developer Experience]()
+  - [medeium](https://medium.com/clarityai-engineering/the-experience-of-working-in-developer-experience-c51dfae1a973)
+
+- [ ] [KubeCon EU 2022 Summary: Cloud Novices, Golden Paths, and Software Supply Chains](https://blog.getambassador.io/kubecon-eu-2022-summary-cloud-novices-golden-paths-and-software-supply-chains-f38d34b0c5a4)
+
 ## 2022-05
 
 - [ ] [What Is Zero Trust Network Access (ZTNA)?](https://github.com/shinyay/doc-to-read/files/8628303/2022-05-03-thenewstack.pdf)
   - [thenewstack](https://thenewstack.io/what-is-zero-trust-network-access-ztna)
 
-- [ ] [What Is Zero Trust Security?](https://github.com/shinyay/doc-to-read/files/8628297/2022-03-30-thenewstack.pdf)
+- [x] [What Is Zero Trust Security?](https://github.com/shinyay/doc-to-read/files/8628297/2022-03-30-thenewstack.pdf)
   - [thenewstack](https://thenewstack.io/what-is-zero-trust-security/)
 
   >Zero Trust is built on a couple of principles:
