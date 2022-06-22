@@ -2,7 +2,7 @@
 
 ## 2022-06
 
-- [x] [The experience of working in Developer Experience]()
+- [x] [The experience of working in Developer Experience](https://github.com/shinyay/doc-to-read/files/8955391/2022-04-04-medium.pdf)
   - [medeium](https://medium.com/clarityai-engineering/the-experience-of-working-in-developer-experience-c51dfae1a973)
 
 - [ ] [KubeCon EU 2022 Summary: Cloud Novices, Golden Paths, and Software Supply Chains](https://blog.getambassador.io/kubecon-eu-2022-summary-cloud-novices-golden-paths-and-software-supply-chains-f38d34b0c5a4)
