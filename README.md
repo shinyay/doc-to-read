@@ -2,7 +2,9 @@
 
 ## 2022-07
 
-- [x] [Getting Started With RSocket Kotlin]()
+- []()
+
+- [x] [Getting Started With RSocket Kotlin](https://github.com/shinyay/doc-to-read/files/9178169/2022-06-25-dzone.pdf)
   - [DZone](https://dzone.com/articles/getting-started-with-rsocket-kotlin)
 
 ## 2022-06
