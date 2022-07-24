@@ -2,7 +2,7 @@
 
 ## 2022-07
 
-- [DevOps and Cloud InfoQ Trends Report – June 2022]()
+- [DevOps and Cloud InfoQ Trends Report – June 2022](https://github.com/shinyay/doc-to-read/files/9178216/2022-06-21-InfoQ.pdf)
   - [InfoQ](https://www.infoq.com/articles/devops-and-cloud-trends-2022/)
 
 - [x] [Software Architecture: It Might Not Be What You Think It Is](https://github.com/shinyay/doc-to-read/files/9178180/2022-04-15-infoq.pdf)
