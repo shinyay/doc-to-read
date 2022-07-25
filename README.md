@@ -2,7 +2,7 @@
 
 ## 2022-07
 
-- [ ] [What's New In TAP 1.2]()
+- [ ] [What's New In TAP 1.2](https://github.com/shinyay/doc-to-read/files/9178239/2022-07-14-blog.pdf)
   - [Blog](https://www.vrabbi.cloud/post/tap-1-2-is-ga)
 
 - [x] [DevOps and Cloud InfoQ Trends Report – June 2022](https://github.com/shinyay/doc-to-read/files/9178216/2022-06-21-InfoQ.pdf)
