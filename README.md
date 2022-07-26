@@ -2,7 +2,7 @@
 
 ## 2022-07
 
-- [ ] [Spring Boot 2.7 Release Notes - Upgrading from Spring Boot 2.6]
+- [ ] [Spring Boot 2.7 Release Notes - Upgrading from Spring Boot 2.6](https://github.com/shinyay/doc-to-read/files/9188893/2022-07-26-github.pdf)
   - [GitHub](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.7-Release-Notes)
 
 - [ ] [What's New In TAP 1.2](https://github.com/shinyay/doc-to-read/files/9178239/2022-07-14-b
