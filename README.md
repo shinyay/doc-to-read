@@ -2,6 +2,9 @@
 
 ## 2022-07
 
+- [ ] [Using Multiple Azure Storage Accounts From a Single Spring Boot App]()
+  - [DZone](https://dzone.com/articles/using-multiple-azure-storage-accounts-from-a-single-spring-boot-app)
+
 - [ ] [Spring Boot 2.7 Release Notes - Upgrading from Spring Boot 2.6](https://github.com/shinyay/doc-to-read/files/9188893/2022-07-26-github.pdf)
   - [GitHub](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.7-Release-Notes)
 
