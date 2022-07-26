@@ -2,7 +2,11 @@
 
 ## 2022-07
 
-- [ ] [What's New In TAP 1.2](https://github.com/shinyay/doc-to-read/files/9178239/2022-07-14-blog.pdf)
+- [ ] [Spring Boot 2.7 Release Notes - Upgrading from Spring Boot 2.6]
+  - [GitHub](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.7-Release-Notes)
+
+- [ ] [What's New In TAP 1.2](https://github.com/shinyay/doc-to-read/files/9178239/2022-07-14-b
+log.pdf)
   - [Blog](https://www.vrabbi.cloud/post/tap-1-2-is-ga)
 
 - [x] [DevOps and Cloud InfoQ Trends Report – June 2022](https://github.com/shinyay/doc-to-read/files/9178216/2022-06-21-InfoQ.pdf)
