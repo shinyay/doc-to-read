@@ -2,7 +2,7 @@
 
 ## 2022-07
 
-- [ ] [Cloud complicates development, but GraphQL and supergraphs offer hope]()
+- [ ] [Cloud complicates development, but GraphQL and supergraphs offer hope]((https://github.com/shinyay/doc-to-read/files/9238781/2022-06-22-infoworld.pdf))
   - [InfoWorld](https://www.infoworld.com/article/3662752/cloud-complicates-development-but-graphql-and-supergraphs-offer-hope.html)
 
 - [ ] [Using Multiple Azure Storage Accounts From a Single Spring Boot App](https://github.com/shinyay/doc-to-read/files/9193061/2022-07-25-dzone.pdf)
