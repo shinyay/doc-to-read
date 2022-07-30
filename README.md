@@ -13,7 +13,7 @@
 
 ## 2022-07
 
-- [ ] [7 reasons Java is still great](https://github.com/shinyay/doc-to-read/files/9238834/2022-07-18-InfoWorld.pdf)
+- [x] [7 reasons Java is still great](https://github.com/shinyay/doc-to-read/files/9238834/2022-07-18-InfoWorld.pdf)
   - [InfoWorld](https://www.infoworld.com/article/3666525/7-reasons-java-is-still-great.html)
 
 - [ ] [Cloud complicates development, but GraphQL and supergraphs offer hope]((https://github.com/shinyay/doc-to-read/files/9238781/2022-06-22-infoworld.pdf))
