@@ -1,5 +1,10 @@
 # Docs to READ
 
+## 2022-08
+
+- [ ] [API Gateway Vs. Service Mesh: What’s the Difference?]()
+  - [DevOps](https://devops.com/api-gateway-vs-service-mesh-whats-the-difference/)
+
 ## 2022-07
 
 - [ ] [7 reasons Java is still great](https://github.com/shinyay/doc-to-read/files/9238834/2022-07-18-InfoWorld.pdf)
