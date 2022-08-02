@@ -2,7 +2,7 @@
 
 ## 2022-08
 
-- [ ] [API Gateway Vs. Service Mesh: What’s the Difference?]()
+- [ ] [API Gateway Vs. Service Mesh: What’s the Difference?](https://github.com/shinyay/doc-to-read/files/9238847/2022-08-01-devops.pdf)
   - [DevOps](https://devops.com/api-gateway-vs-service-mesh-whats-the-difference/)
 
 ## 2022-07
