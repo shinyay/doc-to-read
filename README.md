@@ -2,6 +2,9 @@
 
 ## 2022-08
 
+- [ ] [Developer Satisfaction Is Key to Engineering Success](https://github.com/shinyay/doc-to-read/files/9278837/2022-07-26-infoq.pdf)
+  - [Infoq](https://www.infoq.com/podcasts/engineering-success-key/)
+
 - [ ] [API Gateway Vs. Service Mesh: What’s the Difference?](https://github.com/shinyay/doc-to-read/files/9238847/2022-08-01-devops.pdf)
   - [DevOps](https://devops.com/api-gateway-vs-service-mesh-whats-the-difference/)
 
