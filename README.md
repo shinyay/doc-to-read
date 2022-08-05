@@ -2,6 +2,9 @@
 
 ## 2022-08
 
+- [ ] [Unblocked by Design]()
+  - [InfoQ](https://www.infoq.com/presentations/problems-async-arch/)
+
 - [ ] [All the Things a Service Mesh Can Do](https://github.com/shinyay/doc-to-read/files/9278864/2022-0805-thenewstack.pdf)
   - [TheNewStack](https://thenewstack.io/all-the-things-a-service-mesh-can-do/)
 
