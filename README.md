@@ -2,6 +2,9 @@
 
 ## 2022-08
 
+- [ ] [All the Things a Service Mesh Can Do](https://github.com/shinyay/doc-to-read/files/9278864/2022-0805-thenewstack.pdf)
+  - [TheNewStack](https://thenewstack.io/all-the-things-a-service-mesh-can-do/)
+
 - [ ] [Developer Satisfaction Is Key to Engineering Success](https://github.com/shinyay/doc-to-read/files/9278837/2022-07-26-infoq.pdf)
   - [Infoq](https://www.infoq.com/podcasts/engineering-success-key/)
 
