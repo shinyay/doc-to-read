@@ -2,7 +2,10 @@
 
 ## 2022-08
 
-- [ ] [Unblocked by Design]()
+- [ ] [When Wasm and Docker Work (and Do Not Work) Together]()
+  - [TheNewStack](https://thenewstack.io/when-wasm-and-docker-work-and-do-not-work-together/)
+
+- [ ] [Unblocked by Design](https://github.com/shinyay/doc-to-read/files/9278864/2022-0805-thenewstack.pdf)
   - [InfoQ](https://www.infoq.com/presentations/problems-async-arch/)
 
 - [ ] [All the Things a Service Mesh Can Do](https://github.com/shinyay/doc-to-read/files/9278864/2022-0805-thenewstack.pdf)
