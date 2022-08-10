@@ -2,7 +2,10 @@
 
 ## 2022-08
 
-- [ ] [When Wasm and Docker Work (and Do Not Work) Together]()
+- [ ] [When Microservices Are a Bad Idea](https://github.com/shinyay/doc-to-read/files/9332175/2022-08-05-dzone.pdf)
+  - [DZone](https://dzone.com/articles/when-microservices-are-a-bad-idea)
+
+- [ ] [When Wasm and Docker Work (and Do Not Work) Together](https://github.com/shinyay/doc-to-read/files/9296831/2022-08-08-thenewstack.pdf)
   - [TheNewStack](https://thenewstack.io/when-wasm-and-docker-work-and-do-not-work-together/)
 
 - [ ] [Unblocked by Design](https://github.com/shinyay/doc-to-read/files/9278864/2022-0805-thenewstack.pdf)
