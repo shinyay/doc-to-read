@@ -2,6 +2,9 @@
 
 ## 2022-08
 
+- [ ] [7 reasons to embrace Web3 — and 7 reasons not to](https://github.com/shinyay/doc-to-read/files/9332179/2022-03-07-infoworld.pdf)
+  - [InfoWorld](https://www.infoworld.com/article/3651494/7-reasons-to-embrace-web3-and-7-reasons-not-to.html)
+
 - [ ] [When Microservices Are a Bad Idea](https://github.com/shinyay/doc-to-read/files/9332175/2022-08-05-dzone.pdf)
   - [DZone](https://dzone.com/articles/when-microservices-are-a-bad-idea)
 
