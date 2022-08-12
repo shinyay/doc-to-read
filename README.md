@@ -2,6 +2,9 @@
 
 ## 2022-08
 
+- [ ] [The Need for a Kubernetes Alternative]()
+  - [DZone](https://dzone.com/articles/the-need-for-a-kubernetes-alternative)
+
 - [ ] [7 reasons to embrace Web3 — and 7 reasons not to](https://github.com/shinyay/doc-to-read/files/9332179/2022-03-07-infoworld.pdf)
   - [InfoWorld](https://www.infoworld.com/article/3651494/7-reasons-to-embrace-web3-and-7-reasons-not-to.html)
 
