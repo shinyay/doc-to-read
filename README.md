@@ -2,7 +2,7 @@
 
 ## 2022-08
 
-- [ ] [SBOMs Are Great for Supply Chain Security but Buyers Beware ]()
+- [ ] [SBOMs Are Great for Supply Chain Security but Buyers Beware ](https://github.com/shinyay/doc-to-read/files/9335137/2022-08-09-thenewstack.pdf)
   - [TheNewStack](https://thenewstack.io/sboms-are-great-for-supply-chain-security-but-buyers-beware/)
 
 - [ ] [Is Kubernetes the Next Fault Domain?](https://github.com/shinyay/doc-to-read/files/9334421/2022-08-12-thenewstack.pdf)
