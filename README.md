@@ -2,7 +2,7 @@
 
 ## 2022-08
 
-- [ ] [Is Kubernetes the Next Fault Domain?]()
+- [ ] [Is Kubernetes the Next Fault Domain?](https://github.com/shinyay/doc-to-read/files/9334421/2022-08-12-thenewstack.pdf)
   - [TheNewStack](https://thenewstack.io/is-kubernetes-the-next-fault-domain/)
 
 - [ ] [The Need for a Kubernetes Alternative](https://github.com/shinyay/doc-to-read/files/9332183/2022-08-01-DZone.pdf)
