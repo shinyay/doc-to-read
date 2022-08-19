@@ -2,7 +2,7 @@
 
 ## 2022-08
 
-- [ ] [Reduce Carbon Dioxide Emissions with Serverless and Kubernetes Native Java]()
+- [ ] [Reduce Carbon Dioxide Emissions with Serverless and Kubernetes Native Java](https://github.com/shinyay/doc-to-read/files/9378896/2022-06-15-infoq.pdf)
   - [InfoQ](https://www.infoq.com/articles/reduce-CO2-with-serveless/)
 
 - [x] [SBOMs Are Great for Supply Chain Security but Buyers Beware ](https://github.com/shinyay/doc-to-read/files/9335137/2022-08-09-thenewstack.pdf)
