@@ -2,7 +2,7 @@
 
 ## 2022-08
 
-- [ ] [How to Optimize Java Apps on Kubernetes ]()
+- [ ] [How to Optimize Java Apps on Kubernetes ](https://github.com/shinyay/doc-to-read/files/9389162/2022-07-22-thenewstack.pdf)
   - [TheNewStack](https://thenewstack.io/how-to-optimize-java-apps-on-kubernetes/)
 
 - [ ] [Reduce Carbon Dioxide Emissions with Serverless and Kubernetes Native Java](https://github.com/shinyay/doc-to-read/files/9378896/2022-06-15-infoq.pdf)
