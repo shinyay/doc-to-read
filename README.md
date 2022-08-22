@@ -2,7 +2,7 @@
 
 ## 2022-08
 
-- [ ] [Data Oriented Programming in Java]()
+- [ ] [Data Oriented Programming in Java](https://github.com/shinyay/doc-to-read/files/9390546/2022-06-20-infoq.pdf)
   - [InfoQ](https://www.infoq.com/articles/data-oriented-programming-java/)
 
 - [ ] [How to Optimize Java Apps on Kubernetes ](https://github.com/shinyay/doc-to-read/files/9389162/2022-07-22-thenewstack.pdf)
