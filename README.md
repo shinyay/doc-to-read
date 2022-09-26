@@ -1,7 +1,7 @@
 # Docs to READ
 ## 2022-09
 
-- [x] [Resilient Organizations Make Psychological Safety a Strategic Priority]
+- [x] [Resilient Organizations Make Psychological Safety a Strategic Priority](https://github.com/shinyay/doc-to-read/files/9643085/Resilient.Organizations.Make.Psychological.Safety.a.Strategic.Priority.pdf)
   - [HBR](https://hbr.org/2022/08/resilient-organizations-make-psychological-safety-a-strategic-priority)
 
 ## 2022-08
