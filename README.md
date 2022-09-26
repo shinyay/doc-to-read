@@ -3,7 +3,7 @@
 
 - [x] [Resilient Organizations Make Psychological Safety a Strategic Priority](https://github.com/shinyay/doc-to-read/files/9643085/Resilient.Organizations.Make.Psychological.Safety.a.Strategic.Priority.pdf)
   - [HBR](https://hbr.org/2022/08/resilient-organizations-make-psychological-safety-a-strategic-priority)
-- [ ] [4 Steps to Boost Psychological Safety at Your Workplace]()
+- [ ] [4 Steps to Boost Psychological Safety at Your Workplace](https://github.com/shinyay/doc-to-read/files/9643094/4.Steps.to.Boost.Psychological.Safety.at.Your.Workplace.pdf)
   - [HBR](https://hbr.org/2021/06/4-steps-to-boost-psychological-safety-at-your-workplace)
 
 ## 2022-08
@@ -11,13 +11,13 @@
 - [ ] [Data Oriented Programming in Java](https://github.com/shinyay/doc-to-read/files/9390546/2022-06-20-infoq.pdf)
   - [InfoQ](https://www.infoq.com/articles/data-oriented-programming-java/)
 
-- [ ] [How to Optimize Java Apps on Kubernetes ](https://github.com/shinyay/doc-to-read/files/9389162/2022-07-22-thenewstack.pdf)
+- [ ] [How to Optimize Java Apps on Kubernetes](https://github.com/shinyay/doc-to-read/files/9389162/2022-07-22-thenewstack.pdf)
   - [TheNewStack](https://thenewstack.io/how-to-optimize-java-apps-on-kubernetes/)
 
 - [ ] [Reduce Carbon Dioxide Emissions with Serverless and Kubernetes Native Java](https://github.com/shinyay/doc-to-read/files/9378896/2022-06-15-infoq.pdf)
   - [InfoQ](https://www.infoq.com/articles/reduce-CO2-with-serveless/)
 
-- [x] [SBOMs Are Great for Supply Chain Security but Buyers Beware ](https://github.com/shinyay/doc-to-read/files/9335137/2022-08-09-thenewstack.pdf)
+- [x] [SBOMs Are Great for Supply Chain Security but Buyers Beware](https://github.com/shinyay/doc-to-read/files/9335137/2022-08-09-thenewstack.pdf)
   - [TheNewStack](https://thenewstack.io/sboms-are-great-for-supply-chain-security-but-buyers-beware/)
 
 - [ ] [Is Kubernetes the Next Fault Domain?](https://github.com/shinyay/doc-to-read/files/9334421/2022-08-12-thenewstack.pdf)
