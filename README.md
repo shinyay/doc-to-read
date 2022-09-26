@@ -1,4 +1,8 @@
 # Docs to READ
+## 2022-09
+
+- [x] [Resilient Organizations Make Psychological Safety a Strategic Priority]
+  - [HBR](https://hbr.org/2022/08/resilient-organizations-make-psychological-safety-a-strategic-priority)
 
 ## 2022-08
 
