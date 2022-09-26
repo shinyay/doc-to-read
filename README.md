@@ -3,6 +3,10 @@
 
 - [x] [Resilient Organizations Make Psychological Safety a Strategic Priority](https://github.com/shinyay/doc-to-read/files/9643085/Resilient.Organizations.Make.Psychological.Safety.a.Strategic.Priority.pdf)
   - [HBR](https://hbr.org/2022/08/resilient-organizations-make-psychological-safety-a-strategic-priority)
+  > 3 cultural dimensions are critical for resilience:
+  > ✅Integrity: Ethical leadership and courageous candor
+  > ✅Innovation: Fearless collaboration
+  > ✅Inclusion:  Respect and belonging
 - [ ] [4 Steps to Boost Psychological Safety at Your Workplace](https://github.com/shinyay/doc-to-read/files/9643094/4.Steps.to.Boost.Psychological.Safety.at.Your.Workplace.pdf)
   - [HBR](https://hbr.org/2021/06/4-steps-to-boost-psychological-safety-at-your-workplace)
 
