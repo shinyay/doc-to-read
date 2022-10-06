@@ -2,7 +2,7 @@
 
 ## 2022-10
 
-- [x] [The ever-widening world of Wasm]()
+- [x] [The ever-widening world of Wasm](https://github.com/shinyay/doc-to-read/files/9721083/2022-09-27-infoworld.pdf)
   - [InfoWorld](https://www.infoworld.com/article/3674124/the-ever-widening-world-of-wasm.html)
 
 ## 2022-09
