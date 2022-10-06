@@ -1,4 +1,10 @@
 # Docs to READ
+
+## 2022-10
+
+- [x] [The ever-widening world of Wasm]()
+  - [InfoWorld](https://www.infoworld.com/article/3674124/the-ever-widening-world-of-wasm.html)
+
 ## 2022-09
 
 - [x] [Resilient Organizations Make Psychological Safety a Strategic Priority](https://github.com/shinyay/doc-to-read/files/9643085/Resilient.Organizations.Make.Psychological.Safety.a.Strategic.Priority.pdf)
