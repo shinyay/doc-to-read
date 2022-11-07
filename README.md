@@ -1,5 +1,10 @@
 # Docs to READ
 
+## 2022-11
+
+- [ ] [Why Wasm is the future of cloud computing]()
+  - [InfoWorld](https://www.infoworld.com/article/3678208/why-wasm-is-the-future-of-cloud-computing.html)
+
 ## 2022-10
 
 - [x] [The ever-widening world of Wasm](https://github.com/shinyay/doc-to-read/files/9721083/2022-09-27-infoworld.pdf)
@@ -260,7 +265,7 @@ log.pdf)
 
 - [ ] [DoD Enterprise DevSecOps Documents](https://software.af.mil/dsop/documents/)
 
-- [ ] [What Is DevOps? A Comprehensive Introduction](https://github.com/shinyay/doc-to-read/files/7955048/2021-04-16-bmc.pdf)
+- [x] [What Is DevOps? A Comprehensive Introduction](https://github.com/shinyay/doc-to-read/files/7955048/2021-04-16-bmc.pdf)
   - [bmc](https://www.bmc.com/blogs/devops-basics-introduction/)
 
 - [x] [SRE vs DevOps: What’s The Difference?](https://github.com/shinyay/doc-to-read/files/7955053/2021-08-26-bmc.pdf)
