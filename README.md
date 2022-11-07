@@ -260,7 +260,7 @@ log.pdf)
 
 - [ ] [DoD Enterprise DevSecOps Documents](https://software.af.mil/dsop/documents/)
 
-- [ ] [What Is DevOps? A Comprehensive Introduction](https://github.com/shinyay/doc-to-read/files/7955048/2021-04-16-bmc.pdf)
+- [x] [What Is DevOps? A Comprehensive Introduction](https://github.com/shinyay/doc-to-read/files/7955048/2021-04-16-bmc.pdf)
   - [bmc](https://www.bmc.com/blogs/devops-basics-introduction/)
 
 - [x] [SRE vs DevOps: What’s The Difference?](https://github.com/shinyay/doc-to-read/files/7955053/2021-08-26-bmc.pdf)
