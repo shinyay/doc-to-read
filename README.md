@@ -2,7 +2,7 @@
 
 ## 2022-11
 
-- [x] [Why Wasm is the future of cloud computing]()
+- [x] [Why Wasm is the future of cloud computing](https://github.com/shinyay/doc-to-read/files/9976779/Why.Wasm.is.the.future.of.cloud.computing._.InfoWorld.pdf)
   - [InfoWorld](https://www.infoworld.com/article/3678208/why-wasm-is-the-future-of-cloud-computing.html)
 
 ## 2022-10
