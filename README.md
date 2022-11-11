@@ -2,7 +2,10 @@
 
 ## 2022-11
 
-- [x] [Why Wasm is the future of cloud computing]()
+- [x] [This Week in Spring - November 8th, 2022](https://github.com/shinyay/doc-to-read/files/10026579/This.Week.in.Spring.-.November.8th.2022.pdf)
+  - [SpringBlog](https://spring.io/blog/2022/11/08/this-week-in-spring-november-8th-2022)
+
+- [x] [Why Wasm is the future of cloud computing](https://github.com/shinyay/doc-to-read/files/9976779/Why.Wasm.is.the.future.of.cloud.computing._.InfoWorld.pdf)
   - [InfoWorld](https://www.infoworld.com/article/3678208/why-wasm-is-the-future-of-cloud-computing.html)
 
 ## 2022-10
