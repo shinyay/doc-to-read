@@ -2,6 +2,9 @@
 
 ## 2022-11
 
+- [x] [Spring Modulith 0.1 M2 released](https://github.com/shinyay/doc-to-read/files/10026591/Spring.Modulith.0.1.M2.released.pdf)
+  - [SpringBlog](https://spring.io/blog/2022/11/02/spring-modulith-0-1-m2-released)
+
 - [x] [This Week in Spring - November 8th, 2022](https://github.com/shinyay/doc-to-read/files/10026579/This.Week.in.Spring.-.November.8th.2022.pdf)
   - [SpringBlog](https://spring.io/blog/2022/11/08/this-week-in-spring-november-8th-2022)
 
