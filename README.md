@@ -2,6 +2,9 @@
 
 ## 2022-11
 
+- [x] [Spring Cloud 2021.0.5 (codename Jubilee) Has Been Released](https://github.com/shinyay/doc-to-read/files/10026599/Spring.Cloud.2021.0.5.codename.Jubilee.Has.Been.Released.pdf)
+  - [SpringBlog](https://spring.io/blog/2022/11/08/spring-cloud-2021-0-5-codename-jubilee-has-been-released)
+
 - [x] [Spring Modulith 0.1 M2 released](https://github.com/shinyay/doc-to-read/files/10026591/Spring.Modulith.0.1.M2.released.pdf)
   - [SpringBlog](https://spring.io/blog/2022/11/02/spring-modulith-0-1-m2-released)
 
