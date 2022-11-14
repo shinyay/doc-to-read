@@ -2,6 +2,9 @@
 
 ## 2022-11
 
+- [x] [Spring Framework 6.0.0-RC4 available now](https://github.com/shinyay/doc-to-read/files/10026613/Spring.Framework.6.0.0-RC4.available.now.pdf)
+  - [SpringBlog](https://spring.io/blog/2022/11/09/spring-framework-6-0-0-rc4-available-now)
+
 - [x] [Spring Cloud 2021.0.5 (codename Jubilee) Has Been Released](https://github.com/shinyay/doc-to-read/files/10026599/Spring.Cloud.2021.0.5.codename.Jubilee.Has.Been.Released.pdf)
   - [SpringBlog](https://spring.io/blog/2022/11/08/spring-cloud-2021-0-5-codename-jubilee-has-been-released)
 
