@@ -2,6 +2,9 @@
 
 ## 2022-11
 
+- [x] [This Week in Spring - November 15th, 2022](https://github.com/shinyay/doc-to-read/files/10026617/This.Week.in.Spring.-.November.15th.2022.pdf)
+  - [SpringBlog](https://spring.io/blog/2022/11/15/this-week-in-spring-november-15th-2022)
+
 - [x] [Spring Framework 6.0.0-RC4 available now](https://github.com/shinyay/doc-to-read/files/10026613/Spring.Framework.6.0.0-RC4.available.now.pdf)
   - [SpringBlog](https://spring.io/blog/2022/11/09/spring-framework-6-0-0-rc4-available-now)
 
