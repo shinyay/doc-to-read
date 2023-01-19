@@ -2,6 +2,9 @@
 
 ## 2023-01
 
+- [ ][Platform Engineering Benefits Developers, and Companies too](https://github.com/shinyay/doc-to-read/files/10515750/Platform.Engineering.Benefits.Developers.and.Companies.too.-.The.New.Stack.pdf)
+  - [THENEWSTACK](https://thenewstack.io/platform-engineering-benefits-developers-and-companies-too/)
+
 - [ ][The Current Trends in WebAssembly](https://github.com/shinyay/doc-to-read/files/10515746/The.Current.Trends.in.WebAssembly._.by.Yiming.Cao._.Jan.2023._.Better.Programming.pdf)
   - [Blog](https://betterprogramming.pub/the-current-trends-in-webassembly-68022a8f9807)
 
