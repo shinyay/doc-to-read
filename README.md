@@ -1,6 +1,14 @@
 # Docs to READ
 
+## 2023-01
+
+- [ ][The Current Trends in WebAssembly](https://github.com/shinyay/doc-to-read/files/10515746/The.Current.Trends.in.WebAssembly._.by.Yiming.Cao._.Jan.2023._.Better.Programming.pdf)
+  - [Blog](https://betterprogramming.pub/the-current-trends-in-webassembly-68022a8f9807)
+
 ## 2022-11
+
+- [x] [This Week in Spring - November 15th, 2022](https://github.com/shinyay/doc-to-read/files/10026617/This.Week.in.Spring.-.November.15th.2022.pdf)
+  - [SpringBlog](https://spring.io/blog/2022/11/15/this-week-in-spring-november-15th-2022)
 
 - [x] [Spring Framework 6.0.0-RC4 available now](https://github.com/shinyay/doc-to-read/files/10026613/Spring.Framework.6.0.0-RC4.available.now.pdf)
   - [SpringBlog](https://spring.io/blog/2022/11/09/spring-framework-6-0-0-rc4-available-now)
