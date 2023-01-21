@@ -10,6 +10,9 @@
 
 ## 2022-11
 
+- [ ][A Platform Team Product Manager Determines DevOps Success](https://github.com/shinyay/doc-to-read/files/10515756/A.Platform.Team.Product.Manager.Determines.DevOps.Success.-.The.New.Stack.pdf)
+  - [THENEWSTACK](https://thenewstack.io/a-platform-team-product-manager-determines-devops-success/)
+
 - [x] [This Week in Spring - November 15th, 2022](https://github.com/shinyay/doc-to-read/files/10026617/This.Week.in.Spring.-.November.15th.2022.pdf)
   - [SpringBlog](https://spring.io/blog/2022/11/15/this-week-in-spring-november-15th-2022)
 
