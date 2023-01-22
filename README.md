@@ -2,6 +2,9 @@
 
 ## 2023-01
 
+- [ ][Crossplane: A Package-Based Approach to Platform Building](https://github.com/shinyay/doc-to-read/files/10515772/Crossplane_.A.Package-Based.Approach.to.Platform.Building.-.The.New.Stack.pdf)
+  - [THENEWSTACK](https://thenewstack.io/crossplane-a-package-based-approach-to-platform-building)
+
 - [ ][Platform Engineering Benefits Developers, and Companies too](https://github.com/shinyay/doc-to-read/files/10515750/Platform.Engineering.Benefits.Developers.and.Companies.too.-.The.New.Stack.pdf)
   - [THENEWSTACK](https://thenewstack.io/platform-engineering-benefits-developers-and-companies-too/)
 
