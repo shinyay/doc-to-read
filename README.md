@@ -2,6 +2,9 @@
 
 ## 2023-01
 
+- [ ][Are Your “Value Streams” Keeping You Stuck in the Past?](https://github.com/shinyay/doc-to-read/files/10515778/Are.Your.Value.Streams.Keeping.You.Stuck.in.the.Past_.pdf)
+  - [InfoQ](https://www.infoq.com/articles/value-streams-stuck-past/)
+
 - [ ][Crossplane: A Package-Based Approach to Platform Building](https://github.com/shinyay/doc-to-read/files/10515772/Crossplane_.A.Package-Based.Approach.to.Platform.Building.-.The.New.Stack.pdf)
   - [THENEWSTACK](https://thenewstack.io/crossplane-a-package-based-approach-to-platform-building)
 
