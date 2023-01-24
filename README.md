@@ -2,6 +2,9 @@
 
 ## 2023-01
 
+- [ ][Internal Developer Advocacy: What Should You Do Next?](https://github.com/shinyay/doc-to-read/files/10515786/Internal.Developer.Advocacy_.What.Should.You.Do.Next_.-.The.New.Stack.pdf)
+  - [](https://thenewstack.io/internal-developer-advocacy-what-should-you-do-next/)
+
 - [ ][Are Your “Value Streams” Keeping You Stuck in the Past?](https://github.com/shinyay/doc-to-read/files/10515778/Are.Your.Value.Streams.Keeping.You.Stuck.in.the.Past_.pdf)
   - [InfoQ](https://www.infoq.com/articles/value-streams-stuck-past/)
 
