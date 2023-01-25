@@ -2,6 +2,12 @@
 
 ## 2023-01
 
+- [ ][What is platform engineering?](https://github.com/shinyay/doc-to-read/files/10515799/What.is.platform.engineering_.pdf)
+  - [platformengineering](https://platformengineering.org/blog/what-is-platform-engineering)
+
+- [ ][What is Platform Engineering?](https://github.com/shinyay/doc-to-read/files/10515798/What.is.Platform.Engineering_.What.to.Know._.Puppet.by.Perforce.pdf)
+  - [puppet](https://www.puppet.com/blog/what-platform-engineering)
+
 - [ ][Internal Developer Advocacy: What Should You Do Next?](https://github.com/shinyay/doc-to-read/files/10515786/Internal.Developer.Advocacy_.What.Should.You.Do.Next_.-.The.New.Stack.pdf)
   - [](https://thenewstack.io/internal-developer-advocacy-what-should-you-do-next/)
 
