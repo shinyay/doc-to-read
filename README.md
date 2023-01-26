@@ -2,6 +2,9 @@
 
 ## 2023-01
 
+- [ ][the 2023 State of Platform Engineering Report](https://github.com/shinyay/doc-to-read/files/10515806/report-puppet-sodor-2023-platform-engineering.pdf)
+  - [puppet](https://www.puppet.com/resources/state-of-platform-engineering)
+
 - [ ][What is platform engineering?](https://github.com/shinyay/doc-to-read/files/10515799/What.is.platform.engineering_.pdf)
   - [platformengineering](https://platformengineering.org/blog/what-is-platform-engineering)
 
