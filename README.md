@@ -2,6 +2,9 @@
 
 ## 2023-01
 
+- [ ][Internal Developer Portals Can Do More than You Think](https://github.com/shinyay/doc-to-read/files/10527023/Internal.Developer.Portals.Can.Do.More.than.You.Think.-.The.New.Stack.pdf)
+  - [THENEWSTACK](https://thenewstack.io/an-inside-look-at-what-gitllabs-web-ide-offers-developers/)
+
 - [ ][the 2023 State of Platform Engineering Report](https://github.com/shinyay/doc-to-read/files/10515806/report-puppet-sodor-2023-platform-engineering.pdf)
   - [puppet](https://www.puppet.com/resources/state-of-platform-engineering)
 
