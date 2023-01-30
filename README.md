@@ -2,8 +2,10 @@
 
 ## 2023-01
 
-- [ ][Reduce CO2 Emissions and Cost by Increasing Software Efficiency ]
+- [x][Reduce CO2 Emissions and Cost by Increasing Software Efficiency ]
   - [THENEWSTACK](https://thenewstack.io/reduce-co2-emissions-and-cost-by-increasing-software-efficiency/)
+  > Software Efficiency
+  > Improving software efficiency increases the speed and throughput that a unit of resources (a computer, VM, container or node) can handle. Therefore, an efficient software platform would require fewer units to handle a specific workload/demand. Fewer units of resources result in reduced costs and emissions. That’s a win-win situation for businesses and the planet.
 
 - [ ][Internal Developer Portals Can Do More than You Think](https://github.com/shinyay/doc-to-read/files/10527023/Internal.Developer.Portals.Can.Do.More.than.You.Think.-.The.New.Stack.pdf)
   - [THENEWSTACK](https://thenewstack.io/an-inside-look-at-what-gitllabs-web-ide-offers-developers/)
