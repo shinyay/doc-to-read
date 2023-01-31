@@ -2,7 +2,10 @@
 
 ## 2023-01
 
-- [x][Reduce CO2 Emissions and Cost by Increasing Software Efficiency ]
+- [x][JavaScript or WebAssembly: Which Is More Energy Efficient and Faster?](https://github.com/shinyay/doc-to-read/files/10541880/JavaScript.or.WebAssembly_.Which.Is.More.Energy.Efficient.and.Faster_.-.The.New.Stack.pdf)
+  - [THENEWSTACK](https://thenewstack.io/javascript-vs-wasm-which-is-more-energy-efficient-and-faster/)
+
+- [x][Reduce CO2 Emissions and Cost by Increasing Software Efficiency](https://github.com/shinyay/doc-to-read/files/10541879/Reduce.CO2.Emissions.and.Cost.by.Increasing.Software.Efficiency.-.The.New.Stack.pdf)
   - [THENEWSTACK](https://thenewstack.io/reduce-co2-emissions-and-cost-by-increasing-software-efficiency/)
   > Software Efficiency
   > Improving software efficiency increases the speed and throughput that a unit of resources (a computer, VM, container or node) can handle. Therefore, an efficient software platform would require fewer units to handle a specific workload/demand. Fewer units of resources result in reduced costs and emissions. That’s a win-win situation for businesses and the planet.
