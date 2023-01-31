@@ -2,6 +2,7 @@
 
 ## 2023-01
 
+
 - [ ][Reduce CO2 Emissions and Cost by Increasing Software Efficiency ]
   - [THENEWSTACK](https://thenewstack.io/reduce-co2-emissions-and-cost-by-increasing-software-efficiency/)
 
