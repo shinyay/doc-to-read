@@ -2,7 +2,7 @@
 
 ## 2023-01
 
-- [x][An Overview of the Kubernetes Gateway API and Envoy Gateway]
+- [x][An Overview of the Kubernetes Gateway API and Envoy Gateway](https://github.com/shinyay/doc-to-read/files/10564228/An.Overview.of.the.Kubernetes.Gateway.API.and.Envoy.Gateway._.by.Dave.Sudia._.Jan.2023._.Ambassador.Labs.pdf)
   - [Medium](https://blog.getambassador.io/an-overview-of-the-kubernetes-gateway-api-and-envoy-gateway-8162bfb7fb9e)
 
 - [x][JavaScript or WebAssembly: Which Is More Energy Efficient and Faster?](https://github.com/shinyay/doc-to-read/files/10541880/JavaScript.or.WebAssembly_.Which.Is.More.Energy.Efficient.and.Faster_.-.The.New.Stack.pdf)
