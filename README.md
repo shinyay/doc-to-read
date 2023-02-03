@@ -1,48 +1,56 @@
 # Docs to READ
 
+## 2023-02
+
+- [ ] []
+  - []()
+
+- [ ] [How To Approach Legacy System Modernization]
+  - [dzone](https://dzone.com/articles/how-to-approach-legacy-system-modernization)
+
 ## 2023-01
 
-- [x][An Overview of the Kubernetes Gateway API and Envoy Gateway](https://github.com/shinyay/doc-to-read/files/10564228/An.Overview.of.the.Kubernetes.Gateway.API.and.Envoy.Gateway._.by.Dave.Sudia._.Jan.2023._.Ambassador.Labs.pdf)
+- [x] [An Overview of the Kubernetes Gateway API and Envoy Gateway](https://github.com/shinyay/doc-to-read/files/10564228/An.Overview.of.the.Kubernetes.Gateway.API.and.Envoy.Gateway._.by.Dave.Sudia._.Jan.2023._.Ambassador.Labs.pdf)
   - [Medium](https://blog.getambassador.io/an-overview-of-the-kubernetes-gateway-api-and-envoy-gateway-8162bfb7fb9e)
 
-- [x][JavaScript or WebAssembly: Which Is More Energy Efficient and Faster?](https://github.com/shinyay/doc-to-read/files/10541880/JavaScript.or.WebAssembly_.Which.Is.More.Energy.Efficient.and.Faster_.-.The.New.Stack.pdf)
+- [x] [JavaScript or WebAssembly: Which Is More Energy Efficient and Faster?](https://github.com/shinyay/doc-to-read/files/10541880/JavaScript.or.WebAssembly_.Which.Is.More.Energy.Efficient.and.Faster_.-.The.New.Stack.pdf)
   - [THENEWSTACK](https://thenewstack.io/javascript-vs-wasm-which-is-more-energy-efficient-and-faster/)
 
-- [x][Reduce CO2 Emissions and Cost by Increasing Software Efficiency](https://github.com/shinyay/doc-to-read/files/10541879/Reduce.CO2.Emissions.and.Cost.by.Increasing.Software.Efficiency.-.The.New.Stack.pdf)
+- [x] [Reduce CO2 Emissions and Cost by Increasing Software Efficiency](https://github.com/shinyay/doc-to-read/files/10541879/Reduce.CO2.Emissions.and.Cost.by.Increasing.Software.Efficiency.-.The.New.Stack.pdf)
   - [THENEWSTACK](https://thenewstack.io/reduce-co2-emissions-and-cost-by-increasing-software-efficiency/)
   > Software Efficiency
   > Improving software efficiency increases the speed and throughput that a unit of resources (a computer, VM, container or node) can handle. Therefore, an efficient software platform would require fewer units to handle a specific workload/demand. Fewer units of resources result in reduced costs and emissions. That’s a win-win situation for businesses and the planet.
 
-- [ ][Internal Developer Portals Can Do More than You Think](https://github.com/shinyay/doc-to-read/files/10527023/Internal.Developer.Portals.Can.Do.More.than.You.Think.-.The.New.Stack.pdf)
+- [ ] [Internal Developer Portals Can Do More than You Think](https://github.com/shinyay/doc-to-read/files/10527023/Internal.Developer.Portals.Can.Do.More.than.You.Think.-.The.New.Stack.pdf)
   - [THENEWSTACK](https://thenewstack.io/an-inside-look-at-what-gitllabs-web-ide-offers-developers/)
 
-- [ ][the 2023 State of Platform Engineering Report](https://github.com/shinyay/doc-to-read/files/10515806/report-puppet-sodor-2023-platform-engineering.pdf)
+- [ ] [the 2023 State of Platform Engineering Report](https://github.com/shinyay/doc-to-read/files/10515806/report-puppet-sodor-2023-platform-engineering.pdf)
   - [puppet](https://www.puppet.com/resources/state-of-platform-engineering)
 
-- [ ][What is platform engineering?](https://github.com/shinyay/doc-to-read/files/10515799/What.is.platform.engineering_.pdf)
+- [ ] [What is platform engineering?](https://github.com/shinyay/doc-to-read/files/10515799/What.is.platform.engineering_.pdf)
   - [platformengineering](https://platformengineering.org/blog/what-is-platform-engineering)
 
-- [ ][What is Platform Engineering?](https://github.com/shinyay/doc-to-read/files/10515798/What.is.Platform.Engineering_.What.to.Know._.Puppet.by.Perforce.pdf)
+- [ ] [What is Platform Engineering?](https://github.com/shinyay/doc-to-read/files/10515798/What.is.Platform.Engineering_.What.to.Know._.Puppet.by.Perforce.pdf)
   - [puppet](https://www.puppet.com/blog/what-platform-engineering)
 
-- [ ][Internal Developer Advocacy: What Should You Do Next?](https://github.com/shinyay/doc-to-read/files/10515786/Internal.Developer.Advocacy_.What.Should.You.Do.Next_.-.The.New.Stack.pdf)
+- [ ] [Internal Developer Advocacy: What Should You Do Next?](https://github.com/shinyay/doc-to-read/files/10515786/Internal.Developer.Advocacy_.What.Should.You.Do.Next_.-.The.New.Stack.pdf)
   - [](https://thenewstack.io/internal-developer-advocacy-what-should-you-do-next/)
 
-- [ ][Are Your “Value Streams” Keeping You Stuck in the Past?](https://github.com/shinyay/doc-to-read/files/10515778/Are.Your.Value.Streams.Keeping.You.Stuck.in.the.Past_.pdf)
+- [ ] [Are Your “Value Streams” Keeping You Stuck in the Past?](https://github.com/shinyay/doc-to-read/files/10515778/Are.Your.Value.Streams.Keeping.You.Stuck.in.the.Past_.pdf)
   - [InfoQ](https://www.infoq.com/articles/value-streams-stuck-past/)
 
-- [ ][Crossplane: A Package-Based Approach to Platform Building](https://github.com/shinyay/doc-to-read/files/10515772/Crossplane_.A.Package-Based.Approach.to.Platform.Building.-.The.New.Stack.pdf)
+- [ ] [Crossplane: A Package-Based Approach to Platform Building](https://github.com/shinyay/doc-to-read/files/10515772/Crossplane_.A.Package-Based.Approach.to.Platform.Building.-.The.New.Stack.pdf)
   - [THENEWSTACK](https://thenewstack.io/crossplane-a-package-based-approach-to-platform-building)
 
-- [ ][Platform Engineering Benefits Developers, and Companies too](https://github.com/shinyay/doc-to-read/files/10515750/Platform.Engineering.Benefits.Developers.and.Companies.too.-.The.New.Stack.pdf)
+- [ ] [Platform Engineering Benefits Developers, and Companies too](https://github.com/shinyay/doc-to-read/files/10515750/Platform.Engineering.Benefits.Developers.and.Companies.too.-.The.New.Stack.pdf)
   - [THENEWSTACK](https://thenewstack.io/platform-engineering-benefits-developers-and-companies-too/)
 
-- [ ][The Current Trends in WebAssembly](https://github.com/shinyay/doc-to-read/files/10515746/The.Current.Trends.in.WebAssembly._.by.Yiming.Cao._.Jan.2023._.Better.Programming.pdf)
+- [ ] [The Current Trends in WebAssembly](https://github.com/shinyay/doc-to-read/files/10515746/The.Current.Trends.in.WebAssembly._.by.Yiming.Cao._.Jan.2023._.Better.Programming.pdf)
   - [Blog](https://betterprogramming.pub/the-current-trends-in-webassembly-68022a8f9807)
 
 ## 2022-11
 
-- [ ][A Platform Team Product Manager Determines DevOps Success](https://github.com/shinyay/doc-to-read/files/10515756/A.Platform.Team.Product.Manager.Determines.DevOps.Success.-.The.New.Stack.pdf)
+- [ ] [A Platform Team Product Manager Determines DevOps Success](https://github.com/shinyay/doc-to-read/files/10515756/A.Platform.Team.Product.Manager.Determines.DevOps.Success.-.The.New.Stack.pdf)
   - [THENEWSTACK](https://thenewstack.io/a-platform-team-product-manager-determines-devops-success/)
 
 - [x] [This Week in Spring - November 15th, 2022](https://github.com/shinyay/doc-to-read/files/10026617/This.Week.in.Spring.-.November.15th.2022.pdf)
