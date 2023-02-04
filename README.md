@@ -2,8 +2,8 @@
 
 ## 2023-02
 
-- [ ] []
-  - []()
+- [ ] [What Is Essentialism, and How Does It Make Software More Efficient?]
+  - [dzone](https://dzone.com/articles/what-is-essentialism-and-how-does-it-make-software-more-efficient)
 
 - [ ] [How To Approach Legacy System Modernization]
   - [dzone](https://dzone.com/articles/how-to-approach-legacy-system-modernization)
