@@ -5,7 +5,7 @@
 - [ ] [What Is Essentialism, and How Does It Make Software More Efficient?]
   - [dzone](https://dzone.com/articles/what-is-essentialism-and-how-does-it-make-software-more-efficient)
 
-- [ ] [How To Approach Legacy System Modernization]
+- [ ] [How To Approach Legacy System Modernization]https://github.com/shinyay/doc-to-read/files/10637257/How.to.Approach.Legacy.System.Modernization.-.DZone.pdf)
   - [dzone](https://dzone.com/articles/how-to-approach-legacy-system-modernization)
 
 ## 2023-01
