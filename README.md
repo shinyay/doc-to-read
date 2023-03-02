@@ -1,8 +1,13 @@
 # Docs to READ
 
+## 2023-03
+
+- [ ] [What Is Psychological Safety?]()
+  - [HBR](https://hbr.org/2023/02/what-is-psychological-safety)
+
 ## 2023-02
 
-- [ ] [What Is Essentialism, and How Does It Make Software More Efficient?]
+- [ ] [What Is Essentialism, and How Does It Make Software More Efficient?](https://github.com/shinyay/doc-to-read/files/10637256/What.Is.Essentialism.and.How.Does.It.Make.Software.More.Efficient.-.DZone.pdf)
   - [dzone](https://dzone.com/articles/what-is-essentialism-and-how-does-it-make-software-more-efficient)
 
 - [ ] [How To Approach Legacy System Modernization]https://github.com/shinyay/doc-to-read/files/10637257/How.to.Approach.Legacy.System.Modernization.-.DZone.pdf)
