@@ -2,7 +2,7 @@
 
 ## 2023-03
 
-- [ ] [What Is Psychological Safety?]()
+- [ ] [What Is Psychological Safety?](https://github.com/shinyay/doc-to-read/files/10876806/What.Is.Psychological.Safety_.pdf)
   - [HBR](https://hbr.org/2023/02/what-is-psychological-safety)
 
 ## 2023-02
