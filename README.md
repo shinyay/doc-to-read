@@ -5,7 +5,7 @@
 - [x] [The Platform Engineering Guide: Principles and Best Practices]()
   - [InfoQ](https://www.infoq.com/minibooks/platform-engineering-guide/)
 
-- [ ] [What Is Psychological Safety?](https://github.com/shinyay/doc-to-read/files/10876806/What.Is.Psychological.Safety_.pdf)
+- [x] [What Is Psychological Safety?](https://github.com/shinyay/doc-to-read/files/10876806/What.Is.Psychological.Safety_.pdf)
   - [HBR](https://hbr.org/2023/02/what-is-psychological-safety)
 
 ## 2023-02
