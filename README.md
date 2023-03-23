@@ -2,6 +2,12 @@
 
 ## 2023-03
 
+- [ ] [Green Software Development - What Can You Do Now, and Where is the Industry Heading?]
+  - [infoq](https://www.infoq.com/news/2023/03/green-software-development/)
+
+- [x] [Getting Started With CI:CD Pipeline Security](https://github.com/shinyay/doc-to-read/files/11012882/DZone.-.Getting.Started.With.CI.CD.Pipeline.Security.pdf)
+  - [DZone](https://dzone-resources.dzone.com/free/w_defa3617)
+
 - [x] [The Platform Engineering Guide: Principles and Best Practices]()
   - [InfoQ](https://www.infoq.com/minibooks/platform-engineering-guide/)
 
