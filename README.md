@@ -2,7 +2,7 @@
 
 ## 2023-03
 
-- [ ] [Green Software Development - What Can You Do Now, and Where is the Industry Heading?]
+- [x] [Green Software Development - What Can You Do Now, and Where is the Industry Heading?](https://github.com/shinyay/doc-to-read/files/11070354/2023-03-23_Green.Software.Development.-.What.Can.You.Do.Now.and.Where.is.the.Industry.Heading.pdf)
   - [infoq](https://www.infoq.com/news/2023/03/green-software-development/)
 
 - [x] [Getting Started With CI:CD Pipeline Security](https://github.com/shinyay/doc-to-read/files/11012882/DZone.-.Getting.Started.With.CI.CD.Pipeline.Security.pdf)
