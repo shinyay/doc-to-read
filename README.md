@@ -2,6 +2,9 @@
 
 ## 2023-03
 
+- [ ] [Hard-Won Lessons from the Trenches: Failure Modes of Platform Engineering — and How to Avoid Them]()
+  - [infoq](https://www.infoq.com/articles/platform-engineering-lessons-learned/)
+
 - [x] [Green Software Development - What Can You Do Now, and Where is the Industry Heading?](https://github.com/shinyay/doc-to-read/files/11070354/2023-03-23_Green.Software.Development.-.What.Can.You.Do.Now.and.Where.is.the.Industry.Heading.pdf)
   - [infoq](https://www.infoq.com/news/2023/03/green-software-development/)
 
