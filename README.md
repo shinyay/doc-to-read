@@ -2,6 +2,9 @@
 
 ## 2023-03
 
+- [ ] [The Challenge of Cognitive Load in Platform Engineering: a Discussion with Paula Kennedy]()
+  - [infoq](https://www.infoq.com/articles/cognitive-load-platform-engineering/)
+
 - [ ] [Hard-Won Lessons from the Trenches: Failure Modes of Platform Engineering — and How to Avoid Them]()
   - [infoq](https://www.infoq.com/articles/platform-engineering-lessons-learned/)
 
