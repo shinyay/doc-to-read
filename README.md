@@ -2,7 +2,7 @@
 
 ## 2023-04
 
-- [ ] [CNCF Platforms White Paper]()
+- [ ] [CNCF Platforms White Paper](https://github.com/shinyay/doc-to-read/files/11207678/platforms-def-v1.0.pdf)
   - [cncf](https://appdelivery.cncf.io/whitepapers/platforms/)
 
 - [x] [DB Integration Tests with Spring Boot and Testcontainers](https://github.com/shinyay/doc-to-read/files/11147106/DB.Integration.Tests.with.Boot.and.Testcontainers._.Baeldung.pdf)
