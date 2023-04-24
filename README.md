@@ -2,6 +2,12 @@
 
 ## 2023-04
 
+- [ ] [What is Developer Experience?]()
+  - [devto](https://dev.to/jacobandrewsky/what-is-developer-experience-2lh8)
+
+- [ ] [Defining the Developer Experience]()
+  - [dzone](https://dzone.com/articles/developer-experience)
+
 - [x] [Everything You [Didn't] Want To Know About Developer Experience]()
   - [devto](https://dev.to/rainleander/everything-you-didnt-want-to-know-about-developer-experience-1e30)
 
