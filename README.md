@@ -2,7 +2,7 @@
 
 ## 2023-04
 
-- [ ] [What Is DX? (Developer Experience)]()
+- [ ] [What Is DX? (Developer Experience)](https://github.com/shinyay/doc-to-read/files/11316031/2019-10-31_What.Is.DX_.Developer.Experience._.by.Albert.Cavalcante._.The.Startup._.Medium.pdf)
   - [medium](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9)
 
 - [ ] [What is Developer Experience?]()
