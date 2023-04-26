@@ -2,6 +2,9 @@
 
 ## 2023-04
 
+- [ ] [KubeCon EU + CloudNativeCon 2023 Summary: DevEx, Debugging, and Doubling-down on Community]()
+  - [medium](https://blog.getambassador.io/kubecon-eu-cloudnativecon-2023-summary-devex-debugging-and-doubling-down-on-community-82abee5853b3)
+
 - [ ] [What Is DX? (Developer Experience)](https://github.com/shinyay/doc-to-read/files/11316031/2019-10-31_What.Is.DX_.Developer.Experience._.by.Albert.Cavalcante._.The.Startup._.Medium.pdf)
   - [medium](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9)
 
@@ -11,7 +14,7 @@
 - [ ] [Defining the Developer Experience]()
   - [dzone](https://dzone.com/articles/developer-experience)
 
-- [x] [Everything You [Didn't] Want To Know About Developer Experience]()
+- [x] [Everything You [Didn't] Want To Know About Developer Experience](https://github.com/shinyay/doc-to-read/files/11316035/2023-04-27_Everything.You.Didn.t.Want.To.Know.About.Developer.Experience.-.DEV.Community.pdf)
   - [devto](https://dev.to/rainleander/everything-you-didnt-want-to-know-about-developer-experience-1e30)
 
 - [ ] [CNCF Platforms White Paper](https://github.com/shinyay/doc-to-read/files/11207678/platforms-def-v1.0.pdf)
