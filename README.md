@@ -2,6 +2,9 @@
 
 ## 2023-04
 
+- [ ] [Why You Should Run Your Platform Team Like a Product Team]()
+  - [thenewstack](https://thenewstack.io/why-you-should-run-your-platform-team-like-a-product-team/)
+
 - [ ] [KubeCon Panel: How Platform Engineering Benefits Developers](https://github.com/shinyay/doc-to-read/files/11396763/2024-04-28_KubeCon.Panel_.How.Platform.Engineering.Benefits.Developers.-.The.New.Stack.pdf)
   - [thenewstack](https://thenewstack.io/kubecon-panel-how-platform-engineering-benefits-developers/)
 
