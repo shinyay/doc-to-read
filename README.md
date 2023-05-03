@@ -2,7 +2,7 @@
 
 ## 2023-04
 
-- [ ] [Why You Should Run Your Platform Team Like a Product Team]()
+- [ ] [Why You Should Run Your Platform Team Like a Product Team](https://github.com/shinyay/doc-to-read/files/11396887/2023-04-12_Why.You.Should.Run.Your.Platform.Team.Like.a.Product.Team.-.The.New.Stack.pdf)
   - [thenewstack](https://thenewstack.io/why-you-should-run-your-platform-team-like-a-product-team/)
 
 - [ ] [KubeCon Panel: How Platform Engineering Benefits Developers](https://github.com/shinyay/doc-to-read/files/11396763/2024-04-28_KubeCon.Panel_.How.Platform.Engineering.Benefits.Developers.-.The.New.Stack.pdf)
@@ -11,7 +11,7 @@
 - [ ] [KubeCon EU + CloudNativeCon 2023 Summary: DevEx, Debugging, and Doubling-down on Community](https://github.com/shinyay/doc-to-read/files/11338400/2027-04-27_KubeCon.EU.%2B.CloudNativeCon.2023.Summary._.Ambassador.Labs.pdf)
   - [medium](https://blog.getambassador.io/kubecon-eu-cloudnativecon-2023-summary-devex-debugging-and-doubling-down-on-community-82abee5853b3)
 
-- [ ] [What Is DX? (Developer Experience)](https://github.com/shinyay/doc-to-read/files/11316031/2019-10-31_What.Is.DX_.Developer.Experience._.by.Albert.Cavalcante._.The.Startup._.Medium.pdf)
+- [x] [What Is DX? (Developer Experience)](https://github.com/shinyay/doc-to-read/files/11316031/2019-10-31_What.Is.DX_.Developer.Experience._.by.Albert.Cavalcante._.The.Startup._.Medium.pdf)
   - [medium](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9)
 
 - [ ] [What is Developer Experience?](https://github.com/shinyay/doc-to-read/files/11316033/2022-07-18_What.is.Developer.Experience_.-.DEV.Community.pdf)
