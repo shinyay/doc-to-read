@@ -1,5 +1,10 @@
 # Docs to READ
 
+## 2023-05
+
+- [ ] [Open Liberty 23.0.0.3 Unveiled: Embracing Cloud-Native Java Microservices, Jakarta EE 10 and beyond]
+  - [infoq](https://www.infoq.com/news/2023/05/open-liberty-23003-unveiled/)
+
 ## 2023-04
 
 - [ ] [Why You Should Run Your Platform Team Like a Product Team](https://github.com/shinyay/doc-to-read/files/11396887/2023-04-12_Why.You.Should.Run.Your.Platform.Team.Like.a.Product.Team.-.The.New.Stack.pdf)
