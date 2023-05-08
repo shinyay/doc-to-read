@@ -19,7 +19,7 @@
 - [x] [KubeCon Panel: How Platform Engineering Benefits Developers](https://github.com/shinyay/doc-to-read/files/11396763/2024-04-28_KubeCon.Panel_.How.Platform.Engineering.Benefits.Developers.-.The.New.Stack.pdf)
   - [thenewstack](https://thenewstack.io/kubecon-panel-how-platform-engineering-benefits-developers/)
 
-- [ ] [KubeCon EU + CloudNativeCon 2023 Summary: DevEx, Debugging, and Doubling-down on Community](https://github.com/shinyay/doc-to-read/files/11338400/2027-04-27_KubeCon.EU.%2B.CloudNativeCon.2023.Summary._.Ambassador.Labs.pdf)
+- [x] [KubeCon EU + CloudNativeCon 2023 Summary: DevEx, Debugging, and Doubling-down on Community](https://github.com/shinyay/doc-to-read/files/11338400/2027-04-27_KubeCon.EU.%2B.CloudNativeCon.2023.Summary._.Ambassador.Labs.pdf)
   - [medium](https://blog.getambassador.io/kubecon-eu-cloudnativecon-2023-summary-devex-debugging-and-doubling-down-on-community-82abee5853b3)
 
 - [x] [What Is DX? (Developer Experience)](https://github.com/shinyay/doc-to-read/files/11316031/2019-10-31_What.Is.DX_.Developer.Experience._.by.Albert.Cavalcante._.The.Startup._.Medium.pdf)
