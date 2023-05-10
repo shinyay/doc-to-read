@@ -25,7 +25,7 @@
 - [x] [What Is DX? (Developer Experience)](https://github.com/shinyay/doc-to-read/files/11316031/2019-10-31_What.Is.DX_.Developer.Experience._.by.Albert.Cavalcante._.The.Startup._.Medium.pdf)
   - [medium](https://medium.com/swlh/what-is-dx-developer-experience-401a0e44a9d9)
 
-- [ ] [What is Developer Experience?](https://github.com/shinyay/doc-to-read/files/11316033/2022-07-18_What.is.Developer.Experience_.-.DEV.Community.pdf)
+- [x] [What is Developer Experience?](https://github.com/shinyay/doc-to-read/files/11316033/2022-07-18_What.is.Developer.Experience_.-.DEV.Community.pdf)
   - [devto](https://dev.to/jacobandrewsky/what-is-developer-experience-2lh8)
 
 - [ ] [Defining the Developer Experience]()
