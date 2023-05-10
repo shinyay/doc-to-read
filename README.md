@@ -2,7 +2,13 @@
 
 ## 2023-05
 
-- [ ] [Open Liberty 23.0.0.3 Unveiled: Embracing Cloud-Native Java Microservices, Jakarta EE 10 and beyond]
+- [ ] [Quarkus 3.0 Released: Improving Cloud-Native Java Development with Jakarta EE 10 Support](https://github.com/shinyay/doc-to-read/files/11459191/2023-05-09_Quarkus.3.0.Released_.Improving.Cloud-Native.Java.Development.with.Jakarta.EE.10.Support.pdf)
+  - [infoq](https://www.infoq.com/news/2023/05/quarkus-improves-cloud-native)
+
+- [x] [Platform as a Runtime (PaaR) - Beyond Platform Engineering](https://github.com/shinyay/doc-to-read/files/11459217/2023-05-02_Platform.as.a.Runtime.PaaR.-.Beyond.Platform.Engineering.pdf)
+  - [blog](https://www.aviransplace.com/post/platform-as-a-runtime-paar-beyond-platform-engineering)
+
+- [x] [Open Liberty 23.0.0.3 Unveiled: Embracing Cloud-Native Java Microservices, Jakarta EE 10 and beyond](https://github.com/shinyay/doc-to-read/files/11459192/2023-05-05_Open.Liberty.23.0.0.3.Unveiled_.Embracing.Cloud-Native.Java.Microservices.Jakarta.EE.10.and.beyond.pdf)
   - [infoq](https://www.infoq.com/news/2023/05/open-liberty-23003-unveiled/)
 
 ## 2023-04
