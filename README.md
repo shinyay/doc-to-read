@@ -2,6 +2,9 @@
 
 ## 2023-05
 
+- [ ] [Can Rust Beat Javascript in 2023?]()
+  - [blog](https://joshmo.bearblog.dev/can-rust-beat-javascript-in-2023/)
+
 - [ ] [Quarkus 3.0 Released: Improving Cloud-Native Java Development with Jakarta EE 10 Support](https://github.com/shinyay/doc-to-read/files/11459191/2023-05-09_Quarkus.3.0.Released_.Improving.Cloud-Native.Java.Development.with.Jakarta.EE.10.Support.pdf)
   - [infoq](https://www.infoq.com/news/2023/05/quarkus-improves-cloud-native)
 
