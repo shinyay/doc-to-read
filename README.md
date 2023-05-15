@@ -2,6 +2,9 @@
 
 ## 2023-05
 
+- [ ] [7 awesome Java projects you should know about]()
+  - [infoworld](https://www.infoworld.com/article/3694933/7-awesome-java-projects-you-should-know-about.html)
+
 - [ ] [Can Rust Beat Javascript in 2023?](https://github.com/shinyay/doc-to-read/files/11474940/2023-04-21_Can.Rust.Beat.Javascript.in.2023_._.Rust.Web.Dev.with.Josh.Mo.pdf)
 
   - [blog](https://joshmo.bearblog.dev/can-rust-beat-javascript-in-2023/)
