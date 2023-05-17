@@ -2,6 +2,9 @@
 
 ## 2023-05
 
+- [ ] [Culture & Methods Trends Report March 2023]()
+  - [infoq](https://www.infoq.com/articles/culture-trends-2023/)
+
 - [ ] [Solving the SBOM crisis with WebAssembly components]()
   - [infoworld](https://www.infoworld.com/article/3694902/solving-the-sbom-crisis-with-webassembly-components.html)
 
