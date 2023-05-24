@@ -28,7 +28,7 @@
 - [ ] [Solving the SBOM crisis with WebAssembly components]()
   - [infoworld](https://www.infoworld.com/article/3694902/solving-the-sbom-crisis-with-webassembly-components.html)
 
-- [ ] [7 awesome Java projects you should know about]()
+- [x] [7 awesome Java projects you should know about]()
   - [infoworld](https://www.infoworld.com/article/3694933/7-awesome-java-projects-you-should-know-about.html)
 
 - [ ] [Can Rust Beat Javascript in 2023?](https://github.com/shinyay/doc-to-read/files/11474940/2023-04-21_Can.Rust.Beat.Javascript.in.2023_._.Rust.Web.Dev.with.Josh.Mo.pdf)
