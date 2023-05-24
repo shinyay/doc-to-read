@@ -21,7 +21,7 @@
   - [infoq](https://www.infoq.com/articles/architecture-trends-2023/)
   - [podcast](https://www.infoq.com/podcasts/architecture-trends-report-2023/)
 
-- [ ] [Culture & Methods Trends Report March 2023]()
+- [x] [Culture & Methods Trends Report March 2023]()
   - [infoq](https://www.infoq.com/articles/culture-trends-2023/)
   - [podcast](https://www.infoq.com/podcasts/culture-trends-2023/)
 
