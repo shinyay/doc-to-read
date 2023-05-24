@@ -11,7 +11,7 @@
 - [ ] [Why Successful Platform Engineering Teams Need a Product Manager]()
   - [thenewstack](https://thenewstack.io/why-successful-platform-engineering-teams-need-a-product-manager/)
 
-- [ ] [High-Performing DevOps Teams Build Self-Service Platforms]()
+- [x] [High-Performing DevOps Teams Build Self-Service Platforms]()
   - [thenewstack](https://thenewstack.io/high-performing-devops-teams-build-self-service-platforms/)
 
 - [x] [KubeCon Europe 2023 highlights Kubernetes explosion and need for instant platform engineering]()
