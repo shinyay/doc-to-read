@@ -2,6 +2,9 @@
 
 ## 2023-05
 
+- [ ] [High-Performing DevOps Teams Build Self-Service Platforms]()
+  - [thenewstack](https://thenewstack.io/high-performing-devops-teams-build-self-service-platforms/)
+
 - [ ] [KubeCon Europe 2023 highlights Kubernetes explosion and need for instant platform engineering]()
   - [cncf](https://www.cncf.io/blog/2023/05/08/kubecon-europe-2023-highlights-kubernetes-explosion-and-need-for-instant-platform-engineering/)
 
