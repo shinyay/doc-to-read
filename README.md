@@ -17,7 +17,7 @@
 - [ ] [KubeCon Europe 2023 highlights Kubernetes explosion and need for instant platform engineering]()
   - [cncf](https://www.cncf.io/blog/2023/05/08/kubecon-europe-2023-highlights-kubernetes-explosion-and-need-for-instant-platform-engineering/)
 
-- [ ] [Software Architecture and Design InfoQ Trends Report - April 2023]()
+- [x] [Software Architecture and Design InfoQ Trends Report - April 2023]()
   - [infoq](https://www.infoq.com/articles/architecture-trends-2023/)
   - [podcast](https://www.infoq.com/podcasts/architecture-trends-report-2023/)
 
