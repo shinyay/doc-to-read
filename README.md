@@ -8,7 +8,7 @@
 - [ ] [4 Ways to Enhance Your Dockerfiles]()
   - [thenewstack](https://thenewstack.io/four-ways-to-enhance-your-dockerfiles/)
 
-- [ ] [Why Successful Platform Engineering Teams Need a Product Manager]()
+- [x] [Why Successful Platform Engineering Teams Need a Product Manager]()
   - [thenewstack](https://thenewstack.io/why-successful-platform-engineering-teams-need-a-product-manager/)
 
 - [x] [High-Performing DevOps Teams Build Self-Service Platforms]()
