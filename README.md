@@ -5,7 +5,7 @@
 - [ ] [Wardley Mapping and Strategy for Software Developers]()
   - [thenewstack](https://thenewstack.io/wardley-mapping-and-strategy-for-software-developers/)
 
-- [ ] [4 Ways to Enhance Your Dockerfiles]()
+- [x] [4 Ways to Enhance Your Dockerfiles]()
   - [thenewstack](https://thenewstack.io/four-ways-to-enhance-your-dockerfiles/)
 
 - [x] [Why Successful Platform Engineering Teams Need a Product Manager]()
