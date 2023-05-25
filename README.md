@@ -2,7 +2,7 @@
 
 ## 2023-05
 
-- [ ] [Wardley Mapping and Strategy for Software Developers]()
+- [x] [Wardley Mapping and Strategy for Software Developers]()
   - [thenewstack](https://thenewstack.io/wardley-mapping-and-strategy-for-software-developers/)
 
 - [x] [4 Ways to Enhance Your Dockerfiles]()
