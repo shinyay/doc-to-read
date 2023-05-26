@@ -2,7 +2,7 @@
 
 ## 2023-05
 
-- [ ] [Wardley Mapping and Strategy for Software Developers]()
+- [x] [Wardley Mapping and Strategy for Software Developers]()
   - [thenewstack](https://thenewstack.io/wardley-mapping-and-strategy-for-software-developers/)
 
 - [x] [4 Ways to Enhance Your Dockerfiles]()
@@ -17,18 +17,18 @@
 - [x] [KubeCon Europe 2023 highlights Kubernetes explosion and need for instant platform engineering]()
   - [cncf](https://www.cncf.io/blog/2023/05/08/kubecon-europe-2023-highlights-kubernetes-explosion-and-need-for-instant-platform-engineering/)
 
-- [x] [Software Architecture and Design InfoQ Trends Report - April 2023]()
+- [x] [Software Architecture and Design InfoQ Trends Report - April 2023](https://github.com/shinyay/doc-to-read/files/11589320/2023-0407_Software.Architecture.and.Design.InfoQ.Trends.Report.-.April.2023.pdf)
   - [infoq](https://www.infoq.com/articles/architecture-trends-2023/)
   - [podcast](https://www.infoq.com/podcasts/architecture-trends-report-2023/)
 
-- [x] [Culture & Methods Trends Report March 2023]()
+- [x] [Culture & Methods Trends Report March 2023](https://github.com/shinyay/doc-to-read/files/11589324/2023-03-31_Culture.Methods.Trends.Report.March.2023.pdf)
   - [infoq](https://www.infoq.com/articles/culture-trends-2023/)
   - [podcast](https://www.infoq.com/podcasts/culture-trends-2023/)
 
-- [x] [Solving the SBOM crisis with WebAssembly components]()
+- [x] [Solving the SBOM crisis with WebAssembly components](https://github.com/shinyay/doc-to-read/files/11589321/2023-05-10_Solving.the.SBOM.crisis.with.WebAssembly.components._.InfoWorld.pdf)
   - [infoworld](https://www.infoworld.com/article/3694902/solving-the-sbom-crisis-with-webassembly-components.html)
 
-- [x] [7 awesome Java projects you should know about]()
+- [x] [7 awesome Java projects you should know about](https://github.com/shinyay/doc-to-read/files/11589322/2023-05-10_7.awesome.Java.projects.you.should.know.about._.InfoWorld.pdf)
   - [infoworld](https://www.infoworld.com/article/3694933/7-awesome-java-projects-you-should-know-about.html)
 
 - [ ] [Can Rust Beat Javascript in 2023?](https://github.com/shinyay/doc-to-read/files/11474940/2023-04-21_Can.Rust.Beat.Javascript.in.2023_._.Rust.Web.Dev.with.Josh.Mo.pdf)
