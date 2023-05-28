@@ -14,7 +14,7 @@
 - [x] [High-Performing DevOps Teams Build Self-Service Platforms]()
   - [thenewstack](https://thenewstack.io/high-performing-devops-teams-build-self-service-platforms/)
 
-- [x] [KubeCon Europe 2023 highlights Kubernetes explosion and need for instant platform engineering]()
+- [x] [KubeCon Europe 2023 highlights Kubernetes explosion and need for instant platform engineering](https://github.com/shinyay/doc-to-read/files/11589323/2023-05-08_KubeCon.Europe.2023.highlights.Kubernetes.explosion.and.need.for.instant.platform.engineering._.Cloud.Native.Computing.Foundation.pdf)
   - [cncf](https://www.cncf.io/blog/2023/05/08/kubecon-europe-2023-highlights-kubernetes-explosion-and-need-for-instant-platform-engineering/)
 
 - [x] [Software Architecture and Design InfoQ Trends Report - April 2023](https://github.com/shinyay/doc-to-read/files/11589320/2023-0407_Software.Architecture.and.Design.InfoQ.Trends.Report.-.April.2023.pdf)
