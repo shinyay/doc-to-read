@@ -2,6 +2,9 @@
 
 ## 2023-05
 
+- [x] [Could WebAssembly Be the Key to Decreasing Kubernetes Use?]()
+  - [thenewstack](https://thenewstack.io/could-webassembly-be-the-key-to-decreasing-kubernetes-use/)
+
 - [x] [Wardley Mapping and Strategy for Software Developers]()
   - [thenewstack](https://thenewstack.io/wardley-mapping-and-strategy-for-software-developers/)
 
