@@ -5,6 +5,10 @@
 - [x] [Could WebAssembly Be the Key to Decreasing Kubernetes Use?]()
   - [thenewstack](https://thenewstack.io/could-webassembly-be-the-key-to-decreasing-kubernetes-use/)
 
+  > Kubernetes forces developers to care about infrastructure and they don’t necessarily want to, he added.
+  
+  > “Basically, developers have to care about their infrastructure much more than they need to,” he said. “A lot of these things around microservices, we did them in Kubernetes because that was a great way to do it before we had stuff like WebAssembly, but microservices and functions … all those things work better in a world where WebAssembly exists because you focus just on writing that code.”
+
 - [x] [Wardley Mapping and Strategy for Software Developers]()
   - [thenewstack](https://thenewstack.io/wardley-mapping-and-strategy-for-software-developers/)
 
