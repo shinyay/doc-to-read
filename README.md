@@ -2,7 +2,8 @@
 
 ## 2023-06
 
-- [x] [The Art of Platform Marketing: You’ve Gotta Sell It]()
+- [x] [The Art of Platform Marketing: You’ve Gotta Sell It](https://github.com/shinyay/doc-to-read/files/11672874/2023-06-06_The.Art.of.Platform.Marketing_.You.ve.Gotta.Sell.It.-.The.New.Stack.pdf)
+
   - [thenewstack](https://thenewstack.io/the-art-of-platform-marketing-youve-gotta-sell-it/)
 
 ## 2023-05
