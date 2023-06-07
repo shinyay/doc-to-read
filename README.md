@@ -1,5 +1,8 @@
 # Docs to READ
 
+- [x] [The Art of Platform Marketing: You’ve Gotta Sell It]()
+  - [thenewstack](https://thenewstack.io/the-art-of-platform-marketing-youve-gotta-sell-it/)
+
 ## 2023-05
 
 - [x] [Could WebAssembly Be the Key to Decreasing Kubernetes Use?]()
