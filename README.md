@@ -2,7 +2,7 @@
 
 ## 2023-06
 
-- [x] [‘Running Service’ Blueprint for a Kubernetes Developer Portal]
+- [x] [‘Running Service’ Blueprint for a Kubernetes Developer Portal](https://github.com/shinyay/doc-to-read/files/11684769/2023-06-07_.Running.Service.Blueprint.for.a.Kubernetes.Developer.Portal.-.The.New.Stack.pdf)
   - [thenewstack](https://thenewstack.io/running-service-blueprint-for-a-kubernetes-developer-portal/)
 
 - [x] [The Art of Platform Marketing: You’ve Gotta Sell It](https://github.com/shinyay/doc-to-read/files/11672874/2023-06-06_The.Art.of.Platform.Marketing_.You.ve.Gotta.Sell.It.-.The.New.Stack.pdf)
