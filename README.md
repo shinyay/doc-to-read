@@ -2,7 +2,7 @@
 
 ## 2023-06
 
-- [x] [At PlatformCon: For Realtor.com, Success Is Driven by Stories]()
+- [x] [At PlatformCon: For Realtor.com, Success Is Driven by Stories](https://github.com/shinyay/doc-to-read/files/11766045/2023-06-13_At.PlatformCon_.For.Realtor.com.Success.Is.Driven.by.Stories.-.The.New.Stack.pdf)
   - [thenewstack](https://thenewstack.io/at-platformcon-for-realtor-com-success-is-driven-by-stories/)
 
 - [x] [‘Running Service’ Blueprint for a Kubernetes Developer Portal](https://github.com/shinyay/doc-to-read/files/11684769/2023-06-07_.Running.Service.Blueprint.for.a.Kubernetes.Developer.Portal.-.The.New.Stack.pdf)
