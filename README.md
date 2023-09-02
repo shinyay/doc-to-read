@@ -4,7 +4,10 @@
 
 ### Platform Engineering
 
--[ ] [VMware Expands Tanzu into a Full Platform Engineering Environment]()
+- [ ] [Use Your Internal Developer Portal to Drive Better AppSec]()
+  - [thenewstack](https://thenewstack.io/use-your-internal-developer-portal-to-drive-better-appsec/)
+
+- [ ] [VMware Expands Tanzu into a Full Platform Engineering Environment]()
   - [thenewstack](https://thenewstack.io/vmware-expands-tanzu-into-a-full-platform-engineering-environment/)
 
 ## 2023-06
