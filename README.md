@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [Shaping DevOps with the Best of ‘By Audit’ and ‘By Design’]()
+  - [thenewstack](https://thenewstack.io/shaping-devops-with-the-best-of-by-audit-and-by-design/)
+
 - [ ] [Use Your Internal Developer Portal to Drive Better AppSec]()
   - [thenewstack](https://thenewstack.io/use-your-internal-developer-portal-to-drive-better-appsec/)
 
