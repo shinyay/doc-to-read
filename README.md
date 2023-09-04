@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [Documentation Is More than Your Thinnest Viable Platform]()
+  - [thenewstack](https://thenewstack.io/documentation-is-more-than-your-thinnest-viable-platform/)
+
 - [ ] [Shaping DevOps with the Best of ‘By Audit’ and ‘By Design’]()
   - [thenewstack](https://thenewstack.io/shaping-devops-with-the-best-of-by-audit-and-by-design/)
 
