@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [The Real Business Value of Platform Engineering]()
+  - [thenewstack](https://thenewstack.io/the-real-business-value-of-platform-engineering/)
+
 - [ ] [Documentation Is More than Your Thinnest Viable Platform]()
   - [thenewstack](https://thenewstack.io/documentation-is-more-than-your-thinnest-viable-platform/)
 
