@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [Cloud Portability: How Platform Engineering Pushes Past Toil]()
+  - [thenewstack](https://thenewstack.io/cloud-portability-how-platform-engineering-pushes-past-toil/)
+
 - [ ] [The Real Business Value of Platform Engineering]()
   - [thenewstack](https://thenewstack.io/the-real-business-value-of-platform-engineering/)
 
