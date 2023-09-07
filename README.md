@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [The Game-Changing Impact of Automation on Team Dynamics]()
+  - [thenewstack](https://thenewstack.io/the-game-changing-impact-of-automation-on-team-dynamics/)
+
 - [ ] [Cloud Portability: How Platform Engineering Pushes Past Toil]()
   - [thenewstack](https://thenewstack.io/cloud-portability-how-platform-engineering-pushes-past-toil/)
 
