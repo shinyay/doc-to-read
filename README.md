@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [New Ebook: Get Our Free Platform Engineering Guide]()
+  - [thenewstack](https://thenewstack.io/new-ebook-free-platform-engineering-guide/)
+
 - [ ] [The Game-Changing Impact of Automation on Team Dynamics]()
   - [thenewstack](https://thenewstack.io/the-game-changing-impact-of-automation-on-team-dynamics/)
 
