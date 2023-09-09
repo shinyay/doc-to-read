@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [IDPs: A Piece of the Developer Experience Puzzle]()
+  - [thenewstack](https://thenewstack.io/idps-a-piece-of-the-developer-experience-puzzle/)
+
 - [ ] [New Ebook: Get Our Free Platform Engineering Guide]()
   - [thenewstack](https://thenewstack.io/new-ebook-free-platform-engineering-guide/)
 
