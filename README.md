@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [SRE vs Platform Engineer: Can’t We All Just Get Along?]()
+  - [thenewstack](https://thenewstack.io/sre-vs-platform-engineer-cant-we-all-just-get-along/)
+
 - [ ] [IDPs: A Piece of the Developer Experience Puzzle]()
   - [thenewstack](https://thenewstack.io/idps-a-piece-of-the-developer-experience-puzzle/)
 
