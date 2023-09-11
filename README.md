@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [How Spotify Achieved a Voluntary 99% Internal Platform Adoption Rate]()
+  - [thenewstack](https://thenewstack.io/how-spotify-achieved-a-voluntary-99-internal-platform-adoption-rate/)
+
 - [ ] [SRE vs Platform Engineer: Can’t We All Just Get Along?]()
   - [thenewstack](https://thenewstack.io/sre-vs-platform-engineer-cant-we-all-just-get-along/)
 
