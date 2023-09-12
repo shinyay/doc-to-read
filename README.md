@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [How to Pave Golden Paths That Actually Go Somewhere]()
+  - [thenewstack](https://thenewstack.io/how-to-pave-golden-paths-that-actually-go-somewhere/)
+
 - [ ] [Streamline Platform Engineering with Kubernetes]()
   - [thenewstack](https://thenewstack.io/streamline-platform-engineering-with-kubernetes/)
 
