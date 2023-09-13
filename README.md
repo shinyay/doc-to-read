@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [Streamline Platform Engineering with Kubernetes]()
+  - [thenewstack](https://thenewstack.io/streamline-platform-engineering-with-kubernetes/)
+
 - [ ] [Backstage in Production: Considerations for Platform Teams]()
   - [thenewstack](https://thenewstack.io/backstage-in-production-considerations-for-platform-teams/)
 
