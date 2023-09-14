@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [7 Benefits of Developer Access to Production ]()
+  - [thenewstack](https://thenewstack.io/7-benefits-of-developer-access-to-production/)
+
 - [ ] [How to Pave Golden Paths That Actually Go Somewhere]()
   - [thenewstack](https://thenewstack.io/how-to-pave-golden-paths-that-actually-go-somewhere/)
 
