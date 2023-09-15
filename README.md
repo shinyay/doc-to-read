@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [How Platform Engineering Can Help Keep Cloud Costs in Check]()
+  - [thenewstack](https://thenewstack.io/how-platform-engineering-can-help-keep-cloud-costs-in-check/)
+
 - [ ] [7 Benefits of Developer Access to Production ]()
   - [thenewstack](https://thenewstack.io/7-benefits-of-developer-access-to-production/)
 
