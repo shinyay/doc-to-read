@@ -4,6 +4,12 @@
 
 ### Platform Engineering
 
+- [ ] [Next-Gen Observability: Monitoring and Analytics in Platform Engineering]()
+  - [thenewstack](https://thenewstack.io/next-gen-observability-monitoring-and-analytics-in-platform-engineering/)
+
+- [ ] [Platform Engineering Demands a Product Mindset]()
+  - [thenewstack](https://thenewstack.io/platform-engineering-demands-a-product-mindset/)
+
 - [ ] [How Platform Engineering Can Help Keep Cloud Costs in Check]()
   - [thenewstack](https://thenewstack.io/how-platform-engineering-can-help-keep-cloud-costs-in-check/)
 
