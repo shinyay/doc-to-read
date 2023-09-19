@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [Platform Engineering: What’s Hype and What’s Not?]()
+  - [thenewstack](https://thenewstack.io/platform-engineering-whats-hype-and-whats-not/)
+
 - [ ] [How to Create an Internal Developer Portal MVP]()
   - [thenewstack](https://thenewstack.io/how-to-create-an-internal-developer-portal-mvp/)
 
