@@ -2,6 +2,11 @@
 
 ## 2023-09
 
+### WebAssembly
+
+- [ ] [Where Does WebAssembly Fit in the Cloud Native World?]()
+  - [thenewstack](https://thenewstack.io/where-does-webassembly-fit-in-the-cloud-native-world/)
+
 ### Platform Engineering
 
 - [ ] [Platform Engineering: What’s Hype and What’s Not?]()
