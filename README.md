@@ -4,6 +4,9 @@
 
 ### WebAssembly
 
+- [ ] [Rust and C++ Work Better for WebAssembly]()
+  - [thenewstack](https://thenewstack.io/rust-and-c-work-better-for-webassembly/)
+
 - [ ] [Where Does WebAssembly Fit in the Cloud Native World?]()
   - [thenewstack](https://thenewstack.io/where-does-webassembly-fit-in-the-cloud-native-world/)
 
