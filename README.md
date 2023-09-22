@@ -4,6 +4,9 @@
 
 ### WebAssembly
 
+- [ ] [Is It too Early to Leverage AI for WebAssembly?]()
+  - [thenewstack](https://thenewstack.io/is-it-too-early-to-leverage-ai-for-webassembly/)
+
 - [ ] [Rust and C++ Work Better for WebAssembly]()
   - [thenewstack](https://thenewstack.io/rust-and-c-work-better-for-webassembly/)
 
