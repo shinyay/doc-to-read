@@ -4,6 +4,9 @@
 
 ### WebAssembly
 
+- [ ] [WebAssembly Reaches a Cloud Native Milestone]()
+  - [thenewstack](https://thenewstack.io/webassembly-reaches-a-cloud-native-milestone/)
+
 - [ ] [Is It too Early to Leverage AI for WebAssembly?]()
   - [thenewstack](https://thenewstack.io/is-it-too-early-to-leverage-ai-for-webassembly/)
 
