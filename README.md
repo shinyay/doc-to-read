@@ -4,6 +4,9 @@
 
 ### WebAssembly
 
+- [ ] [What Is WebAssembly?]()
+  - [thenewstack](https://thenewstack.io/what-is-webassembly-wasm/)
+
 - [ ] [Can WebAssembly Get Its Act Together for a Component Model?]()
   - [thenewstack](https://thenewstack.io/can-webassembly-get-its-act-together-for-a-component-model/)
 
