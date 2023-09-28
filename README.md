@@ -4,6 +4,12 @@
 
 ### WebAssembly
 
+- [ ] [A Guide to Open Source Platform Engineering]()
+  - [thenewstack](https://thenewstack.io/a-guide-to-open-source-platform-engineering/)
+
+- [ ] [Drive Platform Engineering Success with Humanitec and Port]()
+  - [thenewstack](https://thenewstack.io/drive-platform-engineering-success-with-humanitec-and-port/)
+
 - [ ] [What Is WebAssembly?]()
   - [thenewstack](https://thenewstack.io/what-is-webassembly-wasm/)
 
