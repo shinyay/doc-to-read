@@ -4,6 +4,9 @@
 
 ### WebAssembly
 
+- [ ] [The 6 Pillars of Platform Engineering: Part 1 — Security]()
+  - [thenewstack](https://thenewstack.io/the-6-pillars-of-platform-engineering-part-1-security/)
+
 - [ ] [A Guide to Open Source Platform Engineering]()
   - [thenewstack](https://thenewstack.io/a-guide-to-open-source-platform-engineering/)
 
