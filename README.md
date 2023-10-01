@@ -4,6 +4,9 @@
 
 ### WebAssembly
 
+- [ ] [The Pillars of Platform Engineering: Part 3 — Provisioning]()
+  - [thenewstack](https://thenewstack.io/the-pillars-of-platform-engineering-part-3-provisioning/)
+
 - [ ] [A Practical Step-by-Step Approach to Building a Platform]()
   - [thenewstack](https://thenewstack.io/a-practical-step-by-step-approach-to-building-a-platform/)
 
