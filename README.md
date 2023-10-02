@@ -4,6 +4,9 @@
 
 ### WebAssembly
 
+- [ ] [A Practical Step-by-Step Approach to Building a Platform]()
+  - [thenewstack](https://thenewstack.io/a-practical-step-by-step-approach-to-building-a-platform/)
+
 - [ ] [The 6 Pillars of Platform Engineering: Part 2 — CI/CD & VCS Pipeline]()
   - [thenewstack](https://thenewstack.io/the-6-pillars-of-platform-engineering-part-2-ci-cd-vcs-pipeline/)
 
