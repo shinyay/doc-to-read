@@ -4,6 +4,9 @@
 
 ### WebAssembly
 
+- [ ] [Why You Can’t Go from Zero to Platform Engineering]()
+  - [thenewstack](https://thenewstack.io/why-you-cant-go-from-zero-to-platform-engineering/)
+
 - [ ] [The Pillars of Platform Engineering: Part 3 — Provisioning]()
   - [thenewstack](https://thenewstack.io/the-pillars-of-platform-engineering-part-3-provisioning/)
 
