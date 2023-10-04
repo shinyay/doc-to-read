@@ -4,6 +4,9 @@
 
 ### WebAssembly
 
+- [ ] [The Pillars of Platform Engineering: Part 4 — Connectivity]()
+  - [thenewstack](https://thenewstack.io/the-pillars-of-platform-engineering-part-4-connectivity/)
+
 - [ ] [Why You Can’t Go from Zero to Platform Engineering]()
   - [thenewstack](https://thenewstack.io/why-you-cant-go-from-zero-to-platform-engineering/)
 
