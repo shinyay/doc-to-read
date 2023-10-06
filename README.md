@@ -4,6 +4,26 @@
 
 ### WebAssembly
 
+- [ ] [What Is WebAssembly?]()
+  - [thenewstack](https://thenewstack.io/what-is-webassembly-wasm/)
+
+- [ ] [Can WebAssembly Get Its Act Together for a Component Model?]()
+  - [thenewstack](https://thenewstack.io/can-webassembly-get-its-act-together-for-a-component-model/)
+
+- [ ] [WebAssembly Reaches a Cloud Native Milestone]()
+  - [thenewstack](https://thenewstack.io/webassembly-reaches-a-cloud-native-milestone/)
+
+- [ ] [Is It too Early to Leverage AI for WebAssembly?]()
+  - [thenewstack](https://thenewstack.io/is-it-too-early-to-leverage-ai-for-webassembly/)
+
+- [ ] [Rust and C++ Work Better for WebAssembly]()
+  - [thenewstack](https://thenewstack.io/rust-and-c-work-better-for-webassembly/)
+
+- [ ] [Where Does WebAssembly Fit in the Cloud Native World?]()
+  - [thenewstack](https://thenewstack.io/where-does-webassembly-fit-in-the-cloud-native-world/)
+
+### Platform Engineering
+
 - [ ] [The Pillars of Platform Engineering: Part 4 — Connectivity]()
   - [thenewstack](https://thenewstack.io/the-pillars-of-platform-engineering-part-4-connectivity/)
 
@@ -30,26 +50,6 @@
 
 - [ ] [Drive Platform Engineering Success with Humanitec and Port]()
   - [thenewstack](https://thenewstack.io/drive-platform-engineering-success-with-humanitec-and-port/)
-
-- [ ] [What Is WebAssembly?]()
-  - [thenewstack](https://thenewstack.io/what-is-webassembly-wasm/)
-
-- [ ] [Can WebAssembly Get Its Act Together for a Component Model?]()
-  - [thenewstack](https://thenewstack.io/can-webassembly-get-its-act-together-for-a-component-model/)
-
-- [ ] [WebAssembly Reaches a Cloud Native Milestone]()
-  - [thenewstack](https://thenewstack.io/webassembly-reaches-a-cloud-native-milestone/)
-
-- [ ] [Is It too Early to Leverage AI for WebAssembly?]()
-  - [thenewstack](https://thenewstack.io/is-it-too-early-to-leverage-ai-for-webassembly/)
-
-- [ ] [Rust and C++ Work Better for WebAssembly]()
-  - [thenewstack](https://thenewstack.io/rust-and-c-work-better-for-webassembly/)
-
-- [ ] [Where Does WebAssembly Fit in the Cloud Native World?]()
-  - [thenewstack](https://thenewstack.io/where-does-webassembly-fit-in-the-cloud-native-world/)
-
-### Platform Engineering
 
 - [ ] [Demo: Building an Internal Developer Portal with Port]()
   - [thenewstack](https://thenewstack.io/demo-building-an-internal-developer-portal-with-port/)
