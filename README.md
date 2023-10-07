@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [The Pillars of Platform Engineering: Part 5 — Orchestration]()
+  - [](https://thenewstack.io/the-pillars-of-platform-engineering-part-5-orchestration/)
+
 - [ ] [Platform Engineering Helps a Scale-up Tame DevOps Complexity]()
   - [](https://thenewstack.io/platform-engineering-helps-a-scale-up-tame-devops-complexity/)
 
