@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [Software Delivery Enablement, Not Developer Productivity]()
+  - [](https://thenewstack.io/software-delivery-enablement-not-developer-productivity/)
+
 - [ ] [The Pillars of Platform Engineering: Part 5 — Orchestration]()
   - [](https://thenewstack.io/the-pillars-of-platform-engineering-part-5-orchestration/)
 
