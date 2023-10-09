@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [The Pillars of Platform Engineering: Part 6 — Observability]()
+  - [](https://thenewstack.io/the-pillars-of-platform-engineering-part-6-observability/)
+
 - [ ] [Software Delivery Enablement, Not Developer Productivity]()
   - [](https://thenewstack.io/software-delivery-enablement-not-developer-productivity/)
 
