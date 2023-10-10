@@ -4,6 +4,9 @@
 
 ### Platform Engineering
 
+- [ ] [Humanitec: The Golden Path to Platform Engineering]()
+  - [](https://thenewstack.io/humanitec-the-golden-path-to-platform-engineering/)
+
 - [ ] [The Pillars of Platform Engineering: Part 6 — Observability]()
   - [](https://thenewstack.io/the-pillars-of-platform-engineering-part-6-observability/)
 
