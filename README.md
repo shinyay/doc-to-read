@@ -4,9 +4,6 @@
 
 ### Platform Engineering
 
-- [ ] [Making the Leap: Ops Roles Evolve into Platform Engineers]()
-  - [](https://thenewstack.io/making-the-leap-ops-roles-evolve-into-platform-engineers/)
-
 - [ ] [Humanitec: The Golden Path to Platform Engineering]()
   - [](https://thenewstack.io/humanitec-the-golden-path-to-platform-engineering/)
 
