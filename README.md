@@ -1,5 +1,13 @@
 # Docs to READ
 
+- [ ] []()
+  - []()
+
+## 2023-12
+
+- [ ] [Platform Engineering in 2023: Dev First, Collaboration and APIs]()
+  - [thenewstack](https://thenewstack.io/platform-engineering-in-2023-dev-first-collaboration-and-apis/)
+
 ## 2023-10
 
 ### Platform Engineering
