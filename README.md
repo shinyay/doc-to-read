@@ -4,6 +4,8 @@
   - []()
 
 ## 2023-12
+- [ ] [Year in Review: GenAI Exposed Silicon Valley Chip Antiquity]()
+  - [thenewstack](https://thenewstack.io/year-in-review-genai-exposed-silicon-valley-chip-antiquity/)
 
 - [ ] [Platform Engineering in 2023: Dev First, Collaboration and APIs]()
   - [thenewstack](https://thenewstack.io/platform-engineering-in-2023-dev-first-collaboration-and-apis/)
