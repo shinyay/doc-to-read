@@ -4,6 +4,10 @@
   - []()
 
 ## 2023-12
+
+- [ ] [Year-in-Review: 2023 Was a Turning Point for Microservices]()
+  - [thenewstack](https://thenewstack.io/year-in-review-was-2023-a-turning-point-for-microservices/)
+
 - [ ] [Year in Review: GenAI Exposed Silicon Valley Chip Antiquity]()
   - [thenewstack](https://thenewstack.io/year-in-review-genai-exposed-silicon-valley-chip-antiquity/)
 
