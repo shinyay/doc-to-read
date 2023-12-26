@@ -5,6 +5,9 @@
 
 ## 2023-12
 
+- [ ] [Generative AI: In 2023, GenAI Tools Became Table Stakes]()
+  - [thenewstack](https://thenewstack.io/generative-ai-in-2023-genai-tools-became-table-stakes/)
+
 - [ ] [Year-in-Review: 2023 Was a Turning Point for Microservices]()
   - [thenewstack](https://thenewstack.io/year-in-review-was-2023-a-turning-point-for-microservices/)
 
