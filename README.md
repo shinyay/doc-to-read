@@ -1,9 +1,12 @@
 # Docs to READ
 
-- [ ] []()
+- [ ] [How to Get Advantages of TypeScript in JavaScript]()
   - []()
 
 ## 2023-12
+
+- [ ] []()
+  - [thenewstack](https://thenewstack.io/how-to-get-advantages-of-typescript-in-javascript/)
 
 - [ ] [Generative AI: In 2023, GenAI Tools Became Table Stakes]()
   - [thenewstack](https://thenewstack.io/generative-ai-in-2023-genai-tools-became-table-stakes/)
