@@ -1,11 +1,14 @@
 # Docs to READ
 
-- [ ] [How to Get Advantages of TypeScript in JavaScript]()
+- [ ] []()
   - []()
 
 ## 2023-12
 
-- [ ] []()
+- [ ] [Year in Review: Platform Engineering Still Run By Spreadsheet]()
+  - [thenewstack](https://thenewstack.io/year-in-review-platform-engineering-still-run-by-spreadsheet/)
+
+- [ ] [How to Get Advantages of TypeScript in JavaScript]()
   - [thenewstack](https://thenewstack.io/how-to-get-advantages-of-typescript-in-javascript/)
 
 - [ ] [Generative AI: In 2023, GenAI Tools Became Table Stakes]()
