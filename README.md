@@ -5,6 +5,9 @@
 
 ## 2023-12
 
+- [ ] [What Is a WebAssembly Component? The Ultimate Guide]()
+  - [thenewstack](https://thenewstack.io/what-is-a-webassembly-component-the-ultimate-guide/)
+
 - [ ] [Year in Review: Platform Engineering Still Run By Spreadsheet]()
   - [thenewstack](https://thenewstack.io/year-in-review-platform-engineering-still-run-by-spreadsheet/)
 
