@@ -5,6 +5,9 @@
 
 ## 2023-12
 
+- [ ] [Best of 2023: The End of Programming Is Nigh]()
+  - [thenewstack](https://thenewstack.io/the-end-of-programming-is-nigh/)
+
 - [ ] [What Is a WebAssembly Component? The Ultimate Guide]()
   - [thenewstack](https://thenewstack.io/what-is-a-webassembly-component-the-ultimate-guide/)
 
