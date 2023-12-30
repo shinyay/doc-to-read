@@ -5,6 +5,9 @@
 
 ## 2023-12
 
+- [ ] [Docker Buys AtomicJar to Spur Dev-Led Integration Testing]()
+  - [thenewstack](https://thenewstack.io/docker-buys-atomicjar-to-spur-dev-led-integration-testing/)
+
 - [ ] [Best of 2023: The End of Programming Is Nigh]()
   - [thenewstack](https://thenewstack.io/the-end-of-programming-is-nigh/)
 
