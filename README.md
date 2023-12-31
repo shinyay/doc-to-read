@@ -5,6 +5,10 @@
 
 ## 2023-12
 
+- [ ] [State of Serverless Computing and Event Streaming in 2024]()
+  - [thenewstack](https://thenewstack.io/docker-buys-atomicjar-to-spur-dev-led-integration-testing/)
+  - [](https://thenewstack.io/state-of-serverless-computing-and-event-streaming-in-2024/)
+
 - [ ] [Docker Buys AtomicJar to Spur Dev-Led Integration Testing]()
   - [thenewstack](https://thenewstack.io/docker-buys-atomicjar-to-spur-dev-led-integration-testing/)
 
