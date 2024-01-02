@@ -5,6 +5,9 @@
 
 ## 2024-01
 
+- [ ] [Web Dev 2024: Fediverse Ramps Up, More AI, Less JavaScript]()
+  - [thenewstack](https://thenewstack.io/web-dev-2024-fediverse-ramps-up-more-ai-less-javascript/)
+
 - [ ] [Kubernetes 1.29 ‘Mandala’ Tests Mutable Pod Resources]()
   - [thenewstack](https://thenewstack.io/kubernetes-1-29-mandala-tests-mutable-pod-resources/)
 
