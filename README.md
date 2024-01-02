@@ -5,6 +5,9 @@
 
 ## 2024-01
 
+- [ ] [Observability in 2024: More OpenTelemetry, Less Confusion]()
+  - [thenewstack](https://thenewstack.io/observability-in-2024-more-opentelemetry-less-confusion/)
+
 - [ ] [Web Dev 2024: Fediverse Ramps Up, More AI, Less JavaScript]()
   - [thenewstack](https://thenewstack.io/web-dev-2024-fediverse-ramps-up-more-ai-less-javascript/)
 
