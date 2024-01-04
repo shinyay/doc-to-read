@@ -5,6 +5,9 @@
 
 ## 2024-01
 
+- [ ] [WebAssembly: 4 Predictions for 2024]()
+  - [thenewstack](https://thenewstack.io/webassembly-4-predictions-for-2024/)
+
 - [ ] [Observability in 2024: More OpenTelemetry, Less Confusion]()
   - [thenewstack](https://thenewstack.io/observability-in-2024-more-opentelemetry-less-confusion/)
 
