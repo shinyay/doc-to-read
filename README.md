@@ -5,6 +5,9 @@
 
 ## 2024-01
 
+- [ ] [WebAssembly in 2024: Components Are and Are Not the Big Story]()
+  - [thenewstack](https://thenewstack.io/webassembly-in-2024-components-are-and-are-not-the-big-story/)
+
 - [ ] [WebAssembly: 4 Predictions for 2024]()
   - [thenewstack](https://thenewstack.io/webassembly-4-predictions-for-2024/)
 
