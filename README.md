@@ -3,6 +3,11 @@
 - [ ] []()
   - []()
 
+## 2024-04
+
+- [ ] [JavaScript, Python Neck and Neck in GitHub Developer Usage]()
+  - [thenewstack](https://thenewstack.io/javascript-python-neck-and-neck-in-github-developer-usage/)
+
 ## 2024-01
 
 - [ ] [WebAssembly in 2024: Components Are and Are Not the Big Story]()
