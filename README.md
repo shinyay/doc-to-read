@@ -8,6 +8,9 @@
 - [ ] [JavaScript, Python Neck and Neck in GitHub Developer Usage]()
   - [thenewstack](https://thenewstack.io/javascript-python-neck-and-neck-in-github-developer-usage/)
 
+- [ ] [How Generative AI Coding Assistants Increase Developer Velocity]()
+  - [thenewstack](https://thenewstack.io/how-generative-ai-coding-assistants-increase-developer-velocity/)
+
 ## 2024-01
 
 - [ ] [WebAssembly in 2024: Components Are and Are Not the Big Story]()
