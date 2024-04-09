@@ -11,6 +11,9 @@
 - [ ] [How Generative AI Coding Assistants Increase Developer Velocity]()
   - [thenewstack](https://thenewstack.io/how-generative-ai-coding-assistants-increase-developer-velocity/)
 
+- [ ] [Shifting Left Is Now Mainstream for Developers, or Is It?]()
+  - [thenewstack](https://thenewstack.io/shifting-left-is-now-mainstream-for-developers-or-is-it/)
+
 ## 2024-01
 
 - [ ] [WebAssembly in 2024: Components Are and Are Not the Big Story]()
