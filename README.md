@@ -14,6 +14,9 @@
 - [ ] [Shifting Left Is Now Mainstream for Developers, or Is It?]()
   - [thenewstack](https://thenewstack.io/shifting-left-is-now-mainstream-for-developers-or-is-it/)
 
+- [ ] [AI Code Generation: 6 FAQs for Developers]()
+  - [thenewstack](https://thenewstack.io/ai-code-generation-6-faqs-for-developers/)
+
 ## 2024-01
 
 - [ ] [WebAssembly in 2024: Components Are and Are Not the Big Story]()
