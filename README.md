@@ -17,6 +17,9 @@
 - [ ] [AI Code Generation: 6 FAQs for Developers]()
   - [thenewstack](https://thenewstack.io/ai-code-generation-6-faqs-for-developers/)
 
+- [ ] [Testing Copilot and ChatGPT as Coding Assistants: What We Found]()
+  - [thenewstack](https://thenewstack.io/testing-copilot-and-chatgpt-as-coding-assistants-what-we-found/)
+
 ## 2024-01
 
 - [ ] [WebAssembly in 2024: Components Are and Are Not the Big Story]()
