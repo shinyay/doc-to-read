@@ -23,6 +23,9 @@
 - [ ] [Are Copilots Ready to Provision Your Infrastructure?]()
   - [thenewstack](https://thenewstack.io/are-copilots-ready-to-provision-your-infrastructure/)
 
+- [ ] [Copilot Enterprise Introduces Search and Customized Best Practices]()
+  - [thenewstack](https://thenewstack.io/copilot-enterprise-introduces-search-and-customized-best-practices/)
+
 ## 2024-01
 
 - [ ] [WebAssembly in 2024: Components Are and Are Not the Big Story]()
