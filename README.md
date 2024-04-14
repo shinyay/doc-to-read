@@ -26,6 +26,24 @@
 - [ ] [Copilot Enterprise Introduces Search and Customized Best Practices]()
   - [thenewstack](https://thenewstack.io/copilot-enterprise-introduces-search-and-customized-best-practices/)
 
+- [ ] [How AI Is Shifting Developer Culture and Work at GitHub]()
+  - [thenewstack](https://thenewstack.io/how-ai-is-shifting-developer-culture-and-work-at-github/)
+
+- [ ] [Generative AI Tools for Infrastructure as Code]()
+  - [thenewstack](https://thenewstack.io/generative-ai-tools-for-infrastructure-as-code/)
+
+- [ ] []()
+  - []()
+
+- [ ] []()
+  - []()
+
+- [ ] []()
+  - []()
+
+- [ ] []()
+  - []()
+
 ## 2024-01
 
 - [ ] [WebAssembly in 2024: Components Are and Are Not the Big Story]()
