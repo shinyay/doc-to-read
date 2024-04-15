@@ -32,11 +32,11 @@
 - [ ] [Generative AI Tools for Infrastructure as Code]()
   - [thenewstack](https://thenewstack.io/generative-ai-tools-for-infrastructure-as-code/)
 
-- [ ] []()
-  - []()
+- [ ] [Accessing Perplexity Online LLMs Programmatically Via API]()
+  - [thenewstack](https://thenewstack.io/accessing-perplexity-online-llms-programmatically-via-api/)
 
-- [ ] []()
-  - []()
+- [ ] [Dev News: Python AI Tool, a Copilot Alternative, and RSC News]()
+  - [thenewstack](https://thenewstack.io/dev-news-python-ai-tool-a-copilot-alternative-and-rsc-news/)
 
 - [ ] []()
   - []()
