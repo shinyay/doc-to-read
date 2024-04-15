@@ -38,8 +38,8 @@
 - [ ] [Dev News: Python AI Tool, a Copilot Alternative, and RSC News]()
   - [thenewstack](https://thenewstack.io/dev-news-python-ai-tool-a-copilot-alternative-and-rsc-news/)
 
-- [ ] []()
-  - []()
+- [ ] [Developer Productivity in 2024: New Metrics, More GenAI]()
+  - [thenewstack](https://thenewstack.io/developer-productivity-in-2024-new-metrics-more-genai/)
 
 - [ ] []()
   - []()
