@@ -41,9 +41,11 @@
 - [ ] [Developer Productivity in 2024: New Metrics, More GenAI]()
   - [thenewstack](https://thenewstack.io/developer-productivity-in-2024-new-metrics-more-genai/)
 
-- [ ] []()
-  - []()
+- [ ] [Generative AI: In 2023, GenAI Tools Became Table Stakes]()
+  - [thenewstack](https://thenewstack.io/generative-ai-in-2023-genai-tools-became-table-stakes/)
 
+- [ ] [GitHub Developer Productivity at 30 Billion Messages per Day]()
+  - [thenewstack](https://thenewstack.io/github-developer-productivity-at-30-billion-messages-per-day/)
 ## 2024-01
 
 - [ ] [WebAssembly in 2024: Components Are and Are Not the Big Story]()
