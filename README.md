@@ -5,6 +5,9 @@
 
 ## 2024-04
 
+- [ ] [AI, LLMs and Security: How to Deal with the New Threats ](https://thenewstack.io/ai-llms-and-security-how-to-deal-with-the-new-threats/)
+  - [thenewstack]()
+
 - [ ] [A Coder Perspective: What It’s Like to Develop an AI App](https://thenewstack.io/a-coder-perspective-what-its-like-to-develop-an-ai-app/)
   - [thenewstack]()
 
