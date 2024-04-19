@@ -5,11 +5,14 @@
 
 ## 2024-04
 
-- [ ] [AI, LLMs and Security: How to Deal with the New Threats ](https://thenewstack.io/ai-llms-and-security-how-to-deal-with-the-new-threats/)
-  - [thenewstack]()
+- [ ] [How Spring and Java Shaped Internal Developer Platforms]()
+  - [thenewstack](https://thenewstack.io/how-spring-and-java-shaped-internal-developer-platforms/)
 
-- [ ] [A Coder Perspective: What It’s Like to Develop an AI App](https://thenewstack.io/a-coder-perspective-what-its-like-to-develop-an-ai-app/)
-  - [thenewstack]()
+- [ ] [AI, LLMs and Security: How to Deal with the New Threats ]()
+  - [thenewstack](https://thenewstack.io/ai-llms-and-security-how-to-deal-with-the-new-threats/)
+
+- [ ] [A Coder Perspective: What It’s Like to Develop an AI App]()
+  - [thenewstack](https://thenewstack.io/a-coder-perspective-what-its-like-to-develop-an-ai-app/)
 
 - [ ] [JavaScript, Python Neck and Neck in GitHub Developer Usage]()
   - [thenewstack](https://thenewstack.io/javascript-python-neck-and-neck-in-github-developer-usage/)
