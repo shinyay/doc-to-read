@@ -259,7 +259,7 @@
 - [ ] [Use Your Internal Developer Portal to Drive Better AppSec]()
   - [thenewstack](https://thenewstack.io/use-your-internal-developer-portal-to-drive-better-appsec/)
 
-- [ ] [VMware Expands Tanzu into a Full Platform Engineering Environment]()
+- [x] [VMware Expands Tanzu into a Full Platform Engineering Environment]()
   - [thenewstack](https://thenewstack.io/vmware-expands-tanzu-into-a-full-platform-engineering-environment/)
 
 ## 2023-06
@@ -280,7 +280,7 @@
   - [thenewstack](https://thenewstack.io/could-webassembly-be-the-key-to-decreasing-kubernetes-use/)
 
   > Kubernetes forces developers to care about infrastructure and they don’t necessarily want to, he added.
-  
+
   > “Basically, developers have to care about their infrastructure much more than they need to,” he said. “A lot of these things around microservices, we did them in Kubernetes because that was a great way to do it before we had stuff like WebAssembly, but microservices and functions … all those things work better in a world where WebAssembly exists because you focus just on writing that code.”
 
 - [x] [Wardley Mapping and Strategy for Software Developers]()
@@ -662,7 +662,7 @@ log.pdf)
   > - Leveraging containers rather than VMs: agility and high availablity
 
   > 3. But If You’re Not Ready to Leave Your VMs Behind, There Are Options
-  > - Hosting your VM in the cloud, in their original on-premises format and managed by the same hypervisor, 
+  > - Hosting your VM in the cloud, in their original on-premises format and managed by the same hypervisor,
   > - can be beneficial if there’s a lot of institutional knowledge at your organization related to their use
   > - you don’t want to give that knowledge up to learn a new system
 
@@ -838,7 +838,7 @@ Software development in organizations consists of a variety of requirements. The
 - [x] [App Modernization: Why ‘Lift and Shift’ Isn’t Good Enough](https://github.com/shinyay/doc-to-read/files/7955058/2021-12-08-thenewstack.pdf)
   - [The New Stack](https://thenewstack.io/app-modernization-why-lift-and-shift-isnt-good-enough/)
   > For instance, less than half of participants in a 2020 survey by Harvard Business Review said their cloud strategy has been effective in terms of IT management, customer experience, and innovation. That failure rate is because many IT organizations just lift and shift — simply re-host to the cloud — to meet artificial deadlines.
-  
+
   <details>
   <summary> 7Rs </summary>
 
@@ -869,7 +869,7 @@ Software development in organizations consists of a variety of requirements. The
 
 - [x] [When to Choose Cloud Foundry over Kubernetes](https://github.com/shinyay/doc-to-read/files/7955057/2021-12-02-thenewstack.pdf)
   - [The New Stack](https://thenewstack.io/when-to-choose-cloud-foundry-over-kubernetes/)
-  > While a single Kubernetes cluster might be easier to operate than a single Cloud Foundry, managing 100 Kubernetes clusters is several orders of magnitude harder than managing a single Cloud Foundry. 
+  > While a single Kubernetes cluster might be easier to operate than a single Cloud Foundry, managing 100 Kubernetes clusters is several orders of magnitude harder than managing a single Cloud Foundry.
 
   > Managing a large number of Kubernetes clusters creates complexity that is not necessary with Cloud Foundry.
 
