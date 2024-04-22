@@ -5,6 +5,9 @@
 
 ## 2024-04
 
+- [ ] [Platform as a Product in 4 Steps]()
+  - [thenewstack](https://thenewstack.io/platform-as-a-product-in-4-steps/)
+
 - [ ] [How Spring and Java Shaped Internal Developer Platforms]()
   - [thenewstack](https://thenewstack.io/how-spring-and-java-shaped-internal-developer-platforms/)
 
