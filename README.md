@@ -5,6 +5,12 @@
 
 ## 2024-04
 
+- [ ] [Using an Internal Developer Portal for FinOps Visibility]()
+  - [thenewstack](https://thenewstack.io/using-an-internal-developer-portal-for-finops-visibility/)
+
+- [ ] [Platform Engineering Is Not Just about the Tools]()
+  - [thenewstack](https://thenewstack.io/platform-engineering-is-not-just-about-the-tools/)
+
 - [ ] [Platform as a Product in 4 Steps]()
   - [thenewstack](https://thenewstack.io/platform-as-a-product-in-4-steps/)
 
