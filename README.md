@@ -5,6 +5,9 @@
 
 ## 2024-04
 
+- [ ] [Platform Engineering: More Teams Now Running 3 or More IDPs]()
+  - [thenewstack](https://thenewstack.io/platform-engineering-more-teams-now-running-3-or-more-idps/)
+
 - [ ] [Using an Internal Developer Portal for FinOps Visibility]()
   - [thenewstack](https://thenewstack.io/using-an-internal-developer-portal-for-finops-visibility/)
 
