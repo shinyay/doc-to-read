@@ -5,6 +5,9 @@
 
 ## 2024-04
 
+- [ ] [Developer Joy is the Productivity Metric You’re Missing]()
+  - [thenewstack](https://thenewstack.io/how-intercom-ships-industry-leading-developer-experience/)
+
 - [ ] [Platform Engineering: More Teams Now Running 3 or More IDPs]()
   - [thenewstack](https://thenewstack.io/platform-engineering-more-teams-now-running-3-or-more-idps/)
 
