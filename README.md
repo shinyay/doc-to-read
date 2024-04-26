@@ -5,6 +5,9 @@
 
 ## 2024-04
 
+- [ ] [Platform Engineering and GenAI: ‘Get Your House in Order’]()
+  - [thenewstack](https://thenewstack.io/platform-engineering-and-genai-get-your-house-in-order/)
+
 - [ ] [How Platform Engineering Takes on DevOps Challenges]()
   - [thenewstack](https://thenewstack.io/how-platform-engineering-takes-on-devops-challenges/)
 
