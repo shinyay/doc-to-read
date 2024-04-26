@@ -5,6 +5,9 @@
 
 ## 2024-04
 
+- [ ] [How Platform Engineering Takes on DevOps Challenges]()
+  - [thenewstack](https://thenewstack.io/how-platform-engineering-takes-on-devops-challenges/)
+
 - [ ] [Developer Joy is the Productivity Metric You’re Missing]()
   - [thenewstack](https://thenewstack.io/how-intercom-ships-industry-leading-developer-experience/)
 
