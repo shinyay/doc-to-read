@@ -3,6 +3,10 @@
 - [ ] []()
   - []()
 
+## 2024-05
+- [ ] [Spring AI 1.0.0-SHAOSHOT]()
+  - [spring](https://docs.spring.io/spring-ai/reference/1.0-SNAPSHOT/index.html)
+
 ## 2024-04
 
 - [ ] [Platform Engineering and GenAI: ‘Get Your House in Order’]()
