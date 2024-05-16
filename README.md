@@ -5,6 +5,9 @@
 
 ## 2024-05
 
+- [ ] [Spring AI - Multimodality - Orbis Sensualium Pictus]()
+  - [spring](https://spring.io/blog/2024/04/19/spring-ai-multimodality-orbis-sensualium-pictus)
+
 - [ ] [Getting Started with Spring AI and Azure Open AI (Jan-3)]()
   - [youtube](https://www.youtube.com/watch?v=RoAyxO_0IxM)
 
