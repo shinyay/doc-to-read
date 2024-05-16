@@ -5,6 +5,9 @@
 
 ## 2024-05
 
+- [ ] [Getting Started with Spring AI and Azure Open AI (Jan-3)]()
+  - [youtube](https://www.youtube.com/watch?v=RoAyxO_0IxM)
+
 - [ ] [Paving a Painless Path to Production AI in Your Java Applications - Mark Heckler (Apr-24)]()
   - [youtube](https://www.youtube.com/watch?v=r_GqXc3Q-bU)
 
