@@ -1,12 +1,15 @@
 # Docs to READ
 
-- [ ] [Getting started with Spring AI]()
-  - [dev](https://dev.to/anthonyikeda/getting-started-with-spring-ai-4j09)
+- [ ] []()
+  - []()
 
 ## 2024-05
 
-- [ ] []()
-  - []()
+- [ ] [Spring Boot conformity Spring AI Implement project access to chatgpt]()
+  - [dev](https://dev.to/superhandsomeg/spring-boot-conformity-spring-ai-implement-project-access-to-chatgpt-4opp)
+
+- [ ] [Getting started with Spring AI]()
+  - [dev](https://dev.to/anthonyikeda/getting-started-with-spring-ai-4j09)
 
 - [ ] [Spring AI 1.0.0-SHAOSHOT]()
   - [spring](https://docs.spring.io/spring-ai/reference/1.0-SNAPSHOT/index.html)
