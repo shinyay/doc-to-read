@@ -5,6 +5,9 @@
 
 ## 2024-05
 
+- [ ] [Spring AI - Structured Output]()
+  - [spring](https://spring.io/blog/2024/05/09/spring-ai-structured-output)
+
 - [ ] [Spring AI - Multimodality - Orbis Sensualium Pictus]()
   - [spring](https://spring.io/blog/2024/04/19/spring-ai-multimodality-orbis-sensualium-pictus)
 
