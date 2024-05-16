@@ -5,6 +5,9 @@
 
 ## 2024-05
 
+- [ ] [Refactoring a Spring AI Proof of Concept (PoC) - Part 1: Covering with tests]()
+  - [youtube](https://www.youtube.com/watch?v=lV3IUT5VxqA)
+
 - [ ] [Four Cool Things About Spring AI]()
   - [youtube](https://www.youtube.com/watch?v=HjDucvwmWeE)
 
