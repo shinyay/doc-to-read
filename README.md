@@ -1,9 +1,13 @@
 # Docs to READ
 
+- [ ] [Getting started with Spring AI]()
+  - [dev](https://dev.to/anthonyikeda/getting-started-with-spring-ai-4j09)
+
+## 2024-05
+
 - [ ] []()
   - []()
 
-## 2024-05
 - [ ] [Spring AI 1.0.0-SHAOSHOT]()
   - [spring](https://docs.spring.io/spring-ai/reference/1.0-SNAPSHOT/index.html)
 
