@@ -5,6 +5,9 @@
 
 ## 2024-05
 
+- [ ] [Spring AI Introduction: Building AI Applications in Java with Spring]()
+  - [youtube](https://www.youtube.com/watch?v=yyvjT0v3lpY&list=PLZV0a2jwt22uoDm3LNDFvN6i2cAVU_HTH)
+
 - [ ] [Spring AI - Structured Output]()
   - [spring](https://spring.io/blog/2024/05/09/spring-ai-structured-output)
 
