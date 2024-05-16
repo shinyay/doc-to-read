@@ -11,6 +11,9 @@
 - [ ] [Getting started with Spring AI]()
   - [dev](https://dev.to/anthonyikeda/getting-started-with-spring-ai-4j09)
 
+- [ ] [Spring Tips: Spring AI]()
+  - [youtube](https://www.youtube.com/watch?v=aNKDoiOUo9M)
+
 - [ ] [Spring AI 1.0.0-SHAOSHOT]()
   - [spring](https://docs.spring.io/spring-ai/reference/1.0-SNAPSHOT/index.html)
 
