@@ -5,6 +5,9 @@
 
 ## 2024-05
 
+- [ ] [Paving a Painless Path to Production AI in Your Java Applications - Mark Heckler (Apr-24)]()
+  - [youtube](https://www.youtube.com/watch?v=r_GqXc3Q-bU)
+
 - [ ] [Refactoring a Spring AI Proof of Concept (PoC) - Part 1: Covering with tests]()
   - [youtube](https://www.youtube.com/watch?v=lV3IUT5VxqA)
 
