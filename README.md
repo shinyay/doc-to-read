@@ -5,6 +5,9 @@
 
 ## 2024-05
 
+- [ ] [LLM Applications with Java and Spring AI]()
+  - [github](https://github.com/ThomasVitale/llm-apps-java-spring-ai)
+
 - [ ] [Spring AI Introduction: Building AI Applications in Java with Spring]()
   - [youtube](https://www.youtube.com/watch?v=yyvjT0v3lpY&list=PLZV0a2jwt22uoDm3LNDFvN6i2cAVU_HTH)
 
