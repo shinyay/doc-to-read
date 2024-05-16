@@ -5,6 +5,9 @@
 
 ## 2024-05
 
+- [ ] [Four Cool Things About Spring AI]()
+  - [youtube](https://www.youtube.com/watch?v=HjDucvwmWeE)
+
 - [ ] [Spring Boot conformity Spring AI Implement project access to chatgpt]()
   - [dev](https://dev.to/superhandsomeg/spring-boot-conformity-spring-ai-implement-project-access-to-chatgpt-4opp)
 
