@@ -5,6 +5,13 @@
 
 ## 2024-05
 
+### Platform Engineering
+
+- [ ] [Unleash AI in Platform Engineering to Streamline Software Delivery]()
+  - [thenewstack](https://thenewstack.io/integrating-ai-to-make-platform-engineering-intelligent/)
+
+### Spring AI
+
 - [ ] [LLM Applications with Java and Spring AI]()
   - [github](https://github.com/ThomasVitale/llm-apps-java-spring-ai)
 
