@@ -7,6 +7,9 @@
 
 ### Platform Engineering
 
+- [ ] [What Comes after Internal Developer Platforms?]()
+  - [thenewstack](https://thenewstack.io/what-comes-after-internal-developer-platforms/)
+
 - [ ] [Unleash AI in Platform Engineering to Streamline Software Delivery]()
   - [thenewstack](https://thenewstack.io/integrating-ai-to-make-platform-engineering-intelligent/)
 
