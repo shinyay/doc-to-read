@@ -15,7 +15,7 @@
 
 ### Spring AI
 
-- [ ] [LLM Applications with Java and Spring AI]()
+- [x] [LLM Applications with Java and Spring AI]()
   - [github](https://github.com/ThomasVitale/llm-apps-java-spring-ai)
 
 - [ ] [Spring AI Introduction: Building AI Applications in Java with Spring]()
