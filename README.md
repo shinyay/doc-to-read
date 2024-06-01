@@ -18,37 +18,37 @@
 - [x] [LLM Applications with Java and Spring AI]()
   - [github](https://github.com/ThomasVitale/llm-apps-java-spring-ai)
 
-- [ ] [Spring AI Introduction: Building AI Applications in Java with Spring]()
+- [x] [Spring AI Introduction: Building AI Applications in Java with Spring]()
   - [youtube](https://www.youtube.com/watch?v=yyvjT0v3lpY&list=PLZV0a2jwt22uoDm3LNDFvN6i2cAVU_HTH)
 
-- [ ] [Spring AI - Structured Output]()
+- [x] [Spring AI - Structured Output]()
   - [spring](https://spring.io/blog/2024/05/09/spring-ai-structured-output)
 
-- [ ] [Spring AI - Multimodality - Orbis Sensualium Pictus]()
+- [x] [Spring AI - Multimodality - Orbis Sensualium Pictus]()
   - [spring](https://spring.io/blog/2024/04/19/spring-ai-multimodality-orbis-sensualium-pictus)
 
-- [ ] [Getting Started with Spring AI and Azure Open AI (Jan-3)]()
+- [x] [Getting Started with Spring AI and Azure Open AI (Jan-3)]()
   - [youtube](https://www.youtube.com/watch?v=RoAyxO_0IxM)
 
-- [ ] [Paving a Painless Path to Production AI in Your Java Applications - Mark Heckler (Apr-24)]()
+- [x] [Paving a Painless Path to Production AI in Your Java Applications - Mark Heckler (Apr-24)]()
   - [youtube](https://www.youtube.com/watch?v=r_GqXc3Q-bU)
 
-- [ ] [Refactoring a Spring AI Proof of Concept (PoC) - Part 1: Covering with tests]()
+- [x] [Refactoring a Spring AI Proof of Concept (PoC) - Part 1: Covering with tests]()
   - [youtube](https://www.youtube.com/watch?v=lV3IUT5VxqA)
 
-- [ ] [Four Cool Things About Spring AI]()
+- [x] [Four Cool Things About Spring AI]()
   - [youtube](https://www.youtube.com/watch?v=HjDucvwmWeE)
 
-- [ ] [Spring Boot conformity Spring AI Implement project access to chatgpt]()
+- [x] [Spring Boot conformity Spring AI Implement project access to chatgpt]()
   - [dev](https://dev.to/superhandsomeg/spring-boot-conformity-spring-ai-implement-project-access-to-chatgpt-4opp)
 
-- [ ] [Getting started with Spring AI]()
+- [x] [Getting started with Spring AI]()
   - [dev](https://dev.to/anthonyikeda/getting-started-with-spring-ai-4j09)
 
 - [x] [Spring Tips: Spring AI]()
   - [youtube](https://www.youtube.com/watch?v=aNKDoiOUo9M)
 
-- [ ] [Spring AI 1.0.0-SHAOSHOT]()
+- [x] [Spring AI 1.0.0-SHAOSHOT]()
   - [spring](https://docs.spring.io/spring-ai/reference/1.0-SNAPSHOT/index.html)
 
 ## 2024-04
