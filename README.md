@@ -3,6 +3,13 @@
 - [ ] []()
   - []()
 
+## 2024-06
+
+
+- [ ] [GitHub and JFrog partner to unify code and binaries for DevSecOps]()
+  - [github](https://github.blog/2024-05-29-github-and-jfrog/
+  )
+
 ## 2024-05
 
 ### Platform Engineering
