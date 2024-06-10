@@ -5,6 +5,8 @@
 
 ## 2024-06
 
+- [ ] [Arm64 on GitHub Actions: Powering faster, more efficient build systems]()
+  - [github](https://github.blog/2024-06-03-arm64-on-github-actions-powering-faster-more-efficient-build-systems/)
 
 - [ ] [GitHub and JFrog partner to unify code and binaries for DevSecOps]()
   - [github](https://github.blog/2024-05-29-github-and-jfrog/
