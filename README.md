@@ -5,6 +5,9 @@
 
 ## 2024-06
 
+- [ ] [Top 12 Git commands every developer must know]()
+  - [github](https://github.blog/2024-06-10-top-12-git-commands-every-developer-must-know/)
+
 - [ ] [Arm64 on GitHub Actions: Powering faster, more efficient build systems]()
   - [github](https://github.blog/2024-06-03-arm64-on-github-actions-powering-faster-more-efficient-build-systems/)
 
