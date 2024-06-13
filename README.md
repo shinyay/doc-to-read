@@ -5,6 +5,8 @@
 
 ## 2024-06
 
+- [ ] [Unlocking the power of unstructured data with RAG]()
+  - [github](https://github.blog/2024-06-13-unlocking-the-power-of-unstructured-data-with-rag/)
 
 - [ ] [How we improved push processing on GitHub]()
   - [github](https://github.blog/2024-06-11-how-we-improved-push-processing-on-github/)
