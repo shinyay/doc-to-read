@@ -5,6 +5,9 @@
 
 ## 2024-06
 
+- [ ] [Drive Developer Self-Service with Crossplane, K8s and a Portal]()
+  - [thenewstack](https://thenewstack.io/drive-developer-self-service-with-crossplane-k8s-and-a-portal/)
+
 - [ ] [Unlocking the power of unstructured data with RAG]()
   - [github](https://github.blog/2024-06-13-unlocking-the-power-of-unstructured-data-with-rag/)
 
