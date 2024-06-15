@@ -5,6 +5,9 @@
 
 ## 2024-06
 
+- [ ] [Your Engineering Organization Is Too Expensive]()
+  - [thenewstack](https://thenewstack.io/your-engineering-organization-is-too-expensive/)
+
 - [ ] [Drive Developer Self-Service with Crossplane, K8s and a Portal]()
   - [thenewstack](https://thenewstack.io/drive-developer-self-service-with-crossplane-k8s-and-a-portal/)
 
