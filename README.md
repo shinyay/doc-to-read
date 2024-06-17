@@ -5,6 +5,9 @@
 
 ## 2024-06
 
+- [ ] [AI in Platform Engineering: Concerns Grow Alongside Advantages]()
+  - [thenewstack](https://thenewstack.io/ai-in-platform-engineering-concerns-grow-alongside-advantages/)
+
 - [ ] [Your Engineering Organization Is Too Expensive]()
   - [thenewstack](https://thenewstack.io/your-engineering-organization-is-too-expensive/)
 
