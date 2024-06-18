@@ -5,6 +5,9 @@
 
 ## 2024-06
 
+- [ ] [DevEx Success: How Pfizer Scaled to 1,000 Engineers]()
+  - [thenewstack](https://thenewstack.io/devex-success-how-pfizer-scaled-to-1000-engineers/)
+
 - [ ] [AI in Platform Engineering: Concerns Grow Alongside Advantages]()
   - [thenewstack](https://thenewstack.io/ai-in-platform-engineering-concerns-grow-alongside-advantages/)
 
