@@ -5,6 +5,9 @@
 
 ## 2024-06
 
+- [ ] [Platform Engineering: What Does ‘Good’ Look Like?]()
+  - [thenewstack](https://thenewstack.io/platform-engineering-what-does-good-look-like/)
+
 - [ ] [DevEx Success: How Pfizer Scaled to 1,000 Engineers]()
   - [thenewstack](https://thenewstack.io/devex-success-how-pfizer-scaled-to-1000-engineers/)
 
