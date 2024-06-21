@@ -5,6 +5,9 @@
 
 ## 2024-06
 
+- [ ] [https://thenewstack.io/new-spotify-portal-for-backstage-eases-platform-engineering/]()
+  - [thenewstack](https://thenewstack.io/new-spotify-portal-for-backstage-eases-platform-engineering/)
+
 - [ ] [Platform Engineering: What Does ‘Good’ Look Like?]()
   - [thenewstack](https://thenewstack.io/platform-engineering-what-does-good-look-like/)
 
