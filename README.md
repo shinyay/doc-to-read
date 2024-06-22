@@ -5,6 +5,9 @@
 
 ## 2024-06
 
+- [ ] [This Is Why Infra Teams Should Care About Platform Engineering]()
+  - [thenewstack](https://thenewstack.io/this-is-why-infra-teams-should-care-about-platform-engineering/)
+
 - [ ] [https://thenewstack.io/new-spotify-portal-for-backstage-eases-platform-engineering/]()
   - [thenewstack](https://thenewstack.io/new-spotify-portal-for-backstage-eases-platform-engineering/)
 
