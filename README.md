@@ -5,6 +5,9 @@
 
 ## 2024-06
 
+- [ ] [API Trends: Platform Engineering, the Unbundling and AI’s Role]()
+  - [](https://thenewstack.io/api-trends-platform-engineering-the-unbundling-and-ais-role/)
+
 - [ ] [This Is Why Infra Teams Should Care About Platform Engineering]()
   - [thenewstack](https://thenewstack.io/this-is-why-infra-teams-should-care-about-platform-engineering/)
 
