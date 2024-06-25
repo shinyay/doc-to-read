@@ -8,6 +8,9 @@
 - [ ] [Platform Engineering for a Mainframe: Design Thinking Drives Change]()
   - [](https://thenewstack.io/platform-engineering-for-a-mainframe-design-thinking-drives-change/)
 
+- [ ] [Platform Engineering for a Mainframe: Design Thinking Drives Change]()
+  - [](https://thenewstack.io/platform-engineering-for-a-mainframe-design-thinking-drives-change/)
+
 - [ ] [API Trends: Platform Engineering, the Unbundling and AI’s Role]()
   - [](https://thenewstack.io/api-trends-platform-engineering-the-unbundling-and-ais-role/)
 
