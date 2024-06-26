@@ -5,6 +5,9 @@
 
 ## 2024-06
 
+- [ ] [Tips for Building a Platform Engineering Discipline That Lasts]()
+  - [](https://thenewstack.io/tips-for-building-a-platform-engineering-discipline-that-lasts/)
+
 - [ ] [Platform Engineering for a Mainframe: Design Thinking Drives Change]()
   - [](https://thenewstack.io/platform-engineering-for-a-mainframe-design-thinking-drives-change/)
 
