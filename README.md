@@ -5,6 +5,9 @@
 
 ## 2024-06
 
+- [ ] [Boost Developer Productivity by Reducing Their ‘Paper Cuts’]()
+  - [](https://thenewstack.io/boost-developer-productivity-by-reducing-their-paper-cuts/)
+
 - [ ] [Tips for Building a Platform Engineering Discipline That Lasts]()
   - [](https://thenewstack.io/tips-for-building-a-platform-engineering-discipline-that-lasts/)
 
