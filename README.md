@@ -5,6 +5,9 @@
 
 ## 2024-06
 
+- [ ] [7 Principles for Improving Software Delivery]()
+  - [](https://thenewstack.io/agile-devops-platform-engineering-confusion-stalls-devs/)
+
 - [ ] [Boost Developer Productivity by Reducing Their ‘Paper Cuts’]()
   - [](https://thenewstack.io/boost-developer-productivity-by-reducing-their-paper-cuts/)
 
