@@ -5,6 +5,9 @@
 
 ## 2024-06
 
+- [ ] [Internal Developer Platform vs. Internal Developer Portal: What’s Up?]()
+  - [](https://thenewstack.io/internal-developer-platform-vs-internal-developer-portal-whats-up/)
+
 - [ ] [7 Principles for Improving Software Delivery]()
   - [](https://thenewstack.io/agile-devops-platform-engineering-confusion-stalls-devs/)
 
