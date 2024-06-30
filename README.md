@@ -5,6 +5,9 @@
 
 ## 2024-06
 
+- [ ] [How Do You Measure Developer Experience?]()
+  - [](https://thenewstack.io/how-do-you-measure-developer-experience/)
+
 - [ ] [Internal Developer Platform vs. Internal Developer Portal: What’s Up?]()
   - [](https://thenewstack.io/internal-developer-platform-vs-internal-developer-portal-whats-up/)
 
