@@ -5,6 +5,9 @@
 
 ## 2024-06
 
+- [ ] [Composable Platforms Are Promising, but Not a Silver Bullet]()
+  - [](https://thenewstack.io/composable-platforms-are-promising-but-not-a-silver-bullet/)
+
 - [ ] [How Do You Measure Developer Experience?]()
   - [](https://thenewstack.io/how-do-you-measure-developer-experience/)
 
