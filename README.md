@@ -3,6 +3,8 @@
 - [ ] []()
   - []()
 
+## 2024-07
+
 ## 2024-06
 
 - [ ] [Composable Platforms Are Promising, but Not a Silver Bullet]()
