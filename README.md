@@ -5,6 +5,9 @@
 
 ## 2024-07
 
+- [ ] [IDP vs. Self-Service Portal: A Platform Engineering Showdown]()
+  - [](https://thenewstack.io/idp-vs-self-service-portal-a-platform-engineering-showdown/)
+
 ## 2024-06
 
 - [ ] [Composable Platforms Are Promising, but Not a Silver Bullet]()
