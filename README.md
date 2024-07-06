@@ -5,6 +5,9 @@
 
 ## 2024-07
 
+- [ ] [Why Internal Developer Portals Need Automations]()
+  - [](https://thenewstack.io/why-internal-developer-portals-need-automations/)
+
 - [ ] [IDP vs. Self-Service Portal: A Platform Engineering Showdown]()
   - [](https://thenewstack.io/idp-vs-self-service-portal-a-platform-engineering-showdown/)
 
