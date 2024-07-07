@@ -5,6 +5,9 @@
 
 ## 2024-07
 
+- [ ] [How To Measure Platform Engineering]()
+  - [](https://thenewstack.io/how-to-measure-platform-engineering/)
+
 - [ ] [Why Internal Developer Portals Need Automations]()
   - [](https://thenewstack.io/why-internal-developer-portals-need-automations/)
 
