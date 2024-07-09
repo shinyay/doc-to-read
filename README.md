@@ -5,43 +5,46 @@
 
 ## 2024-07
 
+- [ ] [Platform Engineering Is for Everyone]()
+  - [thenewstack](https://thenewstack.io/platform-engineering-is-for-everyone/)
+
 - [ ] [How To Measure Platform Engineering]()
-  - [](https://thenewstack.io/how-to-measure-platform-engineering/)
+  - [thenewstack](https://thenewstack.io/how-to-measure-platform-engineering/)
 
 - [ ] [Why Internal Developer Portals Need Automations]()
-  - [](https://thenewstack.io/why-internal-developer-portals-need-automations/)
+  - [thenewstack](https://thenewstack.io/why-internal-developer-portals-need-automations/)
 
 - [ ] [IDP vs. Self-Service Portal: A Platform Engineering Showdown]()
-  - [](https://thenewstack.io/idp-vs-self-service-portal-a-platform-engineering-showdown/)
+  - [thenewstack](https://thenewstack.io/idp-vs-self-service-portal-a-platform-engineering-showdown/)
 
 ## 2024-06
 
 - [ ] [Composable Platforms Are Promising, but Not a Silver Bullet]()
-  - [](https://thenewstack.io/composable-platforms-are-promising-but-not-a-silver-bullet/)
+  - [thenewstack](https://thenewstack.io/composable-platforms-are-promising-but-not-a-silver-bullet/)
 
 - [ ] [How Do You Measure Developer Experience?]()
-  - [](https://thenewstack.io/how-do-you-measure-developer-experience/)
+  - [thenewstack](https://thenewstack.io/how-do-you-measure-developer-experience/)
 
 - [ ] [Internal Developer Platform vs. Internal Developer Portal: What’s Up?]()
-  - [](https://thenewstack.io/internal-developer-platform-vs-internal-developer-portal-whats-up/)
+  - [thenewstack](https://thenewstack.io/internal-developer-platform-vs-internal-developer-portal-whats-up/)
 
 - [ ] [7 Principles for Improving Software Delivery]()
-  - [](https://thenewstack.io/agile-devops-platform-engineering-confusion-stalls-devs/)
+  - [thenewstack](https://thenewstack.io/agile-devops-platform-engineering-confusion-stalls-devs/)
 
 - [ ] [Boost Developer Productivity by Reducing Their ‘Paper Cuts’]()
-  - [](https://thenewstack.io/boost-developer-productivity-by-reducing-their-paper-cuts/)
+  - [thenewstack](https://thenewstack.io/boost-developer-productivity-by-reducing-their-paper-cuts/)
 
 - [ ] [Tips for Building a Platform Engineering Discipline That Lasts]()
-  - [](https://thenewstack.io/tips-for-building-a-platform-engineering-discipline-that-lasts/)
+  - [thenewstack](https://thenewstack.io/tips-for-building-a-platform-engineering-discipline-that-lasts/)
 
 - [ ] [Platform Engineering for a Mainframe: Design Thinking Drives Change]()
-  - [](https://thenewstack.io/platform-engineering-for-a-mainframe-design-thinking-drives-change/)
+  - [thenewstack](https://thenewstack.io/platform-engineering-for-a-mainframe-design-thinking-drives-change/)
 
 - [ ] [Platform Engineering for a Mainframe: Design Thinking Drives Change]()
-  - [](https://thenewstack.io/platform-engineering-for-a-mainframe-design-thinking-drives-change/)
+  - [thenewstack](https://thenewstack.io/platform-engineering-for-a-mainframe-design-thinking-drives-change/)
 
 - [ ] [API Trends: Platform Engineering, the Unbundling and AI’s Role]()
-  - [](https://thenewstack.io/api-trends-platform-engineering-the-unbundling-and-ais-role/)
+  - [thenewstack](https://thenewstack.io/api-trends-platform-engineering-the-unbundling-and-ais-role/)
 
 - [ ] [This Is Why Infra Teams Should Care About Platform Engineering]()
   - [thenewstack](https://thenewstack.io/this-is-why-infra-teams-should-care-about-platform-engineering/)
@@ -257,22 +260,22 @@
 ### Platform Engineering
 
 - [ ] [Making the Leap: Ops Roles Evolve into Platform Engineers]()
-  - [](https://thenewstack.io/making-the-leap-ops-roles-evolve-into-platform-engineers/)
+  - [thenewstack](https://thenewstack.io/making-the-leap-ops-roles-evolve-into-platform-engineers/)
 
 - [ ] [Humanitec: The Golden Path to Platform Engineering]()
-  - [](https://thenewstack.io/humanitec-the-golden-path-to-platform-engineering/)
+  - [thenewstack](https://thenewstack.io/humanitec-the-golden-path-to-platform-engineering/)
 
 - [ ] [The Pillars of Platform Engineering: Part 6 — Observability]()
-  - [](https://thenewstack.io/the-pillars-of-platform-engineering-part-6-observability/)
+  - [thenewstack](https://thenewstack.io/the-pillars-of-platform-engineering-part-6-observability/)
 
 - [ ] [Software Delivery Enablement, Not Developer Productivity]()
-  - [](https://thenewstack.io/software-delivery-enablement-not-developer-productivity/)
+  - [thenewstack](https://thenewstack.io/software-delivery-enablement-not-developer-productivity/)
 
 - [ ] [The Pillars of Platform Engineering: Part 5 — Orchestration]()
-  - [](https://thenewstack.io/the-pillars-of-platform-engineering-part-5-orchestration/)
+  - [thenewstack](https://thenewstack.io/the-pillars-of-platform-engineering-part-5-orchestration/)
 
 - [ ] [Platform Engineering Helps a Scale-up Tame DevOps Complexity]()
-  - [](https://thenewstack.io/platform-engineering-helps-a-scale-up-tame-devops-complexity/)
+  - [thenewstack](https://thenewstack.io/platform-engineering-helps-a-scale-up-tame-devops-complexity/)
 
 ## 2023-09
 
@@ -534,7 +537,7 @@
   - [puppet](https://www.puppet.com/blog/what-platform-engineering)
 
 - [ ] [Internal Developer Advocacy: What Should You Do Next?](https://github.com/shinyay/doc-to-read/files/10515786/Internal.Developer.Advocacy_.What.Should.You.Do.Next_.-.The.New.Stack.pdf)
-  - [](https://thenewstack.io/internal-developer-advocacy-what-should-you-do-next/)
+  - [thenewstack](https://thenewstack.io/internal-developer-advocacy-what-should-you-do-next/)
 
 - [ ] [Are Your “Value Streams” Keeping You Stuck in the Past?](https://github.com/shinyay/doc-to-read/files/10515778/Are.Your.Value.Streams.Keeping.You.Stuck.in.the.Past_.pdf)
   - [InfoQ](https://www.infoq.com/articles/value-streams-stuck-past/)
