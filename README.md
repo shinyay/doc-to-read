@@ -5,6 +5,9 @@
 
 ## 2024-07
 
+- [ ] [The Hidden Benefits of Internal Developer Platforms]()
+  - [thenewstack](https://thenewstack.io/the-hidden-benefits-of-internal-developer-platforms/)
+
 - [ ] [Platform Engineering Is for Everyone]()
   - [thenewstack](https://thenewstack.io/platform-engineering-is-for-everyone/)
 
