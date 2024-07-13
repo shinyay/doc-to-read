@@ -5,6 +5,9 @@
 
 ## 2024-07
 
+- [ ] [What’s the Impact of Platform Engineering?]()
+  - [thenewstack](https://thenewstack.io/platformcon-whats-the-impact-of-platform-engineering/)
+
 - [ ] [The Hidden Benefits of Internal Developer Platforms]()
   - [thenewstack](https://thenewstack.io/the-hidden-benefits-of-internal-developer-platforms/)
 
