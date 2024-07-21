@@ -5,6 +5,9 @@
 
 ## 2024-07
 
+- [ ] [Platform Engineering: It Is All About the Tooling]()
+  - [thenewstack](https://thenewstack.io/platform-engineering-it-is-all-about-the-tooling/)
+
 - [ ] [What’s the Impact of Platform Engineering?]()
   - [thenewstack](https://thenewstack.io/platformcon-whats-the-impact-of-platform-engineering/)
 
