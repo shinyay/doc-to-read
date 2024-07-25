@@ -5,6 +5,9 @@
 
 ## 2024-07
 
+- [ ] [Platform Engineering Can Help Your Security Team, Too]()
+  - [thenewstack](https://thenewstack.io/platform-engineering-can-help-your-security-team-too/)
+
 - [ ] [Platform Engineering: It Is All About the Tooling]()
   - [thenewstack](https://thenewstack.io/platform-engineering-it-is-all-about-the-tooling/)
 
