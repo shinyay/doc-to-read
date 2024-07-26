@@ -5,6 +5,9 @@
 
 ## 2024-07
 
+- [ ] [Internal Developer Platforms: The Heart of Platform Engineering]()
+  - [thenewstack](https://thenewstack.io/internal-developer-platforms-the-heart-of-platform-engineering/)
+
 - [ ] [Platform Engineering Can Help Your Security Team, Too]()
   - [thenewstack](https://thenewstack.io/platform-engineering-can-help-your-security-team-too/)
 
