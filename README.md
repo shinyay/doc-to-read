@@ -5,6 +5,9 @@
 
 ## 2024-07
 
+- [ ] [How to review code effectively: A GitHub staff engineer’s philosophy]()
+  - [github](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/)
+
 - [ ] [Internal Developer Platforms: The Heart of Platform Engineering]()
   - [thenewstack](https://thenewstack.io/internal-developer-platforms-the-heart-of-platform-engineering/)
 
