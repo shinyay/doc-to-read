@@ -5,6 +5,9 @@
 
 ## 2024-07
 
+- [ ] [Copilot text completion for pull request descriptions beta]()
+  - [github](https://github.blog/changelog/2024-07-24-copilot-text-completion-for-pull-request-descriptions-beta/)
+
 - [ ] [How to review code effectively: A GitHub staff engineer’s philosophy]()
   - [github](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/)
 
