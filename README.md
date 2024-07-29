@@ -5,6 +5,9 @@
 
 ## 2024-07
 
+- [ ] [How To Run WebAssembly on Kubernetes]()
+  - [thenewstack](https://thenewstack.io/how-to-run-webassembly-on-kubernetes/)
+
 - [ ] [Copilot text completion for pull request descriptions beta]()
   - [github](https://github.blog/changelog/2024-07-24-copilot-text-completion-for-pull-request-descriptions-beta/)
 
