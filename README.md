@@ -5,6 +5,9 @@
 
 ## 2024-07
 
+- [ ] [How To Run Databases in Kubernetes]()
+  - [thenewstack](https://thenewstack.io/how-to-run-databases-in-kubernetes/)
+
 - [ ] [How To Run WebAssembly on Kubernetes]()
   - [thenewstack](https://thenewstack.io/how-to-run-webassembly-on-kubernetes/)
 
