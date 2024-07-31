@@ -5,6 +5,9 @@
 
 ## 2024-07
 
+- [ ] [DevEx Quick Wins for Platform Team Success]()
+  - [thenewstack](https://thenewstack.io/platform-teams-win-over-devs-with-quick-wins/)
+
 - [ ] [How To Run Databases in Kubernetes]()
   - [thenewstack](https://thenewstack.io/how-to-run-databases-in-kubernetes/)
 
