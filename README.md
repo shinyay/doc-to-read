@@ -3,6 +3,11 @@
 - [ ] []()
   - []()
 
+## 2024-08
+
+- [ ] [Score: New CNCF Sandbox Tool for Infrastructure-Centric Dev]()
+  - [thenewstack](https://thenewstack.io/score-new-cncf-sandbox-tool-for-infrastructure-centric-dev/)
+
 ## 2024-07
 
 - [ ] [DevEx Quick Wins for Platform Team Success]()
