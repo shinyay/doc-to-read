@@ -5,6 +5,9 @@
 
 ## 2024-08
 
+- [ ] [Get Certified in Platform Engineering, Starting Aug. 6]()
+  - [thenewstack](https://thenewstack.io/get-certified-in-platform-engineering-starting-aug-6/)
+
 - [ ] [Score: New CNCF Sandbox Tool for Infrastructure-Centric Dev]()
   - [thenewstack](https://thenewstack.io/score-new-cncf-sandbox-tool-for-infrastructure-centric-dev/)
 
