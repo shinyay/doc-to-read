@@ -5,6 +5,9 @@
 
 ## 2024-08
 
+- [ ] [How to measure GenAI adoption and impact](https://getdx.com/podcast/how-to-measure-genai-adoption-impact/)
+  - [engineeringenablement]()
+
 - [ ] [Get Certified in Platform Engineering, Starting Aug. 6]()
   - [thenewstack](https://thenewstack.io/get-certified-in-platform-engineering-starting-aug-6/)
 
