@@ -5,6 +5,9 @@
 
 ## 2024-08
 
+- [ ] [DORA, SPACE, and DevEx: Choosing the right framework](https://getdx.com/podcast/dora-space-devex-choosing-framework/)
+  - [engineeringenablement]()
+
 - [ ] [How to measure GenAI adoption and impact](https://getdx.com/podcast/how-to-measure-genai-adoption-impact/)
   - [engineeringenablement]()
 
