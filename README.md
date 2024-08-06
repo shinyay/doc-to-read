@@ -5,6 +5,9 @@
 
 ## 2024-08
 
+- [ ] [https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
+  - [github]()
+
 - [ ] [DORA, SPACE, and DevEx: Choosing the right framework](https://getdx.com/podcast/dora-space-devex-choosing-framework/)
   - [engineeringenablement]()
 
