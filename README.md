@@ -5,6 +5,9 @@
 
 ## 2024-08
 
+- [ ] [Introducing GitHub Models: A new generation of AI engineers building on GitHub](https://github.blog/news-insights/product-news/introducing-github-models/)
+  - [github]()
+
 - [ ] [https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
   - [github]()
 
