@@ -5,6 +5,9 @@
 
 ## 2024-08
 
+- [ ] [What’s new with GitHub Copilot: July 2024](https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-july-2024/)
+  - [github]()
+
 - [ ] [Introducing GitHub Models: A new generation of AI engineers building on GitHub](https://github.blog/news-insights/product-news/introducing-github-models/)
   - [github]()
 
