@@ -5,6 +5,9 @@
 
 ## 2024-08
 
+- [ ] [How to use AI coding tools to learn a new programming language](https://github.blog/developer-skills/programming-languages-and-frameworks/how-to-use-ai-coding-tools-to-learn-a-new-programming-language/)
+  - [github]()
+
 - [ ] [What’s new with GitHub Copilot: July 2024](https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-july-2024/)
   - [github]()
 
