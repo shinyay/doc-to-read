@@ -5,6 +5,9 @@
 
 ## 2024-08
 
+- [ ] [Beginner’s guide to GitHub: Adding code to your repository](https://github.blog/developer-skills/github/beginners-guide-to-github-adding-code-to-your-repository/)
+  - [github]()
+
 - [ ] [How to use AI coding tools to learn a new programming language](https://github.blog/developer-skills/programming-languages-and-frameworks/how-to-use-ai-coding-tools-to-learn-a-new-programming-language/)
   - [github]()
 
