@@ -5,6 +5,9 @@
 
 ## 2024-08
 
+- [ ] [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
+  - [github docs]()
+
 - [ ] [Beginner’s guide to GitHub: Adding code to your repository](https://github.blog/developer-skills/github/beginners-guide-to-github-adding-code-to-your-repository/)
   - [github]()
 
