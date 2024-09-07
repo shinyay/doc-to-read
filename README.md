@@ -3,6 +3,11 @@
 - [ ] []()
   - []()
 
+## 2024-09
+
+- [ ] [Platform tooling landscape](https://platformengineering.org/platform-tooling)
+  - ![image](https://cdn.prod.website-files.com/6489de99f6259b6eef4fae4f/66cefbd4024c2bf8e2a844c0_platform-tooling-landscape-2024-08-15-p-1600.webp)
+
 ## 2024-08
 
 - [ ] [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
