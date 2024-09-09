@@ -5,6 +5,9 @@
 
 ## 2024-09
 
+- [ ] [How Supabase Is Building Its Platform Engineering Strategy](https://thenewstack.io/how-supabase-is-building-its-platform-engineering-strategy/)
+  - [thenewstack]()
+
 - [ ] [Platform Engineering – Making Other Teams 10x Better](https://www.infoq.com/podcasts/platform-engineering-teams-10x-better/)
   - [infoq]()
 
