@@ -5,6 +5,9 @@
 
 ## 2024-09
 
+- [ ] [Platform Engineering Is Security Engineering](https://www.darkreading.com/application-security/platform-engineering-is-security-engineering)
+  - [misc]()
+
 - [ ] [How Supabase Is Building Its Platform Engineering Strategy](https://thenewstack.io/how-supabase-is-building-its-platform-engineering-strategy/)
   - [thenewstack]()
 
