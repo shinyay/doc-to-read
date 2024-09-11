@@ -5,6 +5,9 @@
 
 ## 2024-09
 
+- [ ] [Building a platform engineering team that’s set up for success](https://sdtimes.com/softwaredev/building-a-platform-engineering-team-thats-set-up-for-success/)
+  - [sdtimes]()
+
 - [ ] [Platform Engineering Is Security Engineering](https://www.darkreading.com/application-security/platform-engineering-is-security-engineering)
   - [misc]()
 
