@@ -5,6 +5,9 @@
 
 ## 2024-09
 
+- [ ] [How To Implement InnerSource With an Internal Developer Portal](https://thenewstack.io/how-to-implement-innersource-with-an-internal-developer-portal/)
+  - [thenewstack]()
+
 - [ ] [Building a platform engineering team that’s set up for success](https://sdtimes.com/softwaredev/building-a-platform-engineering-team-thats-set-up-for-success/)
   - [sdtimes]()
 
