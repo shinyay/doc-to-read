@@ -5,6 +5,9 @@
 
 ## 2024-09
 
+- [ ] [Innersource: Building Open Source Projects Behind Company Firewalls](https://thenewstack.io/github-bloomberg-talk-using-innersource-build-open-source-project-development-behind-company-firewalls/)
+  - [thenewstack]()
+
 - [ ] [How To Implement InnerSource With an Internal Developer Portal](https://thenewstack.io/how-to-implement-innersource-with-an-internal-developer-portal/)
   - [thenewstack]()
 
