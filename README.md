@@ -5,6 +5,9 @@
 
 ## 2024-09
 
+- [ ] [Adopting an ‘Inner Source’ Culture Within Organizations](https://thenewstack.io/adopting-inner-source-culture-within-organizations/)
+  - [thenewstack]()
+
 - [ ] [Innersource: Building Open Source Projects Behind Company Firewalls](https://thenewstack.io/github-bloomberg-talk-using-innersource-build-open-source-project-development-behind-company-firewalls/)
   - [thenewstack]()
 
