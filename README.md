@@ -5,6 +5,9 @@
 
 ## 2024-09
 
+- [ ] [Open Source Culture Starts with Programs and Policies](https://thenewstack.io/open-source-culture-starts-with-programs-and-policies/)
+  - [thenewstack]()
+
 - [ ] [Adopting an ‘Inner Source’ Culture Within Organizations](https://thenewstack.io/adopting-inner-source-culture-within-organizations/)
   - [thenewstack]()
 
