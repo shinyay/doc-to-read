@@ -3,6 +3,11 @@
 - [ ] []()
   - []()
 
+## 2024-10
+
+- [ ] [How to Build an Internal Developer Platform Like a Product](https://thenewstack.io/how-to-build-an-internal-developer-platform-like-a-product/)
+  - [thenewstack]()
+
 ## 2024-09
 
 - [ ] [Open Source Culture Starts with Programs and Policies](https://thenewstack.io/open-source-culture-starts-with-programs-and-policies/)
