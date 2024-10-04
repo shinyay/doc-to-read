@@ -5,6 +5,12 @@
 
 ## 2024-10
 
+- [ ] [Build Platform Engineering as a Product for Dev Adoption](https://thenewstack.io/build-platform-engineering-as-a-product-for-dev-adoption/)
+  - [thenewstack]()
+
+- [ ] [How Supabase Is Building Its Platform Engineering Strategy](https://thenewstack.io/how-supabase-is-building-its-platform-engineering-strategy/)
+  - [thenewstack]()
+
 - [ ] [How to Build an Internal Developer Platform Like a Product](https://thenewstack.io/how-to-build-an-internal-developer-platform-like-a-product/)
   - [thenewstack]()
 
