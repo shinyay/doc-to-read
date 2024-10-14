@@ -5,6 +5,12 @@
 
 ## 2024-10
 
+- [ ] [Spring Cloud Azure documentation](https://learn.microsoft.com/en-us/azure/developer/java/spring-framework/)
+  - [mslearn]()
+
+- [ ] [Microsoft Taking Up the Mantra of Platform Engineering](https://thenewstack.io/microsoft-taking-up-the-mantra-of-platform-engineering/)
+  - [thenewstack]()
+
 - [ ] [Build Platform Engineering as a Product for Dev Adoption](https://thenewstack.io/build-platform-engineering-as-a-product-for-dev-adoption/)
   - [thenewstack]()
 
