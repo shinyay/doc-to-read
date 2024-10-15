@@ -5,6 +5,9 @@
 
 ## 2024-10
 
+- [ ] [Spring Cloud Azure](https://github.com/microsoft/spring-cloud-azure)
+  - [github]()
+
 - [ ] [Spring Cloud Azure documentation](https://learn.microsoft.com/en-us/azure/developer/java/spring-framework/)
   - [mslearn]()
 
