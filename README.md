@@ -5,6 +5,9 @@
 
 ## 2024-10
 
+- [ ] [Spring Cloud Azure - Reference Documentation](https://microsoft.github.io/spring-cloud-azure/current/reference/html/index.html)
+  - [github]()
+
 - [ ] [Azure SDK for Java](https://github.com/Azure/azure-sdk-for-java/)
   - [github]()
 
