@@ -5,6 +5,9 @@
 
 ## 2024-10
 
+- [ ] [Azure SDK for Java](https://github.com/Azure/azure-sdk-for-java/)
+  - [github]()
+
 - [ ] [Spring Cloud Azure](https://github.com/microsoft/spring-cloud-azure)
   - [github]()
 
