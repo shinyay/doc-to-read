@@ -5,6 +5,9 @@
 
 ## 2024-10
 
+- [ ] [Spring Cloud Azure documentation - JP](https://learn.microsoft.com/ja-jp/azure/developer/java/spring-framework/)
+  - [mslean]()
+
 - [ ] [Spring Cloud Azure - Reference Documentation](https://microsoft.github.io/spring-cloud-azure/current/reference/html/index.html)
   - [github]()
 
