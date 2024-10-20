@@ -5,6 +5,9 @@
 
 ## 2024-10
 
+- [ ] [Spring Cloud Azure Samples](https://github.com/Azure-Samples/azure-spring-boot-samples)
+  - [github]()
+
 - [ ] [Spring Cloud Azure documentation - JP](https://learn.microsoft.com/ja-jp/azure/developer/java/spring-framework/)
   - [mslean]()
 
