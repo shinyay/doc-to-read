@@ -5,6 +5,12 @@
 
 ## 2024-10
 
+- [ ] [Azure Spring Boot](https://github.com/microsoft/azure-spring-boot)
+  - [github]()
+
+- [ ] [Spring Cloud Azure modules](https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/spring)
+  - [github]()
+
 - [ ] [Spring Cloud Azure Samples](https://github.com/Azure-Samples/azure-spring-boot-samples)
   - [github]()
 
