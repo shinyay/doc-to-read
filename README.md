@@ -3,6 +3,15 @@
 - [ ] []()
   - []()
 
+
+## 2024-12
+
+- [ ] [DORA 2024: AI and Platform Engineering Fall Short](https://thenewstack.io/dora-2024-ai-and-platform-engineering-fall-short/)
+  - [thenewstack]()
+
+
+## 2024-11
+
 ## 2024-10
 
 - [ ] [Azure Spring Boot](https://github.com/microsoft/azure-spring-boot)
