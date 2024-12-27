@@ -6,6 +6,12 @@
 
 ## 2024-12
 
+- [ ] [4 North Star Metrics for Platform Engineering Teams](https://thenewstack.io/4-north-star-metrics-for-platform-engineering-teams/)
+  - [thenewstack]()
+
+- [ ] [6 Steps To Shift Platform Engineering From Reactive to Proactive](https://thenewstack.io/6-steps-to-shift-platform-engineering-from-reactive-to-proactive/)
+  - [thenewstack]()
+
 - [ ] [DORA 2024: AI and Platform Engineering Fall Short](https://thenewstack.io/dora-2024-ai-and-platform-engineering-fall-short/)
   - [thenewstack]()
 
