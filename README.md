@@ -3,6 +3,13 @@
 - [ ] []()
   - []()
 
+## 2025-01
+
+- [ ] [What 2024’s Data Told Us About How Developers Work Now](https://thenewstack.io/what-2024s-data-told-us-about-how-developers-work-now/)
+  - [thenewstack]()
+
+- [ ] [Developer Productivity in 2025: More AI, but Mixed Results](https://thenewstack.io/developer-productivity-in-2025-more-ai-but-mixed-results/)
+  - [thenewstack]()
 
 ## 2024-12
 
