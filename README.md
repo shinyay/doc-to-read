@@ -8,9 +8,16 @@
 - [ ] [What 2024’s Data Told Us About How Developers Work Now](https://thenewstack.io/what-2024s-data-told-us-about-how-developers-work-now/)
   - [thenewstack]()
 
-- [ ] [Developer Productivity in 2025: More AI, but Mixed Results](https://thenewstack.io/developer-productivity-in-2025-more-ai-but-mixed-results/)
+- [x] [Developer Productivity in 2025: More AI, but Mixed Results](https://thenewstack.io/developer-productivity-in-2025-more-ai-but-mixed-results/)
   - [thenewstack]()
+  - > - **AI Adoption**: In 2024, generative AI was widely adopted for software development, but it didn't significantly improve developer productivity due to technical debt and documentation issues.
+    > - **Security Risks**: Increased AI-generated code has led to more security vulnerabilities, requiring better tools for managing and validating code.
+    > - **Observability**: The complexity of AI-driven code generation necessitates robust observability tools to maintain efficiency and quality.
+    > - **Team Dynamics**: AI is expected to change team organization, with AI assistants becoming integral to workflows.
+    > - **Junior Developers**: Early-career developers face challenges due to the gap between education and real-world skills, and the rise of AI might exacerbate this issue.
+    > - **Upskilling**: Continuous training is essential for both junior and senior developers to effectively use AI tools.
 
+Let me know if you need more details on any specific section!
 ## 2024-12
 
 - [ ] [4 North Star Metrics for Platform Engineering Teams](https://thenewstack.io/4-north-star-metrics-for-platform-engineering-teams/)
