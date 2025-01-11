@@ -5,6 +5,9 @@
 
 ## 2025-01
 
+- [ ] [5 Steps to Build a Standardized Software Development Platform](https://thenewstack.io/5-steps-to-build-a-standardized-software-development-platform/)
+  - [thenewstack]()
+
 - [ ] [Five Ways Your Platform Engineering Journey Can Derail](https://thenewstack.io/five-ways-your-platform-engineering-journey-can-derail/)
   - [thenewstack]()
 
