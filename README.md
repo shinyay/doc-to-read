@@ -7,6 +7,12 @@
 
 - [ ] [Developer Productivity: Who’s Tracking It? Not Many](https://thenewstack.io/developer-productivity-whos-tracking-it-not-many/)
   - [thenewstack]()
+  - > - **Tracking Developer Productivity**: Only 28% of managers surveyed measure both developer productivity and experience, while 40% measure neither.
+    > - **Satisfaction Levels**: Among managers aware of their company's approach, 57% are satisfied with how developer productivity and experience are tracked.
+    > - **Role Awareness**: 60% of those responsible for developer productivity/experience are aware of their company's approach, but only 35% stay informed about the latest trends.
+    > - **Survey Details**: The report surveyed over 23,000 developers worldwide.
+
+Would you like more details on any specific aspect?
 
 - [ ] [5 Steps to Build a Standardized Software Development Platform](https://thenewstack.io/5-steps-to-build-a-standardized-software-development-platform/)
   - [thenewstack]()
