@@ -5,6 +5,9 @@
 
 ## 2025-01
 
+- [ ] [Developer Productivity: Who’s Tracking It? Not Many](https://thenewstack.io/developer-productivity-whos-tracking-it-not-many/)
+  - [thenewstack]()
+
 - [ ] [5 Steps to Build a Standardized Software Development Platform](https://thenewstack.io/5-steps-to-build-a-standardized-software-development-platform/)
   - [thenewstack]()
 
