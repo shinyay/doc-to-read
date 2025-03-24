@@ -3,10 +3,50 @@
 - [ ] []()
   - []()
 
+## 2025-03
+
+- [x] [Model Context Protocol — Intuitively and Exhaustively Explained](https://iaee.substack.com/p/model-context-protocol-intuitively)
+
+>### Introduction to MCP
+>- **MCP Overview**: MCP is a new standard allowing AI to connect with external systems, similar to how humans use web browsers. It's often described as the "HTTP of AI" due to >its potential to revolutionize AI connectivity.
+>- **Popularity**: The protocol has seen rapid growth and is considered a significant advancement in AI integration.
+>
+>### Key Concepts and Technologies
+>- **Retrieval Augmented Generation (RAG)**: A method to inject contextual information into AI models, enhancing their ability to answer specific queries.
+>- **Agents**: Extensions of RAG that use tools to execute tasks, making AI interactions more dynamic and functional.
+>
+>### Anthropic and MCP
+>- **Anthropic's Role**: The company behind MCP, known for its Claude family of models. They aim to improve AI integration with desktop environments through MCP.
+>- **Claude Desktop**: An application that allows Claude to automate desktop tasks, demonstrating the practical use of MCP.
+>
+>### MCP Functionality
+>- **Tools, Resources, and Prompts**: MCP standardizes how AI models access and use external data and tools.
+>  - **Tools**: Functions that AI models can execute.
+>  - **Resources**: Data that can be read by AI models.
+>  - **Prompts**: Pre-written templates to guide AI interactions.
+>
+>### Advanced Features
+>- **Resource Templates**: Allow dynamic querying of resources.
+>- **Sampling**: Enables servers to request LLM completions through the client.
+>- **Roots**: Define the boundaries where servers can operate, ensuring security and privacy.
+>
+>### Transports
+>- **Standard Input/Output (stdio)**: The default transport method for local communication.
+>- **Server Side Events (SSE)**: Allows MCP clients and servers to communicate over the internet, enabling broader connectivity.
+>
+>### Closing Thoughts
+>- **Future of MCP**: While MCP is still in its early stages, it has the potential to become a fundamental standard for AI connectivity, similar to USB-C for devices. However, >its future depends on how well it adapts to evolving AI technologies and user needs.
+
 ## 2025-01
 
 - [ ] [Developer Productivity: Who’s Tracking It? Not Many](https://thenewstack.io/developer-productivity-whos-tracking-it-not-many/)
   - [thenewstack]()
+  - > - **Tracking Developer Productivity**: Only 28% of managers surveyed measure both developer productivity and experience, while 40% measure neither.
+    > - **Satisfaction Levels**: Among managers aware of their company's approach, 57% are satisfied with how developer productivity and experience are tracked.
+    > - **Role Awareness**: 60% of those responsible for developer productivity/experience are aware of their company's approach, but only 35% stay informed about the latest trends.
+    > - **Survey Details**: The report surveyed over 23,000 developers worldwide.
+
+Would you like more details on any specific aspect?
 
 - [ ] [5 Steps to Build a Standardized Software Development Platform](https://thenewstack.io/5-steps-to-build-a-standardized-software-development-platform/)
   - [thenewstack]()
