@@ -5,6 +5,25 @@
 
 ## 2025-03
 
+- [x] [OpenAI adopts rival Anthropic’s standard for connecting AI models to data](https://techcrunch.com/2025/03/26/openai-adopts-rival-anthropics-standard-for-connecting-ai-models-to-data/)
+
+>### Detailed Summary of the Article on MCP
+>
+>#### Introduction
+>- **OpenAI Adopts MCP**: OpenAI has decided to support Anthropic's Model Context Protocol (MCP), a standard for connecting AI models to data systems, across its products, >including the ChatGPT desktop app.
+>
+>#### Key Features of MCP
+>- **Enhanced AI Responses**: MCP helps AI models produce more relevant responses by drawing data from various sources like business tools and content repositories.
+>- **Two-Way Connections**: Developers can build connections between data sources and AI applications, enabling more dynamic interactions.
+>
+>#### Adoption and Integration
+>- **Industry Adoption**: Since its open-source release, MCP has been adopted by companies like Block, Apollo, Replit, Codeium, and Sourcegraph.
+>- **OpenAI's Integration**: OpenAI plans to integrate MCP into its Agents SDK and Responses API, enhancing the functionality of its AI models.
+>
+>#### Future Plans
+>- **Expansion**: OpenAI intends to share more details about its MCP integration plans in the coming months, indicating a broader adoption and potential new features.
+
+
 - [x] [New Protocol MCP Helps to Transform AI Agents from Isolated Chatbots into Context-Aware Digital Environments](https://www.anoopcnair.com/new-protocol-mcp-helps-to-transform-ai-agents-f/)
 
 >### Detailed Summary of the Article on MCP
