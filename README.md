@@ -5,6 +5,31 @@
 
 ## 2025-03
 
+- [x] [The open source Model Context Protocol was just updated — here’s why it’s a big deal](https://venturebeat.com/ai/the-open-source-model-context-protocol-was-just-updated-heres-why-its-a-big-deal/)
+
+>### Detailed Summary of the Article on MCP
+>
+>#### Introduction
+>- **MCP Milestone**: The Model Context Protocol (MCP) has reached a significant milestone with an updated version, enhancing AI agents' security, capabilities, and >interoperability.
+>- **OpenAI's Support**: OpenAI announced support for MCP across its products, including the Agents SDK and upcoming support for ChatGPT's desktop app and Responses API.
+>
+>#### Key Updates in MCP
+>- **OAuth 2.1-Based Authorization Framework**: Introduces a robust standard for securing agent-server communication.
+>- **Streamable HTTP Transport**: Replaces the older HTTP+SSE setup, enabling real-time, bidirectional data flow.
+>- **JSON-RPC Batching**: Allows multiple requests to be sent in one go, improving efficiency.
+>- **Tool Annotations**: Adds rich metadata for describing tool behavior, enhancing AI agents' discovery and reasoning capabilities.
+>
+>#### Microsoft's Contribution
+>- **Playwright-MCP**: Microsoft released Playwright-MCP, enabling AI agents to interact with web pages using the Chrome accessibility tree. This allows AI agents to navigate, >click, type, and interact with web content like real users.
+>
+>#### Broader Implications
+>- **Interoperability**: MCP aims to standardize AI interactions with tools and systems, making it easier for AI agents to work across different platforms.
+>- **Industry Support**: With backing from companies like Anthropic, LangChain, and now Microsoft, MCP is poised to become a standard for AI connectivity.
+>
+>#### Future Prospects
+>- **Potential Adoption**: If other major players like Meta, Amazon, or Apple adopt MCP, it could become the universal "language" for AI actions, significantly advancing AI interoperability.
+
+
 - [x] [OpenAI adopts rival Anthropic’s standard for connecting AI models to data](https://techcrunch.com/2025/03/26/openai-adopts-rival-anthropics-standard-for-connecting-ai-models-to-data/)
 
 >### Detailed Summary of the Article on MCP
