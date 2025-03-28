@@ -5,6 +5,37 @@
 
 ## 2025-03
 
+- [x] [Getting Started: Model Context Protocol](https://medium.com/@kenzic/getting-started-model-context-protocol-e0a80dddff80)
+
+>### Detailed Summary of the Article on MCP
+>
+>#### Introduction
+>- **MCP Overview**: The Model Context Protocol (MCP) is designed to simplify AI integrations, break down data silos, and unlock real-time data access. It aims to provide a universal standard for connecting AI to various data sources and tools.
+>
+>#### Key Features and Benefits
+>- **Simplified Integrations**: MCP eliminates the need for custom integrations for each new data source, making it easier for AI systems to access the necessary context.
+>- **Real-Time Data Access**: By connecting AI to data sources in real-time, MCP enhances the relevance and quality of AI outputs.
+>- **User-Friendly**: MCP allows users to interact with data systems using natural language, automating repetitive tasks and combining various actions to save time.
+>
+>#### How MCP Works
+>- **Architecture**: MCP bridges two key components: MCP servers that expose data sources and MCP clients (AI apps) that connect to those servers. This setup allows AI systems to access data and tools in real-time while maintaining a permissions framework to control access.
+>- **Components**:
+>  - **Hosts**: LLM applications that initiate connections.
+>  - **Clients**: Maintain 1:1 connections with servers inside the host application.
+>  - **Servers**: Provide context, tools, and prompts to clients.
+>
+>#### Practical Applications
+>- **Task Automation**: MCP is used to automate tasks, manage data, and enhance productivity across different industries.
+>- **Versatility**: It connects with various databases (e.g., PostgreSQL, MySQL, SQLite) and platforms (e.g., GitHub, Slack, Gmail), making AI a versatile assistant capable of handling multiple tasks efficiently.
+>
+>#### Innovations
+>- **Unified Framework**: MCP standardizes AI interactions with external tools and systems, eliminating the need for custom integrations.
+>- **Communication Methods**: Supports various communication methods like Standard Input/Output (STDIO) and Server-Sent Events (SSE), enabling real-time updates and reducing delays.
+>
+>#### Future Prospects
+>- **Potential Adoption**: MCP has the potential to become a fundamental standard for AI connectivity, similar to USB-C for devices. Its success will depend on its adaptability to evolving AI technologies and user needs.
+>
+
 - [x] [The open source Model Context Protocol was just updated — here’s why it’s a big deal](https://venturebeat.com/ai/the-open-source-model-context-protocol-was-just-updated-heres-why-its-a-big-deal/)
 
 >### Detailed Summary of the Article on MCP
