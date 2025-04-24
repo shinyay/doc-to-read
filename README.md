@@ -3,6 +3,40 @@
 - [ ] []()
   - []()
 
+## 2025-04
+
+- [x] [AI Trends Disrupting Software Teams](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/)
+  - [infoq]()
+
+AI is reshaping every corner of the software-delivery pipeline.  Bilgin Ibryam’s InfoQ article distils **five macro-trends**—from “AI-first coding” to agentic systems—that are already disrupting developers, ops, documentation, SaaS products and platform teams.  Each trend removes manual effort from a different layer of work, forcing professionals to up-skill in prompting, orchestration and evaluation to stay valuable.  ([AI Trends Disrupting Software Teams - InfoQ](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/))
+
+## 1. Generative Software Development
+AI copilots are lifting coding from line-by-line typing to *prompt-driven generation*, able to scaffold components or whole apps from natural language or screenshots.  ([AI Trends Disrupting Software Teams - InfoQ](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/))  Two tool streams are emerging: **IDE copilots** (GitHub Copilot, Cursor) that fit today’s workflows, and **autonomous coding agents** (Devin, v0.dev) that build and run apps in sand-boxed VMs.  ([AI Trends Disrupting Software Teams - InfoQ](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/))  Developers who pivot from “expert typist” to **AI collaborator**—supplying architecture context, refining prompts and validating output—will thrive.  ([AI Trends Disrupting Software Teams - InfoQ](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/))
+
+## 2. AI-Powered Operations
+Human capacity can’t keep pace with telemetry from cloud-native systems, so observability vendors now embed LLMs for anomaly detection, root-cause analysis and chat-based run-books.  ([AI Trends Disrupting Software Teams - InfoQ](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/))  Ops work shifts from writing queries to **designing AI-guided SLOs and remediation policies**.  Teams must still understand system architecture to approve or override automated fixes.  ([AI Trends Disrupting Software Teams - InfoQ](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/))
+
+## 3. Context-Aware Interactive Documentation
+Retrieval-Augmented Generation turns static docs into **conversational, code-aware assistants** that surface up-to-date APIs, stack traces and best-practice snippets in chat form.  ([AI Trends Disrupting Software Teams - InfoQ](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/))  Technical writers move from manual updates to curating FAQs, mining incident logs and closing knowledge gaps the AI reveals.  ([AI Trends Disrupting Software Teams - InfoQ](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/))
+
+## 4. AI Assistants as the SaaS Interface
+Complex serverless and cloud services are exposing **embedded AI side-kicks** (e.g., Supabase AI, Vercel’s v0.dev) that understand the user’s current state and can *execute* actions, not just explain them.  ([AI Trends Disrupting Software Teams - InfoQ](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/))  SaaS vendors that ignore this pattern risk disruption by AI-native competitors with friction-free onboarding.  ([AI Trends Disrupting Software Teams - InfoQ](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/))
+
+## 5. Rise of Agentic Systems
+The frontier is networks of autonomous agents (AutoGPT, LangGraph, Dapr Agents) that plan, coordinate and carry out multi-step business tasks.  ([AI Trends Disrupting Software Teams - InfoQ](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/))  Success demands new skills: agent design patterns, LLM observability, secure orchestration and continuous evaluation.  Organisations must either up-skill existing teams or hire talent fluent in agentic architectures.  ([AI Trends Disrupting Software Teams - InfoQ](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/))
+
+## How to Respond
+| Role | Adaptation playbook |
+|------|--------------------|
+| **Developers** | Master prompt-engineering, system design and AI code-review; treat copilots as partners, not oracles.  ([AI Trends Disrupting Software Teams - InfoQ](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/)) |
+| **Ops / SRE** | Deploy AI-driven observability, automate first-line remediation, keep humans in the escalation loop.  ([AI Trends Disrupting Software Teams - InfoQ](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/)) |
+| **Tech writers** | Use AI to generate drafts, focus on dynamic content and conversation flows.  ([AI Trends Disrupting Software Teams - InfoQ](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/)) |
+| **SaaS PMs** | Embed context-aware assistants, rethink product-led growth funnels around natural-language UIs.  ([AI Trends Disrupting Software Teams - InfoQ](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/)) |
+| **Architects / Platform Eng.** | Learn agent orchestration frameworks, build golden paths for AI workloads, instrument LLM metrics.  ([AI Trends Disrupting Software Teams - InfoQ](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/)) |
+
+**Bottom line:** AI will not replace software teams, but teams that learn to *delegate wisely* to AI—coding, ops, docs, SaaS UX and multi-agent coordination—will outpace those that don’t.
+
+
 ## 2025-03
 
 - [x] [Getting Started: Model Context Protocol](https://medium.com/@kenzic/getting-started-model-context-protocol-e0a80dddff80)
