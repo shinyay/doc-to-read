@@ -5,6 +5,83 @@
 
 ## 2025-04
 
+- [x] [Legacy Modernization: Architecting Real-Time Systems Around a Mainframe](https://www.infoq.com/articles/architecting-real-time-systems-around-mainframe/)
+  - [infoq]()
+
+## Summary of **“Legacy Modernization: Architecting Real-Time Systems Around a Mainframe”**
+
+### Key Takeaways (from the article)
+
+| # | Point                                                 | Explanation                                                                                                                                                          |
+| - | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | **Decouple on three axes**                            | Technical, semantic (DDD), and organisational (Team Topologies) decoupling let National Grid escape a tightly-coupled mainframe without a full rewrite. ([InfoQ][1]) |
+| 2 | **Change Data Capture (CDC) ⇒ “System-of-Reference”** | Streaming DB2 changes into Kafka gave near-real-time data to downstream services, eliminating most synchronous mainframe calls. ([InfoQ][1])                         |
+| 3 | **GraphQL over REST & BFF sprawl**                    | A stitched GraphQL super-schema let front-ends fetch exactly what they needed and killed dozens of bespoke BFFs. ([InfoQ][1])                                        |
+| 4 | **Team Topologies alignment**                         | Stream-aligned, enablement, and complicated-subsystem teams mapped cleanly onto bounded contexts, cutting coordination cost. ([InfoQ][1])                            |
+| 5 | **Incremental hybrid rollout**                        | Edge routing and release-train automation enabled a strangler-fig migration—no “big-bang” weekend cut-over. ([InfoQ][1])                                             |
+
+---
+
+## Deep-Dive Insights & Architectural Lessons
+
+### 1. **Treat CDC + Event Streams as the Modern Core**
+
+*CDC isn’t just an “integration trick”; it becomes the heartbeat of your new platform.*
+
+* **Pattern**: Mainframe → CDC → Kafka → Domain processors → Doc DB (Cosmos/Mongo).
+* **Why it works**: Read-side scale, graceful degradation when the mainframe is down, and versioned domain models independent of COBOL schemas.
+* **Watch-outs**: Batch jobs can flood your stream; throttle or separate “batch” topics from “operational” ones. ([InfoQ][1])
+
+### 2. **DDD + GraphQL = Anti-BFF Medicine**
+
+GraphQL lets each product team compose its *own* view; DDD keeps the schema business-oriented, not mainframe-oriented.
+
+> **Tip:** Start with stitched schemas for speed, but move to *federated* GraphQL once the graph grows—exactly the pain National Grid felt later. ([InfoQ][1])
+
+### 3. **Organisation IS Architecture**
+
+Aligning teams to bounded contexts (Team Topologies) yields:
+
+* Clear ownership of code + schema + SLIs.
+* Faster flow with fewer hand-offs.
+* A natural “strangler” path—each stream-aligned team decommissions its slice of the monolith as capability migrates. ([InfoQ][1])
+
+### 4. **Anti-Corruption Saga for Write-Backs**
+
+For commands that *must* hit the mainframe (e.g., “Submit Payment”), National Grid wrapped a **parallel saga**:
+
+1. Front-end posts command → orchestrator writes **state-machine doc**.
+2. Integration service converts event → mainframe transaction.
+3. Mainframe response & CDC update race back.
+4. API layer merges *state* + *CDC* to present one consistent view.
+
+That dual-signal reconciliation avoids “ghost payments” and keeps eventual consistency understandable. ([InfoQ][1])
+
+### 5. **Release-Train + Feature Flags → Continuous Strangle**
+
+Thirty-plus repos, trunk-based dev, and a “deployment repo” (Kustomize) let five teams ship together every sprint while routing only a subset of users to UWP 2.0. Value flows; risk stays capped. ([InfoQ][1])
+
+---
+
+## How to Apply These Lessons to *Your* Modernisation
+
+1. **Map coupling hotspots** – Identify synchronous choke-points; target them with CDC first.
+2. **Stand up a thin “system-of-reference”** – Even a single high-value aggregate proves the concept.
+3. **Bounded-context first, tech second** – Let DDD workshops drive your schema; choose GraphQL/REST afterwards.
+4. **Create a mainframe integration team (complicated-subsystem)** – Shield product teams from green-screen nightmares.
+5. **Invest in observability on day 1** – Tracing + correlation IDs across event chains is non-negotiable.
+6. **Plan for schema evolution** – Versioned events + contract tests keep CDC streams evergreen.
+7. **Govern via KPIs, not milestones** – Track call-centre tickets, page-load latency, and mainframe MIPS saved; fund what moves the needle.
+
+---
+
+### Final Thought
+
+Modernising a mainframe isn’t about killing it overnight—it’s about **relentlessly reducing blast-radius and cognitive load** until the legacy core is just another bounded context. National Grid shows that with CDC, event-driven design, and Team Topologies, you can reach cloud-native agility while the mainframe quietly hums in the background.
+
+[1]: https://www.infoq.com/articles/architecting-real-time-systems-around-mainframe/ "Legacy Modernization: Architecting Real-Time Systems Around a Mainframe - InfoQ"
+
+
 - [x] [AI Trends Disrupting Software Teams](https://www.infoq.com/articles/ai-trends-disrupting-software-teams/)
   - [infoq]()
 
